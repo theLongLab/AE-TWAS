@@ -1,0 +1,11 @@
+﻿Method,Unique_Total,Unique_Success,Unique_Success_Rate,disease
+Standard TWAS Unique,554,1,0.0018,T1D
+AE-TWAS Unique,855,5,0.0058,T1D
+Standard TWAS Unique,554,0,0.0000,CD
+AE-TWAS Unique,855,2,0.0023,CD
+Standard TWAS Unique,554,1,0.0018,RA
+AE-TWAS Unique,855,2,0.0023,RA
+Standard TWAS Unique,554,15,0.0271,ASD
+AE-TWAS Unique,855,55,0.0643,ASD
+Standard TWAS Unique,554,5,0.0090,SCZ
+AE-TWAS Unique,855,34,0.0398,SCZ

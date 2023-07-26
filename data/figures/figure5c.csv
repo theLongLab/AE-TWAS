@@ -1,0 +1,11 @@
+﻿Method,Unique_Total,Unique_Success,Unique_Success_Rate,disease
+Before,554,33,0.0596,T1D
+After,855,65,0.076,T1D
+Before,554,29,0.0523,CD
+After,855,59,0.069,CD
+Before,554,52,0.0939,RA
+After,855,104,0.1216,RA
+Before,554,16,0.0289,ASD
+After,855,44,0.0515,ASD
+Before,554,63,0.1137,SCZ
+After,855,113,0.1322,SCZ
