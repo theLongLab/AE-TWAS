@@ -24,17 +24,20 @@ Transcriptome-wide association study (TWAS) is an emerging model leveraging gene
   - WebGestaltR
   - data.table
   - biomaRt
+  - WCGNA
 
 ## Installation
 **Step1:** Preprocess transcriptome data by clustering genes into distinct modules using weighted gene co-expression network analysis (WGCNA).
 
 We chose whole-blood gene expression data with 670 subjects as transcriptome and used gencode.v26.GRCh38.genes.gtf as gene model file downloaded from Genotype-Tissue Expression Project version 8 (GTEx v8) (https://gtexportal.org/home/datasets). Covariates, including genotyping principal components (PCs), were obtained from GTEx portal (https://gtexportal.org/home/datasets). For each gene, we adjusted the gene expression for the top five genotyping PCs, age, sex, sequencing platform, PCR protocol, and 60 confounding factors using a probabilistic estimation of expression residuals (PEER) analysis. There is a description of how to download and use the PEER tool: https://github.com/PMBio/peer/wiki/Tutorial.
 
-WGCNA is an R package consisting of a comprehensive collection of R functions for performing various aspects of weighted correlation network analysis. Users need to first install R and R studio, and then install the WGCNA package (https://cran.r-project.org/web/packages/WGCNA/WGCNA.pdf). We followed a step-by-step protocol for network construction and module detection. The power $\beta$ in adjacency matrix was set as 16, which was the lowest at which the scale-free topology fit index reached 0.8.
+WGCNA is an R package consisting of a comprehensive collection of R functions for performing various aspects of weighted correlation network analysis. We followed a step-by-step protocol for network construction and module detection. The power $\beta$ in adjacency matrix was set as 16, which was the lowest at which the scale-free topology fit index reached 0.8.
 
 **Step2:** Apply a seven-layer conventional AE to the genes within each module clustered by WGCNA.
 
-We used the PyTorch package to train AE models: https://pytorch.org/. The seven-layer conventional AE consists of one input layer, one output layer, and five hidden layers. Within each module, let $Z$ represents the original input and $Z'$  is the reconstructed output. We refer $Z'$ as the AE-transformed transcriptome. Let $q$ be the number of nodes in the input and output layers, then the number of nodes in each of the five hidden layers are $q/2$, $q/4$, $q/8$, $q/4$, and $q/2$ respectively.
+We used the PyTorch package to train AE models: https://pytorch.org/. The seven-layer conventional AE consists of one input layer, one output layer, and five hidden layers. Within each module, let $Z$ represents the original input and $Z'$  is the reconstructed output. We refer $Z'$ as the AE-transformed transcriptome. Let $q$ be the number of nodes in the input and output layers, then the number of nodes in each of the five hidden layers are $q/2$, $q/4$, $q/8$, $q/4$, and $q/2$ respectively.  
+
+`python ./code/AE_WB.py`
 
 **Step3:** Use the transformed transcriptome $Z'$ to carry out TWAS. It employs the BSLMM to train the genotype-expression model in the reference dataset and then associates the predicted gene expressions to the traits in the target GWAS dataset.
 
