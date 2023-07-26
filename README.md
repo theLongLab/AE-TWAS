@@ -4,18 +4,39 @@ Transcriptome-wide association study (TWAS) is an emerging model leveraging gene
 
 ![My Image](Fig1.png)
 
+## Prerequisites
+
+- **Required Software**
+  - Python 3.8.3 and above
+  - R 1.4.1 and above
+
+- **Python Libraries**
+  - numpy
+  - pandas
+  - shap
+  - sklearn
+  - torch
+  - torchvision
+  - matplotlib
+  - pytorch environment can be easily built using "Anaconda" with the command "conda env create -f pytorch.yml"
+
+- **R Libraries**
+  - WebGestaltR
+  - data.table
+  - biomaRt
+
 ## Installation
 **Step1:** Preprocess transcriptome data by clustering genes into distinct modules using weighted gene co-expression network analysis (WGCNA).
 
-We chose whole-blood gene expression data with 670 subjects as transcriptome and used gencode.v26.GRCh38.genes.gtf as gene model file downloaded from Genotype-Tissue Expression Project version 8 (GTEx v8) (https://gtexportal.org/home/datasets). Covariates, including genotyping principal components (PCs), were obtained from GTEx portal (https://gtexportal.org/home/datasets). For each gene, we adjusted the gene expression for the top five genotyping PCs, age, sex, sequencing platform, PCR protocol, and 60 confounding factors using a probabilistic estimation of expression residuals (PEER) analysis. There is a description of how to download and use the PEER tool: https://github.com/PMBio/peer/wiki/Tutorial. 
+We chose whole-blood gene expression data with 670 subjects as transcriptome and used gencode.v26.GRCh38.genes.gtf as gene model file downloaded from Genotype-Tissue Expression Project version 8 (GTEx v8) (https://gtexportal.org/home/datasets). Covariates, including genotyping principal components (PCs), were obtained from GTEx portal (https://gtexportal.org/home/datasets). For each gene, we adjusted the gene expression for the top five genotyping PCs, age, sex, sequencing platform, PCR protocol, and 60 confounding factors using a probabilistic estimation of expression residuals (PEER) analysis. There is a description of how to download and use the PEER tool: https://github.com/PMBio/peer/wiki/Tutorial.
 
 WGCNA is an R package consisting of a comprehensive collection of R functions for performing various aspects of weighted correlation network analysis. Users need to first install R and R studio, and then install the WGCNA package (https://cran.r-project.org/web/packages/WGCNA/WGCNA.pdf). We followed a step-by-step protocol for network construction and module detection. The power $\beta$ in adjacency matrix was set as 16, which was the lowest at which the scale-free topology fit index reached 0.8.
 
-**Step2:** Apply a seven-layer conventional AE to the genes within each module clustered by WGCNA. 
+**Step2:** Apply a seven-layer conventional AE to the genes within each module clustered by WGCNA.
 
-We used the PyTorch package to train AE models: https://pytorch.org/. The seven-layer conventional AE consists of one input layer, one output layer, and five hidden layers. Within each module, let $Z$ represents the original input and $Z'$  is the reconstructed output. We refer $Z'$ as the AE-transformed transcriptome. Let $q$ be the number of nodes in the input and output layers, then the number of nodes in each of the five hidden layers are $q/2$, $q/4$, $q/8$, $q/4$, and $q/2$ respectively. 
+We used the PyTorch package to train AE models: https://pytorch.org/. The seven-layer conventional AE consists of one input layer, one output layer, and five hidden layers. Within each module, let $Z$ represents the original input and $Z'$  is the reconstructed output. We refer $Z'$ as the AE-transformed transcriptome. Let $q$ be the number of nodes in the input and output layers, then the number of nodes in each of the five hidden layers are $q/2$, $q/4$, $q/8$, $q/4$, and $q/2$ respectively.
 
-**Step3:** Use the transformed transcriptome $Z'$ to carry out TWAS. It employs the BSLMM to train the genotype-expression model in the reference dataset and then associates the predicted gene expressions to the traits in the target GWAS dataset. 
+**Step3:** Use the transformed transcriptome $Z'$ to carry out TWAS. It employs the BSLMM to train the genotype-expression model in the reference dataset and then associates the predicted gene expressions to the traits in the target GWAS dataset.
 
 **3-1:** Use BSLMM to train the genotype-expression model in the reference dataset:  
 GTEx whole genome sequencing data: https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs000424.v9.p2  
@@ -34,7 +55,7 @@ Elastic net model used to perform gene-trait association: https://github.com/hak
 GCTA is used to calculate gene expression heritability: https://yanglab.westlake.edu.cn/software/gcta/#Overview  
 `Rscript ./code/post1.R`
 
-### Calculation of gene pairs’ correlation and gene’s connectivity 
+### Calculation of gene pairs’ correlation and gene’s connectivity
 `Rscript ./code/post2.R`
 
 ### Functional verification of discovered genes
