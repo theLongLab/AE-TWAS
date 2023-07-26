@@ -1,5 +1,5 @@
 # Users’ Manual of AE-TWAS
-# AE-TWAS Overview
+## Overview
 
 ## Installation
 
