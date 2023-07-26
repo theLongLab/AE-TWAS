@@ -38,7 +38,7 @@ GCTA is used to calculate gene expression heritability: https://yanglab.westlake
 `Rscript ./code/post2.R`
 
 ### Functional verification of discovered genes
-DisGeNET repository used to perform functional gene-disease analysis: https://www.disgenet.org/
+DisGeNET repository used to perform functional gene-disease analysis: https://www.disgenet.org/  
 `Rscript ./code/post3.R`
 
 ### Figures
