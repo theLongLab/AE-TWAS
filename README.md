@@ -31,7 +31,9 @@ Transcriptome-wide association study (TWAS) is an emerging model leveraging gene
 
 We chose whole-blood gene expression data with 670 subjects as transcriptome and used gencode.v26.GRCh38.genes.gtf as gene model file downloaded from Genotype-Tissue Expression Project version 8 (GTEx v8) (https://gtexportal.org/home/datasets). Covariates, including genotyping principal components (PCs), were obtained from GTEx portal (https://gtexportal.org/home/datasets). For each gene, we adjusted the gene expression for the top five genotyping PCs, age, sex, sequencing platform, PCR protocol, and 60 confounding factors using a probabilistic estimation of expression residuals (PEER) analysis. There is a description of how to download and use the PEER tool: https://github.com/PMBio/peer/wiki/Tutorial.
 
-WGCNA is an R package consisting of a comprehensive collection of R functions for performing various aspects of weighted correlation network analysis. We followed a step-by-step protocol for network construction and module detection. The power $\beta$ in adjacency matrix was set as 16, which was the lowest at which the scale-free topology fit index reached 0.8.
+WGCNA is an R package consisting of a comprehensive collection of R functions for performing various aspects of weighted correlation network analysis. We followed a step-by-step protocol for network construction and module detection. The power $\beta$ in adjacency matrix was set as 16, which was the lowest at which the scale-free topology fit index reached 0.8.  
+
+`Rscript ./code/GTEX_WB_Trial3_V1.R`
 
 **Step2:** Apply a seven-layer conventional AE to the genes within each module clustered by WGCNA.
 
@@ -56,7 +58,7 @@ Elastic net model used to perform gene-trait association: https://github.com/hak
 ## Post analysis
 ### Calculation of expression heritability
 GCTA is used to calculate gene expression heritability: https://yanglab.westlake.edu.cn/software/gcta/#Overview  
-`Rscript ./code/post1.R`
+`python ./code/Plink_GCTA_h2.py` `Rscript ./code/post1.R`
 
 ### Calculation of gene pairs’ correlation and gene’s connectivity
 `Rscript ./code/post2.R`
