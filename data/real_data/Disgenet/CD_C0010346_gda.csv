@@ -1,0 +1,1383 @@
+﻿Disease,Disease_id,Gene,Gene_id,UniProt,Gene_Full_Name,Protein_Class,N_diseases_g,DSI_g,DPI_g,pLI,Score_gda,EL_gda,EI_gda,N_PMIDs,N_SNPs_gda,First_Ref,Last_Ref
+Crohn Disease,C0010346,NOD2,64127,Q9HC29,nucleotide binding oligomerization domain containing 2,Enzyme,434,0.423,0.923,1.98E-30,1,moderate,0.937,714,75,1998,2019
+Crohn Disease,C0010346,IL23R,149233,Q5VWK5,interleukin 23 receptor,Signaling,306,0.466,0.769,0.00055961,0.7,,0.95,120,29,2006,2020
+Crohn Disease,C0010346,HLA-DRB1,3123,P01911,"major histocompatibility complex, class II, DR beta 1",Immune response,1018,0.333,0.923,0.0010997,0.7,,0.88,25,5,1994,2019
+Crohn Disease,C0010346,IRGM,345611,A1A4Y4,immunity related GTPase M,,57,0.617,0.538,,0.7,,0.939,66,11,2007,2020
+Crohn Disease,C0010346,IL10,3586,P22301,interleukin 10,,1679,0.281,0.923,0.0058874,0.7,strong,0.962,78,5,1996,2020
+Crohn Disease,C0010346,ATG16L1,55054,Q676U5,autophagy related 16 like 1,,120,0.543,0.769,0.96452,0.7,,0.953,150,23,2001,2020
+Crohn Disease,C0010346,TYK2,7297,P29597,tyrosine kinase 2,Kinase,172,0.505,0.769,4.50E-08,0.62,,0.8,5,4,2010,2016
+Crohn Disease,C0010346,IL12B,3593,P29460,interleukin 12B,Signaling,249,0.48,0.885,0.00011439,0.6,,1,19,3,2004,2018
+Crohn Disease,C0010346,LRRK2,120892,Q5S007,leucine rich repeat kinase 2,Kinase,231,0.51,0.808,2.58E-30,0.5,,1,24,10,2008,2019
+Crohn Disease,C0010346,FUT2,2524,Q10981,fucosyltransferase 2,Enzyme,126,0.552,0.731,5.32E-14,0.5,,1,17,6,2010,2020
+Crohn Disease,C0010346,JAK2,3717,O60674,Janus kinase 2,Kinase,644,0.385,0.885,0.65372,0.5,,1,12,3,2008,2018
+Crohn Disease,C0010346,MST1,4485,P26927,macrophage stimulating 1,Enzyme,281,0.465,0.885,4.78E-19,0.5,,1,17,1,2008,2018
+Crohn Disease,C0010346,PTPN2,5771,P17706,protein tyrosine phosphatase non-receptor type 2,,134,0.538,0.692,0.99953,0.5,,1,31,8,2007,2018
+Crohn Disease,C0010346,SLC22A4,6583,Q9H015,solute carrier family 22 member 4,Transporter,90,0.603,0.769,1.83E-08,0.5,,0.896,48,5,2003,2017
+Crohn Disease,C0010346,STAT3,6774,P40763,signal transducer and activator of transcription 3,Nucleic acid binding,1193,0.32,0.923,1,0.5,strong,0.969,32,9,2008,2019
+Crohn Disease,C0010346,TLR4,7099,O00206,toll like receptor 4,,1174,0.321,0.962,4.61E-09,0.5,,0.94,50,6,2004,2019
+Crohn Disease,C0010346,IL2RA,3559,P01589,interleukin 2 receptor subunit alpha,Receptor,540,0.389,0.885,0.054709,0.46,,1,11,6,1999,2018
+Crohn Disease,C0010346,NCF4,4689,Q15080,neutrophil cytosolic factor 4,,58,0.644,0.615,9.02E-08,0.45,,0.714,7,1,2007,2017
+Crohn Disease,C0010346,BACH2,60468,Q9BYV9,BTB domain and CNC homolog 2,,130,0.539,0.731,0.99803,0.44,,1,8,2,2010,2018
+Crohn Disease,C0010346,CCNY,219771,Q8ND76,cyclin Y,,26,0.711,0.269,0.80672,0.43,,1,4,2,2008,2011
+Crohn Disease,C0010346,SMAD3,4088,P84022,SMAD family member 3,Transcription factor,470,0.415,0.923,0.79796,0.43,,1,8,3,2010,2019
+Crohn Disease,C0010346,ERAP2,64167,Q6P179,endoplasmic reticulum aminopeptidase 2,Enzyme,58,0.615,0.577,1.00E-28,0.42,,1,7,6,2010,2017
+Crohn Disease,C0010346,NLRP3,114548,Q96P20,NLR family pyrin domain containing 3,,805,0.361,0.962,0.00081103,0.4,,1,20,4,2002,2018
+Crohn Disease,C0010346,CRP,1401,P02741,C-reactive protein,,1483,0.299,0.962,0.0036969,0.4,,0.989,94,1,2001,2020
+Crohn Disease,C0010346,NKX2-3,159296,Q8TAU0,NK2 homeobox 3,Transcription factor,22,0.716,0.231,0.95047,0.4,,0.944,18,3,2007,2019
+Crohn Disease,C0010346,DENND1B,163486,Q6P3S1,DENN domain containing 1B,,19,0.716,0.308,0.20408,0.4,,1,4,4,2010,2017
+Crohn Disease,C0010346,DNMT3A,1788,Q9Y6K1,DNA methyltransferase 3 alpha,,350,0.445,0.846,7.35E-39,0.4,,1,2,2,2010,2016
+Crohn Disease,C0010346,IFNG,3458,P01579,interferon gamma,,1519,0.288,0.962,0.47156,0.4,,0.93,43,2,1993,2020
+Crohn Disease,C0010346,IL6,3569,P05231,interleukin 6,,2367,0.248,0.962,0.31536,0.4,,0.976,42,1,1992,2019
+Crohn Disease,C0010346,PPARG,5468,P37231,peroxisome proliferator activated receptor gamma,Nuclear receptor,877,0.358,0.885,0.029194,0.4,,1,11,3,2005,2017
+Crohn Disease,C0010346,SLC11A1,6556,P49279,solute carrier family 11 member 1,Transporter,141,0.525,0.846,1.55E-19,0.4,,0.75,12,1,1997,2019
+Crohn Disease,C0010346,SLC22A5,6584,O76082,solute carrier family 22 member 5,Transporter,103,0.608,0.731,5.27E-16,0.4,,0.912,34,3,2003,2016
+Crohn Disease,C0010346,TNF,7124,P01375,tumor necrosis factor,Signaling,2724,0.231,0.962,0.8033,0.4,,0.95,281,5,1996,2020
+Crohn Disease,C0010346,LEP,3952,P41159,leptin,,931,0.349,0.846,0.46491,0.38,,1,8,0,2006,2019
+Crohn Disease,C0010346,IGF1,3479,P05019,insulin like growth factor 1,,1206,0.318,0.885,0.2716,0.37,,1,7,0,2001,2018
+Crohn Disease,C0010346,TLR9,54106,Q9NR96,toll like receptor 9,,457,0.411,0.885,9.81E-06,0.37,,1,8,3,2004,2018
+Crohn Disease,C0010346,CCL2,6347,P13500,C-C motif chemokine ligand 2,Signaling,1157,0.321,0.962,0.60786,0.36,,1,7,0,1995,2016
+Crohn Disease,C0010346,MTHFR,4524,P42898,methylenetetrahydrofolate reductase,,985,0.337,0.885,3.21E-10,0.34,,1,4,1,2007,2016
+Crohn Disease,C0010346,FN1,2335,P02751,fibronectin 1,Signaling,724,0.365,0.962,0.0014045,0.33,,1,4,0,2007,2010
+Crohn Disease,C0010346,FAM92B,339145,Q6ZTR7,family with sequence similarity 92 member B,,6,0.839,0.038,4.77E-10,0.33,,0.5,4,0,2007,2012
+Crohn Disease,C0010346,MUC2,4583,Q02817,"mucin 2, oligomeric mucus/gel-forming",Enzyme modulator,225,0.486,0.808,9.43E-10,0.33,,1,3,1,1999,2006
+Crohn Disease,C0010346,PHOX2B,8929,Q99453,paired like homeobox 2B,,128,0.565,0.731,0.93755,0.33,,1,4,0,2007,2011
+Crohn Disease,C0010346,ADIPOQ,9370,Q15848,"adiponectin, C1Q and collagen domain containing",,679,0.376,0.885,4.64E-09,0.33,,1,4,0,2006,2018
+Crohn Disease,C0010346,TAGAP,117289,Q8N103,T cell activation RhoGTPase activating protein,Enzyme modulator,24,0.7,0.462,0.84621,0.32,,1,3,0,2010,2014
+Crohn Disease,C0010346,FPR2,2358,P25090,formyl peptide receptor 2,G-protein coupled receptor,124,0.547,0.769,0.40137,0.31,,1,1,0,2011,2011
+Crohn Disease,C0010346,TCF7,6932,P36402,transcription factor 7,,108,0.556,0.654,0.0053732,0.31,,1,1,0,2014,2014
+Crohn Disease,C0010346,GPBAR1,151306,Q8TDU6,G protein-coupled bile acid receptor 1,G-protein coupled receptor,122,0.548,0.731,1.36E-09,0.3,,1,1,0,2013,2013
+Crohn Disease,C0010346,PPARA,5465,Q07869,peroxisome proliferator activated receptor alpha,Nuclear receptor,408,0.432,0.885,0.030182,0.3,,1,1,0,2011,2011
+Crohn Disease,C0010346,VTN,7448,P04004,vitronectin,,178,0.509,0.769,1.50E-10,0.3,,1,1,0,2010,2010
+Crohn Disease,C0010346,NR1H4,9971,Q96RI1,nuclear receptor subfamily 1 group H member 4,Nuclear receptor,187,0.513,0.808,0.00093892,0.3,,1,1,0,2011,2011
+Crohn Disease,C0010346,PTPN22,26191,Q9Y2R2,protein tyrosine phosphatase non-receptor type 22,,400,0.438,0.846,3.49E-21,0.2,,0.8,20,2,2005,2018
+Crohn Disease,C0010346,NFKB1,4790,P19838,nuclear factor kappa B subunit 1,Transcription factor,551,0.396,0.923,1,0.2,,1,12,3,1998,2018
+Crohn Disease,C0010346,TNFRSF1A,7132,P19438,TNF receptor superfamily member 1A,,487,0.409,0.923,0.9949,0.2,,1,11,2,2002,2019
+Crohn Disease,C0010346,TNFSF15,9966,O95150,TNF superfamily member 15,Signaling,143,0.531,0.692,0.0028159,0.2,,0.979,47,10,2003,2019
+Crohn Disease,C0010346,CD40,958,P25942,CD40 molecule,,528,0.396,0.846,0.84603,0.19,,0.9,10,1,1998,2017
+Crohn Disease,C0010346,LACC1,144811,Q8IV20,laccase domain containing 1,,35,0.7,0.423,0.000011655,0.17,,1,11,2,2008,2018
+Crohn Disease,C0010346,IL27,246778,Q8NEV9,interleukin 27,,286,0.457,0.808,0.78232,0.17,,1,10,3,2005,2019
+Crohn Disease,C0010346,HLA-B,3106,P01889,"major histocompatibility complex, class I, B",,706,0.379,0.885,0.000038642,0.17,,1,9,3,2001,2017
+Crohn Disease,C0010346,ZNF365,22891,Q70YC4;Q70YC5,zinc finger protein 365,,60,0.641,0.654,0.00046761,0.16,,1,8,3,2010,2016
+Crohn Disease,C0010346,STAT4,6775,Q14765,signal transducer and activator of transcription 4,Nucleic acid binding,316,0.471,0.769,0.7662,0.16,,0.857,7,5,2008,2015
+Crohn Disease,C0010346,NOS2,4843,P35228,nitric oxide synthase 2,,783,0.364,0.923,4.03E-15,0.15,,1,6,2,1997,2016
+Crohn Disease,C0010346,NUDT15,55270,Q9NV35,nudix hydrolase 15,,33,0.67,0.538,0.0016748,0.15,,1,6,1,2014,2018
+Crohn Disease,C0010346,TNFAIP3,7128,P21580,TNF alpha induced protein 3,Enzyme,212,0.481,0.808,0.99972,0.15,,1,6,2,2010,2020
+Crohn Disease,C0010346,TNFRSF6B,8771,O95407,TNF receptor superfamily member 6b,,145,0.528,0.731,0.000003874,0.15,,1,7,2,2009,2017
+Crohn Disease,C0010346,AHR,196,P35869,aryl hydrocarbon receptor,Transcription factor,532,0.41,0.923,0.99999,0.14,,1,5,5,2016,2019
+Crohn Disease,C0010346,FOXO3,2309,O43524,forkhead box O3,,381,0.431,0.808,0.98806,0.14,,0.8,5,2,2013,2017
+Crohn Disease,C0010346,CARD9,64170,Q9H257,caspase recruitment domain family member 9,,103,0.566,0.654,8.15E-13,0.14,,1,9,5,2008,2019
+Crohn Disease,C0010346,ATG16L2,89849,Q8NAA4,autophagy related 16 like 2,,12,0.769,0.462,4.69E-16,0.14,,1,4,1,2014,2019
+Crohn Disease,C0010346,SP140,11262,Q13342,SP140 nuclear body protein,,32,0.691,0.577,5.00E-08,0.13,,0.875,8,4,2010,2018
+Crohn Disease,C0010346,CYLD,1540,Q9NQC7,CYLD lysine 63 deubiquitinase,Enzyme,211,0.498,0.846,0.99993,0.13,,1,4,7,2007,2019
+Crohn Disease,C0010346,MUC19,283463,Q7Z5P9,"mucin 19, oligomeric",,16,0.736,0.615,6.22E-32,0.13,,1,4,4,2010,2018
+Crohn Disease,C0010346,IL19,29949,Q9UHD0,interleukin 19,,103,0.558,0.769,0.00004325,0.13,,1,4,6,2012,2016
+Crohn Disease,C0010346,PER3,8863,P56645,period circadian regulator 3,Transcription factor,122,0.559,0.731,1.37E-17,0.13,,1,4,1,2010,2016
+Crohn Disease,C0010346,MAP3K8,1326,P41279,mitogen-activated protein kinase kinase kinase 8,Kinase,168,0.516,0.846,0.96825,0.12,,1,4,1,2012,2017
+Crohn Disease,C0010346,FCGR2A,2212,P12318,Fc fragment of IgG receptor IIa,Cell adhesion,227,0.48,0.769,2.01E-06,0.12,,1,3,2,2010,2016
+Crohn Disease,C0010346,HLA-DQB1,3119,P01920,"major histocompatibility complex, class II, DQ beta 1",Immune response,504,0.407,0.885,0.0089259,0.12,,1,3,1,1996,2013
+Crohn Disease,C0010346,IFNGR2,3460,P38484,interferon gamma receptor 2,Receptor,71,0.597,0.577,0.95281,0.12,,1,6,3,2012,2018
+Crohn Disease,C0010346,IL1R1,3554,P14778,interleukin 1 receptor type 1,Receptor,184,0.509,0.769,0.15126,0.12,,1,3,1,1999,2018
+Crohn Disease,C0010346,IL6R,3570,P08887,interleukin 6 receptor,Signaling,261,0.471,0.846,0.000031681,0.12,,1,3,3,2014,2018
+Crohn Disease,C0010346,MLN,4295,P12872,motilin,,46,0.656,0.577,0.0041058,0.12,,1,3,1,1998,2014
+Crohn Disease,C0010346,POU5F1,5460,Q01860,POU class 5 homeobox 1,,328,0.441,0.846,0.95371,0.12,,1,3,1,2012,2015
+Crohn Disease,C0010346,ITLN1,55600,Q8WWA0,intelectin 1,,45,0.656,0.577,3.41E-06,0.12,,1,3,3,2005,2013
+Crohn Disease,C0010346,BTNL2,56244,Q9UIR0,butyrophilin like 2,Enzyme modulator,145,0.546,0.808,8.56E-11,0.12,,0.667,3,2,2007,2014
+Crohn Disease,C0010346,PSMB9,5698,P28065,proteasome 20S subunit beta 9,,167,0.514,0.808,0.0027499,0.12,,1,3,1,2006,2013
+Crohn Disease,C0010346,ZMIZ1,57178,Q9ULJ6,zinc finger MIZ-type containing 1,,96,0.588,0.615,0.99937,0.12,,1,8,6,2010,2017
+Crohn Disease,C0010346,UBE2L3,7332,P68036,ubiquitin conjugating enzyme E2 L3,Enzyme,56,0.644,0.615,0.83844,0.12,,1,6,4,2010,2017
+Crohn Disease,C0010346,IL18RAP,8807,O95256,interleukin 18 receptor accessory protein,Receptor,41,0.674,0.577,0.0021796,0.12,,1,4,2,2008,2015
+Crohn Disease,C0010346,ATG5,9474,Q9H1Y0,autophagy related 5,Transporter,282,0.462,0.885,0.97758,0.12,,1,3,1,2014,2016
+Crohn Disease,C0010346,CDH13,1012,P55290,cadherin 13,,205,0.501,0.846,0.0007058,0.11,,1,2,1,2006,2017
+Crohn Disease,C0010346,TRAP1,10131,Q12931,TNF receptor associated protein 1,Chaperone,90,0.59,0.615,1.60E-29,0.11,,1,1,1,2019,2019
+Crohn Disease,C0010346,CD96,10225,P40200,CD96 molecule,,109,0.592,0.692,1.39E-11,0.11,,1,1,1,2019,2019
+Crohn Disease,C0010346,SNX20,124460,Q7Z614,sorting nexin 20,,4,0.89,0.077,0.000012791,0.11,,1,3,3,2007,2017
+Crohn Disease,C0010346,ZPBP2,124626,Q6X784,zona pellucida binding protein 2,,20,0.729,0.308,1.22E-08,0.11,,1,2,1,2015,2016
+Crohn Disease,C0010346,PUS10,150962,Q3MIT2,pseudouridine synthase 10,,17,0.736,0.346,7.88E-14,0.11,,1,7,4,2008,2017
+Crohn Disease,C0010346,EPHB4,2050,P54760,EPH receptor B4,Kinase,157,0.524,0.692,0.013497,0.11,,1,2,1,2015,2019
+Crohn Disease,C0010346,ERN1,2081,O75460,endoplasmic reticulum to nucleus signaling 1,Kinase,163,0.513,0.808,0.99027,0.11,,1,2,1,2016,2017
+Crohn Disease,C0010346,ETS1,2113,P14921,"ETS proto-oncogene 1, transcription factor",Transcription factor,327,0.444,0.731,0.7816,0.11,,1,2,2,2013,2016
+Crohn Disease,C0010346,KIF21B,23046,O75037,kinesin family member 21B,Cellular structure,10,0.805,0.192,1.77E-06,0.11,,1,2,1,2008,2015
+Crohn Disease,C0010346,CLEC16A,23274,Q2KHT3,C-type lectin domain containing 16A,,67,0.612,0.654,0.27595,0.11,,1,2,2,2010,2016
+Crohn Disease,C0010346,NR5A2,2494,O00482,nuclear receptor subfamily 5 group A member 2,Nuclear receptor,116,0.563,0.731,0.23807,0.11,,1,2,1,2007,2016
+Crohn Disease,C0010346,GCKR,2646,Q14397,glucokinase regulator,,136,0.604,0.615,8.54E-19,0.11,,1,6,3,2008,2017
+Crohn Disease,C0010346,GPR35,2859,Q9HC97,G protein-coupled receptor 35,G-protein coupled receptor,102,0.587,0.654,0.0049273,0.11,,1,3,3,2015,2016
+Crohn Disease,C0010346,HGFAC,3083,Q04756,HGF activator,Enzyme,67,0.628,0.462,1.98E-08,0.11,,1,2,1,2015,2017
+Crohn Disease,C0010346,IRF6,3664,O14896,interferon regulatory factor 6,Transcription factor,233,0.486,0.769,0.99961,0.11,,1,2,1,2003,2017
+Crohn Disease,C0010346,ITGAL,3683,P20701,integrin subunit alpha L,,169,0.511,0.885,0.0043213,0.11,,1,2,1,2002,2016
+Crohn Disease,C0010346,ERAP1,51752,Q9NZ08,endoplasmic reticulum aminopeptidase 1,Enzyme,156,0.556,0.692,2.06E-26,0.11,,1,2,9,2012,2016
+Crohn Disease,C0010346,PLA2G4A,5321,P47712,phospholipase A2 group IVA,Enzyme,202,0.496,0.846,0.000059817,0.11,,1,2,1,1995,2015
+Crohn Disease,C0010346,PRKCB,5579,P05771,protein kinase C beta,Kinase,317,0.453,0.885,1,0.11,,1,2,1,2016,2016
+Crohn Disease,C0010346,PRKCQ,5588,Q04759,protein kinase C theta,Kinase,53,0.636,0.654,0.2972,0.11,,1,2,1,2016,2019
+Crohn Disease,C0010346,PRDM1,639,O75626,PR/SET domain 1,,126,0.538,0.731,0.9565,0.11,,1,2,2,2013,2016
+Crohn Disease,C0010346,TAP1,6890,Q03518,"transporter 1, ATP binding cassette subfamily B member",Transporter,181,0.5,0.808,5.34E-06,0.11,,1,2,1,2013,2019
+Crohn Disease,C0010346,RSPO3,84870,Q9BXY4,R-spondin 3,,64,0.653,0.423,0.089252,0.11,,1,4,2,2012,2017
+Crohn Disease,C0010346,TNFRSF14,8764,Q92956,TNF receptor superfamily member 14,,100,0.568,0.731,0.80752,0.11,,1,2,1,2011,2016
+Crohn Disease,C0010346,BSN,8927,Q9UPA5,bassoon presynaptic cytomatrix protein,,20,0.769,0.308,1,0.11,,1,6,8,2007,2016
+Crohn Disease,C0010346,P4HA2,8974,O15460,prolyl 4-hydroxylase subunit alpha 2,,50,0.653,0.577,1.97E-06,0.11,,1,2,2,2007,2007
+Crohn Disease,C0010346,PSTPIP1,9051,O43586,proline-serine-threonine phosphatase interacting protein 1,Cellular structure,54,0.65,0.577,2.46E-06,0.11,,1,1,0,2010,2010
+Crohn Disease,C0010346,IL1RL1,9173,Q01638,interleukin 1 receptor like 1,Receptor,117,0.547,0.731,1.44E-12,0.11,,1,2,1,2010,2017
+Crohn Disease,C0010346,ZNF300,91975,Q96RE9,zinc finger protein 300,,16,0.76,0.115,0.000011172,0.11,,1,3,1,2010,2017
+Crohn Disease,C0010346,CD6,923,P30203,CD6 molecule,Enzyme,216,0.489,0.808,0.000092695,0.11,,1,3,1,2007,2016
+Crohn Disease,C0010346,FADS2,9415,O95864,fatty acid desaturase 2,,140,0.575,0.692,0.99815,0.11,,1,2,2,2014,2017
+Crohn Disease,C0010346,FCHSD2,9873,O94868,FCH and double SH3 domains 2,,20,0.743,0.346,0.56618,0.11,,1,2,1,2013,2014
+Crohn Disease,C0010346,PSORS1C3,100130889,,psoriasis susceptibility 1 candidate 3,,16,0.769,0.269,,0.1,,1,1,1,2013,2013
+Crohn Disease,C0010346,SPATA48,100130988,A4D263,spermatogenesis associated 48,,13,0.76,0.231,3.77E-08,0.1,,1,2,1,2015,2016
+Crohn Disease,C0010346,SH2B3,10019,Q9UQQ2,SH2B adaptor protein 3,,212,0.527,0.692,0.00010289,0.1,,1,1,1,2016,2016
+Crohn Disease,C0010346,RTEL1-TNFRSF6B,100533107,,RTEL1-TNFRSF6B readthrough (NMD candidate),,32,0.682,0.385,,0.1,,1,3,2,2008,2017
+Crohn Disease,C0010346,SCAMP3,10067,O14828,secretory carrier membrane protein 3,Enzyme,6,0.89,0.077,0.0021904,0.1,,1,2,2,2010,2017
+Crohn Disease,C0010346,IFNG-AS1,100885789,,IFNG antisense RNA 1,,33,0.659,0.654,,0.1,,1,1,3,2016,2016
+Crohn Disease,C0010346,RASGRP1,10125,O95267,RAS guanyl releasing protein 1,Enzyme modulator,110,0.572,0.731,0.96554,0.1,,1,1,1,2015,2015
+Crohn Disease,C0010346,CRTC3-AS1,101926895,,CRTC3 antisense RNA 1,,13,0.792,0.077,,0.1,,1,1,1,2015,2015
+Crohn Disease,C0010346,LINC01475,101927324,,long intergenic non-protein coding RNA 1475,,14,0.78,0.077,,0.1,,1,2,4,2007,2007
+Crohn Disease,C0010346,LINC01250,101927554,,long intergenic non-protein coding RNA 1250,,14,0.743,0.231,,0.1,,1,1,1,2015,2015
+Crohn Disease,C0010346,LINC00824,101927774,,long intergenic non-protein coding RNA 824,,24,0.695,0.346,,0.1,,1,5,1,2010,2017
+Crohn Disease,C0010346,LINC01147,101928791,,long intergenic non-protein coding RNA 1147,,6,0.821,0.192,,0.1,,1,1,1,2016,2016
+Crohn Disease,C0010346,TSBP1-AS1,101929163,,TSBP1 and BTNL2 antisense RNA 1,,63,0.638,0.692,,0.1,,1,1,1,2014,2014
+Crohn Disease,C0010346,LINC00993,101929520,,long intergenic non-protein coding RNA 993,,17,0.729,0.269,,0.1,,1,1,1,2015,2015
+Crohn Disease,C0010346,RABEPK,10244,Q7Z6M1,Rab9 effector protein with kelch motifs,,112,0.553,0.692,2.84E-11,0.1,,0.882,17,0,1998,2020
+Crohn Disease,C0010346,GLYAT,10249,Q6IB77,glycine-N-acyltransferase,,27,0.729,0.462,3.64E-08,0.1,,1,2,1,2015,2016
+Crohn Disease,C0010346,LINC02863,102723741,,long intergenic non-protein coding RNA 2863,,10,0.821,0.154,,0.1,,1,1,1,2016,2016
+Crohn Disease,C0010346,CCR5AS,102724297,,CCR5 antisense RNA,,9,0.805,0.115,,0.1,,1,1,1,2016,2016
+Crohn Disease,C0010346,LANCL1,10314,O43813,LanC like 1,,113,0.552,0.692,1.08E-11,0.1,,0.882,17,0,1998,2020
+Crohn Disease,C0010346,TNIP1,10318,Q15025,TNFAIP3 interacting protein 1,,93,0.564,0.769,0.47559,0.1,,1,1,1,2016,2016
+Crohn Disease,C0010346,NOD1,10392,Q9Y239,nucleotide binding oligomerization domain containing 1,Enzyme,136,0.541,0.769,2.46E-18,0.1,,1,15,1,2002,2019
+Crohn Disease,C0010346,LINC02471,105369734,,long intergenic non-protein coding RNA 2471,,4,0.861,0.154,,0.1,,1,1,1,2008,2008
+Crohn Disease,C0010346,LINC02341,105370177,,long intergenic non-protein coding RNA 2341,,17,0.751,0.231,,0.1,,1,3,3,2010,2017
+Crohn Disease,C0010346,TAB2-AS1,105378049,,TAB2 antisense RNA 1,,2,1,0.038,,0.1,,1,1,1,2015,2015
+Crohn Disease,C0010346,XACT,105463123,,X active specific transcript,,3,0.89,0.077,,0.1,,1,1,1,2017,2017
+Crohn Disease,C0010346,RGS14,10636,O43566,regulator of G protein signaling 14,,24,0.751,0.346,0.0023174,0.1,,1,1,1,2015,2015
+Crohn Disease,C0010346,CD226,10666,Q15762,CD226 molecule,,124,0.548,0.769,0.03921,0.1,,1,1,1,2016,2016
+Crohn Disease,C0010346,LINC02128,107983964,,long intergenic non-protein coding RNA 2128,,3,1,0.038,,0.1,,1,1,1,2016,2016
+Crohn Disease,C0010346,LRRK2-DT,107984474,,LRRK2 divergent transcript,,6,0.861,0.154,,0.1,,1,1,1,2008,2008
+Crohn Disease,C0010346,NCF4-AS1,107985578,,NCF4 antisense RNA 1,,5,1,0.038,,0.1,,1,1,1,2017,2017
+Crohn Disease,C0010346,ADCY3,109,O60266,adenylate cyclase 3,,47,0.678,0.615,1.95E-11,0.1,,1,3,1,2015,2017
+Crohn Disease,C0010346,EBNA1BP2,10969,Q99848,EBNA1 binding protein 2,,116,0.55,0.692,1.37E-09,0.1,,0.882,17,0,1998,2020
+Crohn Disease,C0010346,ADAM30,11085,Q9UKF2,ADAM metallopeptidase domain 30,Enzyme,3,0.89,0.192,,0.1,,1,1,1,2015,2015
+Crohn Disease,C0010346,FGFR1OP,11116,O95684,FGFR1 oncogene partner,,40,0.656,0.577,0.00062816,0.1,,1,3,2,2008,2016
+Crohn Disease,C0010346,CDC37,11140,Q16543,cell division cycle 37,Enzyme modulator,30,0.695,0.5,0.90925,0.1,,1,2,1,2015,2017
+Crohn Disease,C0010346,PKIG,11142,Q9Y2B9,cAMP-dependent protein kinase inhibitor gamma,Enzyme modulator,9,0.78,0.269,0.51408,0.1,,1,1,1,2016,2016
+Crohn Disease,C0010346,ATXN2L,11273,Q8WWM7,ataxin 2 like,Nucleic acid binding,30,0.695,0.423,1,0.1,,1,1,2,2015,2015
+Crohn Disease,C0010346,ADCY7,113,P51828,adenylate cyclase 7,,38,0.656,0.462,9.48E-07,0.1,,1,1,1,2015,2015
+Crohn Disease,C0010346,PARK7,11315,Q99497,Parkinsonism associated deglycase,Enzyme,161,0.535,0.808,0.75335,0.1,,1,2,1,2015,2016
+Crohn Disease,C0010346,H3P28,115482699,,H3 histone pseudogene 28,,111,0.553,0.692,,0.1,,0.882,17,0,1998,2020
+Crohn Disease,C0010346,RMI2,116028,Q96E14,RecQ mediated genome instability 2,,38,0.666,0.5,0.018953,0.1,,1,4,4,2012,2017
+Crohn Disease,C0010346,ANTXR2,118429,P58335,ANTXR cell adhesion molecule 2,Receptor,143,0.568,0.808,0.086921,0.1,,1,1,1,2016,2016
+Crohn Disease,C0010346,CLN3,1201,Q13286,"CLN3 lysosomal/endosomal transmembrane protein, battenin",Transporter,120,0.572,0.692,1.33E-07,0.1,,1,1,1,2010,2010
+Crohn Disease,C0010346,NXPE1,120400,Q8N323,neurexophilin and PC-esterase domain family member 1,,7,0.839,0.115,1.31E-12,0.1,,1,1,1,2016,2016
+Crohn Disease,C0010346,NRAD1,121838,,non-coding RNA in the aldehyde dehydrogenase 1A pathway,,9,0.792,0.192,,0.1,,1,3,2,2008,2016
+Crohn Disease,C0010346,RAVER1,125950,Q8IY67,"ribonucleoprotein, PTB binding 1",Nucleic acid binding,9,0.805,0.231,0.91101,0.1,,1,1,1,2016,2016
+Crohn Disease,C0010346,ZNF831,128611,Q5JPB2,zinc finger protein 831,,21,0.792,0.192,7.87E-10,0.1,,1,3,1,2015,2017
+Crohn Disease,C0010346,GALM,130589,Q96C23,galactose mutarotase,Enzyme,9,0.792,0.192,4.88E-11,0.1,,0.871,31,0,1998,2015
+Crohn Disease,C0010346,CREM,1390,Q03060,cAMP responsive element modulator,,100,0.575,0.692,0.50878,0.1,,1,2,1,2016,2017
+Crohn Disease,C0010346,LINC01620,140834,,long intergenic non-protein coding RNA 1620,,8,0.805,0.269,0.45157,0.1,,1,1,1,2016,2016
+Crohn Disease,C0010346,CSF2,1437,P04141,colony stimulating factor 2,Signaling,1028,0.33,0.962,0.83468,0.1,,1,14,0,2003,2019
+Crohn Disease,C0010346,ADRA1D,146,P25100,adrenoceptor alpha 1D,G-protein coupled receptor,48,0.636,0.731,0.000040117,0.1,,1,1,1,2017,2017
+Crohn Disease,C0010346,CDAN1,146059,Q8IWY9,codanin 1,,77,0.61,0.731,1.11E-12,0.1,,1,24,0,1992,2019
+Crohn Disease,C0010346,CTLA4,1493,P16410,cytotoxic T-lymphocyte associated protein 4,,722,0.369,0.923,0.94085,0.1,,0.818,11,1,2002,2018
+Crohn Disease,C0010346,HORMAD2,150280,Q8N7B1,HORMA domain containing 2,,22,0.716,0.385,0.000071353,0.1,,1,2,3,2015,2017
+Crohn Disease,C0010346,CMC1,152100,Q7Z7K0,C-X9-C motif containing 1,,23,0.711,0.308,0.1073,0.1,,1,1,1,2016,2016
+Crohn Disease,C0010346,SBSPON,157869,Q8IVN8,somatomedin B and thrombospondin type 1 domain containing,,5,0.931,0.077,6.71E-06,0.1,,1,1,1,2012,2012
+Crohn Disease,C0010346,DAG1,1605,Q14118,dystroglycan 1,Receptor,230,0.498,0.808,0.98117,0.1,,1,2,2,2008,2015
+Crohn Disease,C0010346,DAP,1611,P51397,death associated protein,Enzyme modulator,144,0.53,0.808,0.0035018,0.1,,1,3,2,2015,2017
+Crohn Disease,C0010346,FAM171B,165215,Q6P995,family with sequence similarity 171 member B,,6,0.89,0.077,0.48535,0.1,,1,1,1,2017,2017
+Crohn Disease,C0010346,CELSR3,1951,Q9NYQ7,cadherin EGF LAG seven-pass G-type receptor 3,G-protein coupled receptor,25,0.716,0.423,0.99998,0.1,,1,1,1,2015,2015
+Crohn Disease,C0010346,ELF1,1997,P32519,E74 like ETS transcription factor 1,Transcription factor,36,0.691,0.462,0.01065,0.1,,1,1,1,2013,2013
+Crohn Disease,C0010346,SLC39A11,201266,Q8N1S5,solute carrier family 39 member 11,Transporter,23,0.711,0.308,2.35E-18,0.1,,1,1,1,2016,2016
+Crohn Disease,C0010346,HIPK1,204851,Q86Z02,homeodomain interacting protein kinase 1,Kinase,23,0.716,0.269,1,0.1,,1,1,1,2016,2016
+Crohn Disease,C0010346,ALB,213,P02768,albumin,Transporter,1198,0.317,0.962,0.64329,0.1,,1,20,1,2003,2020
+Crohn Disease,C0010346,FCGR3A,2214,P08637,Fc fragment of IgG receptor IIIa,Cell adhesion,352,0.432,0.962,3.70E-06,0.1,,1,10,0,2004,2018
+Crohn Disease,C0010346,JAZF1,221895,Q86VZ6,JAZF zinc finger 1,,102,0.582,0.654,0.89582,0.1,,1,3,3,2012,2016
+Crohn Disease,C0010346,FEN1,2237,P39748,flap structure-specific endonuclease 1,Enzyme,113,0.55,0.731,0.000047743,0.1,,1,1,1,2017,2017
+Crohn Disease,C0010346,FNDC3A,22862,Q9Y2H6,fibronectin type III domain containing 3A,,35,0.674,0.577,0.99998,0.1,,1,1,1,2016,2016
+Crohn Disease,C0010346,SBNO2,22904,Q9Y2G9,strawberry notch homolog 2,Enzyme,41,0.663,0.538,0.0070655,0.1,,1,6,3,2008,2017
+Crohn Disease,C0010346,FNBP1,23048,Q96RU3,formin binding protein 1,,17,0.736,0.269,0.82844,0.1,,1,1,1,2015,2015
+Crohn Disease,C0010346,TAB2,23118,Q9NYJ8,TGF-beta activated kinase 1 (MAP3K7) binding protein 2,,72,0.617,0.654,0.99998,0.1,,1,1,1,2015,2015
+Crohn Disease,C0010346,TBC1D9,23158,Q6ZT07,TBC1 domain family member 9,Enzyme,491,0.399,0.846,0.000028039,0.1,,0.941,17,0,2004,2017
+Crohn Disease,C0010346,ADGRL2,23266,O95490,adhesion G protein-coupled receptor L2,G-protein coupled receptor,33,0.682,0.385,1,0.1,,1,1,1,2015,2015
+Crohn Disease,C0010346,SLC9A8,23315,Q9Y2E8,solute carrier family 9 member A8,Transporter,16,0.736,0.5,2.91E-10,0.1,,1,1,1,2016,2016
+Crohn Disease,C0010346,CRB1,23418,P82279,crumbs cell polarity complex component 1,,116,0.57,0.654,5.63E-16,0.1,,1,1,1,2015,2015
+Crohn Disease,C0010346,ZBTB38,253461,Q8NAP3,zinc finger and BTB domain containing 38,Transcription factor,60,0.663,0.615,0.99949,0.1,,1,1,1,2017,2017
+Crohn Disease,C0010346,PNKD,25953,Q8N490,PNKD metallo-beta-lactamase domain containing,,96,0.615,0.615,4.14E-08,0.1,,1,1,1,2015,2015
+Crohn Disease,C0010346,OSBPL3,26031,Q9H4L5,oxysterol binding protein like 3,,10,0.839,0.192,0.000001585,0.1,,1,1,1,2007,2007
+Crohn Disease,C0010346,GBAP1,2630,,glucosylceramidase beta pseudogene 1,,64,0.623,0.538,,0.1,,1,1,1,2016,2016
+Crohn Disease,C0010346,ACAD8,27034,Q9UKU7,acyl-CoA dehydrogenase family member 8,Enzyme,203,0.506,0.885,5.64E-14,0.1,,0.959,121,0,1983,2020
+Crohn Disease,C0010346,IL37,27178,Q9NZH6,interleukin 37,,280,0.459,0.846,0.00012343,0.1,,1,15,0,2006,2019
+Crohn Disease,C0010346,AMT,275,P48728,aminomethyltransferase,,60,0.674,0.692,0.0027214,0.1,,1,1,2,2007,2007
+Crohn Disease,C0010346,GNA12,2768,Q03113,G protein subunit alpha 12,Enzyme modulator,130,0.547,0.769,0.96994,0.1,,1,1,1,2016,2016
+Crohn Disease,C0010346,FAM177A1,283635,Q8N128,family with sequence similarity 177 member A1,Enzyme,14,0.769,0.231,0.0011791,0.1,,1,1,1,2016,2016
+Crohn Disease,C0010346,GPR18,2841,Q14330,G protein-coupled receptor 18,G-protein coupled receptor,18,0.769,0.269,5.35E-10,0.1,,1,1,1,2015,2015
+Crohn Disease,C0010346,CAVIN1,284119,Q6NZI2,caveolae associated protein 1,Transcription factor,151,0.559,0.654,0.0049657,0.1,,1,2,2,2008,2010
+Crohn Disease,C0010346,LURAP1L,286343,Q8IV03,leucine rich adaptor protein 1 like,,15,0.736,0.269,0.025029,0.1,,1,1,1,2015,2015
+Crohn Disease,C0010346,GRK5,2869,P34947,G protein-coupled receptor kinase 5,Kinase,86,0.588,0.769,0.67567,0.1,,1,1,1,2007,2007
+Crohn Disease,C0010346,UQCR10,29796,Q9UDW1,"ubiquinol-cytochrome c reductase, complex III subunit X",Enzyme,5,0.839,0.115,0.14162,0.1,,1,1,1,2016,2016
+Crohn Disease,C0010346,APEH,327,P13798,acylaminoacyl-peptide hydrolase,Enzyme,36,0.666,0.577,5.00E-13,0.1,,1,1,2,2007,2007
+Crohn Disease,C0010346,UBAC2,337867,Q8NBM4,UBA domain containing 2,,97,0.638,0.654,0.0062623,0.1,,1,1,1,2015,2015
+Crohn Disease,C0010346,ICAM1,3383,P05362,intercellular adhesion molecule 1,,737,0.364,0.962,0.035295,0.1,,0.917,12,2,1995,2015
+Crohn Disease,C0010346,C17orf67,339210,Q0P5P2,chromosome 17 open reading frame 67,,10,0.792,0.308,6.55E-06,0.1,,1,2,1,2015,2016
+Crohn Disease,C0010346,ARMH1,339541,Q6PIY5,armadillo like helical domain containing 1,,111,0.553,0.692,0.000016479,0.1,,0.882,17,0,1998,2020
+Crohn Disease,C0010346,IGHM,3507,P01871,immunoglobulin heavy constant mu,,59,0.644,0.654,,0.1,,,0,0,,
+Crohn Disease,C0010346,IL1B,3553,P01584,interleukin 1 beta,,1801,0.276,0.962,0.13005,0.1,,0.931,29,0,1994,2019
+Crohn Disease,C0010346,IL1RN,3557,P18510,interleukin 1 receptor antagonist,,701,0.373,0.923,0.030914,0.1,,0.958,24,1,1994,2015
+Crohn Disease,C0010346,IL2,3558,P60568,interleukin 2,,950,0.336,0.885,0.47968,0.1,,0.923,13,0,1992,2019
+Crohn Disease,C0010346,IL4,3565,P05112,interleukin 4,,996,0.332,0.962,0.0047372,0.1,,1,13,0,1997,2018
+Crohn Disease,C0010346,CXCL8,3576,P10145,C-X-C motif chemokine ligand 8,Signaling,1254,0.31,0.962,0.00027377,0.1,,1,22,0,1994,2020
+Crohn Disease,C0010346,IL9,3578,P15248,interleukin 9,,291,0.461,0.846,8.11E-07,0.1,,0.905,21,0,1998,2020
+Crohn Disease,C0010346,IL17A,3605,Q16552,interleukin 17A,,1074,0.324,0.923,0.043049,0.1,,0.951,41,1,2003,2020
+Crohn Disease,C0010346,IL18,3606,Q14116,interleukin 18,,750,0.365,0.923,0.030717,0.1,,1,18,3,1999,2019
+Crohn Disease,C0010346,TEX9,374618,Q8N6V9,testis expressed 9,,13,0.839,0.154,6.42E-22,0.1,,1,1,1,2007,2007
+Crohn Disease,C0010346,RHOA,387,P61586,ras homolog family member A,Enzyme modulator,193,0.502,0.808,0.60405,0.1,,1,1,2,2007,2007
+Crohn Disease,C0010346,LINC02213,389273,,long intergenic non-protein coding RNA 2213,,5,0.839,0.115,0.012566,0.1,,1,1,1,2016,2016
+Crohn Disease,C0010346,RPSA,3921,P08865,ribosomal protein SA,Nucleic acid binding,221,0.485,0.769,0.93037,0.1,,0.882,17,0,1998,2020
+Crohn Disease,C0010346,C1orf141,400757,Q5JVX7,chromosome 1 open reading frame 141,,30,0.691,0.385,0.0032311,0.1,,1,10,21,2006,2019
+Crohn Disease,C0010346,LINC01185,400957,,long intergenic non-protein coding RNA 1185,,13,0.743,0.346,,0.1,,1,1,1,2016,2016
+Crohn Disease,C0010346,TEX41,401014,,testis expressed 41,,28,0.743,0.269,,0.1,,1,3,2,2015,2017
+Crohn Disease,C0010346,LPP,4026,Q93052,LIM domain containing preferred translocation partner in lipoma,Enzyme modulator,131,0.543,0.769,0.0071908,0.1,,1,1,1,2017,2017
+Crohn Disease,C0010346,LTBR,4055,P36941,lymphotoxin beta receptor,,78,0.592,0.692,0.3058,0.1,,1,2,1,2015,2017
+Crohn Disease,C0010346,SMAD7,4092,O15105,SMAD family member 7,Transcription factor,269,0.47,0.769,0.54854,0.1,,0.941,17,0,2001,2019
+Crohn Disease,C0010346,ARSA,410,P15289,arylsulfatase A,Enzyme,376,0.448,0.923,1.09E-11,0.1,,0.933,15,0,2015,2020
+Crohn Disease,C0010346,C10orf55,414236,Q5SWW7,chromosome 10 open reading frame 55 (putative),,4,0.931,0.115,0.014376,0.1,,1,1,1,2017,2017
+Crohn Disease,C0010346,MBL2,4153,P11226,mannose binding lectin 2,Receptor,563,0.39,0.846,0.0026836,0.1,,0.909,11,1,2001,2020
+Crohn Disease,C0010346,IRF1-AS1,441108,Q8N8D9,IRF1 antisense RNA 1,,44,0.67,0.385,0.0041687,0.1,,1,8,8,2007,2017
+Crohn Disease,C0010346,NFATC1,4772,O95644,nuclear factor of activated T cells 1,Transcription factor,161,0.517,0.731,0.15652,0.1,,1,2,1,2015,2016
+Crohn Disease,C0010346,NOTCH1,4851,P46531,notch receptor 1,,693,0.369,0.885,1,0.1,,1,2,2,2015,2016
+Crohn Disease,C0010346,ACO2,50,Q99798,aconitase 2,Enzyme,74,0.619,0.654,0.20791,0.1,,1,1,1,2015,2015
+Crohn Disease,C0010346,DELEC1,50514,Q9P2X7,deleted in esophageal cancer 1,,92,0.573,0.692,0.000026727,0.1,,1,3,12,2005,2016
+Crohn Disease,C0010346,IL22,50616,Q9GZX6,interleukin 22,,551,0.393,0.885,0.00018843,0.1,,0.95,20,0,2005,2019
+Crohn Disease,C0010346,IMPG2,50939,Q9BZV3,interphotoreceptor matrix proteoglycan 2,Extracellular structure,57,0.659,0.308,2.75E-13,0.1,,1,1,1,2017,2017
+Crohn Disease,C0010346,IBD5,50941,,inflammatory bowel disease 5,,21,0.705,0.538,,0.1,,0.913,46,0,2001,2012
+Crohn Disease,C0010346,FOXP3,50943,Q9BZS1,forkhead box P3,,688,0.368,0.846,0.99424,0.1,,1,16,1,2005,2020
+Crohn Disease,C0010346,TUBD1,51174,Q9UJT1,tubulin delta 1,Cellular structure,9,0.931,0.154,1.15E-06,0.1,,1,2,1,2015,2017
+Crohn Disease,C0010346,IGF2-AS,51214,Q6U949,IGF2 antisense RNA,,65,0.612,0.615,,0.1,,1,1,1,2015,2015
+Crohn Disease,C0010346,IL23A,51561,Q9NPF7,interleukin 23 subunit alpha,Signaling,427,0.415,0.846,0.35806,0.1,,0.976,41,0,2004,2020
+Crohn Disease,C0010346,HDAC7,51564,Q8WUI4,histone deacetylase 7,Epigenetic regulator,77,0.597,0.654,0.99969,0.1,,1,1,1,2016,2016
+Crohn Disease,C0010346,CD244,51744,Q9BZW8,CD244 molecule,,42,0.653,0.5,0.057288,0.1,,1,1,1,2010,2010
+Crohn Disease,C0010346,RTEL1,51750,Q9NZ71,regulator of telomere elongation helicase 1,Enzyme,321,0.459,0.808,8.87E-10,0.1,,1,1,1,2008,2008
+Crohn Disease,C0010346,ABCB1,5243,P08183,ATP binding cassette subfamily B member 1,Transporter,933,0.344,0.885,0.000012564,0.1,,0.929,28,12,1999,2019
+Crohn Disease,C0010346,PLAU,5328,P00749,"plasminogen activator, urokinase",Enzyme,439,0.425,0.923,2.31E-06,0.1,,1,3,2,2015,2017
+Crohn Disease,C0010346,PLCL1,5334,Q15111,phospholipase C like 1 (inactive),Enzyme,69,0.608,0.654,0.012059,0.1,,1,2,1,2010,2017
+Crohn Disease,C0010346,UBASH3A,53347,P57075,ubiquitin associated and SH3 domain containing A,,43,0.638,0.538,1.05E-10,0.1,,1,1,1,2016,2016
+Crohn Disease,C0010346,BCAS3,54828,Q9H6U6,BCAS3 microtubule associated cell migration factor,,44,0.716,0.538,0.00013819,0.1,,1,1,1,2007,2007
+Crohn Disease,C0010346,CDKAL1,54901,Q5VV42,CDK5 regulatory subunit associated protein 1 like 1,,86,0.617,0.615,0.016021,0.1,,1,5,5,2008,2017
+Crohn Disease,C0010346,INTS11,54973,Q5TA45,integrator complex subunit 11,Enzyme,9,0.805,0.192,5.99E-14,0.1,,1,1,1,2015,2015
+Crohn Disease,C0010346,FAM118A,55007,Q9NWS6,family with sequence similarity 118 member A,,7,0.821,0.154,0.000063156,0.1,,1,1,1,2016,2016
+Crohn Disease,C0010346,PPP2R3C,55012,Q969Q6,protein phosphatase 2 regulatory subunit B''gamma,Enzyme,49,0.7,0.538,6.82E-09,0.1,,1,1,1,2016,2016
+Crohn Disease,C0010346,BANK1,55024,Q8NDB2,B cell scaffold protein with ankyrin repeats 1,,51,0.653,0.538,4.79E-12,0.1,,1,4,3,2012,2017
+Crohn Disease,C0010346,RIC8B,55188,Q9NVN3,RIC8 guanine nucleotide exchange factor B,,8,0.821,0.115,0.99892,0.1,,1,1,1,2016,2016
+Crohn Disease,C0010346,MIR3936HG,553103,,MIR3936 host gene,,29,0.861,0.269,,0.1,,1,1,7,2007,2007
+Crohn Disease,C0010346,FERMT1,55612,Q9BQL6,fermitin family member 1,,104,0.599,0.577,2.92E-11,0.1,,1,1,1,2017,2017
+Crohn Disease,C0010346,INAVA,55765,Q3KP66,innate immunity activator,,18,0.743,0.346,0.00022109,0.1,,1,4,2,2010,2017
+Crohn Disease,C0010346,INKA2,55924,Q9NTI7,inka box actin regulator 2,,7,0.931,0.077,0.0079857,0.1,,1,1,1,2019,2019
+Crohn Disease,C0010346,MAPK1,5594,P28482,mitogen-activated protein kinase 1,Kinase,1059,0.33,0.923,0.99698,0.1,,0.895,19,0,1998,2020
+Crohn Disease,C0010346,SLAMF8,56833,Q9P0V8,SLAM family member 8,,10,0.839,0.154,0.000005341,0.1,,1,1,1,2017,2017
+Crohn Disease,C0010346,CDC42SE2,56990,Q9NRR3,CDC42 small effector 2,,14,0.76,0.231,0.76835,0.1,,1,1,1,2015,2015
+Crohn Disease,C0010346,LYRM4,57128,Q9HD34,LYR motif containing 4,,19,0.736,0.385,0.19951,0.1,,1,1,1,2008,2008
+Crohn Disease,C0010346,PSMD7,5713,P51665,"proteasome 26S subunit, non-ATPase 7",Enzyme,114,0.551,0.692,0.26367,0.1,,0.882,17,0,1998,2020
+Crohn Disease,C0010346,SEMA6A,57556,Q9H2E6,semaphorin 6A,Signaling,211,0.486,0.808,0.99976,0.1,,1,1,1,2008,2008
+Crohn Disease,C0010346,SLAIN2,57606,Q9P270,SLAIN motif family member 2,,8,0.861,0.077,0.79312,0.1,,1,2,2,2012,2015
+Crohn Disease,C0010346,ACTA2,59,P62736,"actin alpha 2, smooth muscle",Cellular structure,200,0.508,0.846,0.93017,0.1,,1,1,1,2016,2016
+Crohn Disease,C0010346,RDX,5962,P35241,radixin,Cellular structure,80,0.593,0.615,0.85245,0.1,,1,1,2,2016,2016
+Crohn Disease,C0010346,RIT1,6016,Q92963,Ras like without CAAX 1,Enzyme modulator,184,0.527,0.808,0.13281,0.1,,1,1,1,2015,2015
+Crohn Disease,C0010346,BRD2,6046,P25440,bromodomain containing 2,Epigenetic regulator,303,0.45,0.808,0.99957,0.1,,1,1,1,2016,2016
+Crohn Disease,C0010346,RPS6KB1,6198,P23443,ribosomal protein S6 kinase B1,Kinase,169,0.511,0.731,0.97285,0.1,,1,1,1,2016,2016
+Crohn Disease,C0010346,SLC22A23,63027,A1A5C7,solute carrier family 22 member 23,Transporter,18,0.769,0.269,0.82731,0.1,,1,3,2,2008,2015
+Crohn Disease,C0010346,ATXN2,6311,Q99700,ataxin 2,Nucleic acid binding,341,0.482,0.808,0.85289,0.1,,1,3,2,2015,2017
+Crohn Disease,C0010346,THADA,63892,Q6YHU6,THADA armadillo repeat containing,Receptor,47,0.686,0.5,4.62E-41,0.1,,1,4,2,2010,2017
+Crohn Disease,C0010346,GAL3ST2,64090,Q9H3Q3,galactose-3-O-sulfotransferase 2,,8,0.805,0.192,2.93E-11,0.1,,1,2,1,2015,2016
+Crohn Disease,C0010346,TMBIM1,64114,Q969X1,transmembrane BAX inhibitor motif containing 1,,30,0.711,0.154,1.36E-08,0.1,,1,1,1,2015,2015
+Crohn Disease,C0010346,IFIH1,64135,Q9BYX4,interferon induced with helicase C domain 1,,319,0.471,0.808,6.98E-44,0.1,,1,1,3,2016,2016
+Crohn Disease,C0010346,TRAF3IP2-AS1,643749,,TRAF3IP2 antisense RNA 1,,11,0.792,0.154,,0.1,,1,1,1,2015,2015
+Crohn Disease,C0010346,NOS2P1,645740,,nitric oxide synthase 2 pseudogene 1,,1,1,0.038,,0.1,,1,1,1,2007,2007
+Crohn Disease,C0010346,LINC00598,646982,,long intergenic non-protein coding RNA 598,,24,0.743,0.192,,0.1,,1,2,3,2015,2016
+Crohn Disease,C0010346,CRTC3,64784,Q6UUV7,CREB regulated transcription coactivator 3,Transcription factor,27,0.705,0.269,0.86585,0.1,,1,1,1,2015,2015
+Crohn Disease,C0010346,SCARNA5,677775,,small Cajal body-specific RNA 5,,1,1,0.038,,0.1,,1,2,5,2010,2013
+Crohn Disease,C0010346,STK11,6794,Q15831,serine/threonine kinase 11,Kinase,372,0.435,0.808,0.9934,0.1,,1,1,1,2016,2016
+Crohn Disease,C0010346,SUOX,6821,P51687,sulfite oxidase,,67,0.638,0.615,9.40E-07,0.1,,1,1,1,2015,2015
+Crohn Disease,C0010346,TCTA,6988,P57738,T cell leukemia translocation altered,,4,0.861,0.231,0.00046337,0.1,,1,2,2,2007,2008
+Crohn Disease,C0010346,TGFB1,7040,P01137,transforming growth factor beta 1,Signaling,1558,0.287,0.962,0.03685,0.1,,1,20,0,1996,2018
+Crohn Disease,C0010346,TLR5,7100,O60602,toll like receptor 5,,163,0.518,0.885,2.48E-13,0.1,,0.9,10,1,2006,2018
+Crohn Disease,C0010346,TNFRSF1B,7133,P20333,TNF receptor superfamily member 1B,,417,0.425,0.885,0.50201,0.1,,1,10,1,2000,2019
+Crohn Disease,C0010346,TP53,7157,P04637,tumor protein p53,Transcription factor,2494,0.236,0.962,0.53235,0.1,,1,10,1,1994,2018
+Crohn Disease,C0010346,TPMT,7172,P51580,thiopurine S-methyltransferase,,83,0.593,0.692,7.11E-06,0.1,,1,12,1,2000,2017
+Crohn Disease,C0010346,INS-IGF2,723961,F8WCM5,INS-IGF2 readthrough,,51,0.633,0.5,0.055811,0.1,,1,1,1,2015,2015
+Crohn Disease,C0010346,VDR,7421,P11473,vitamin D receptor,Nuclear receptor,852,0.352,0.885,0.000016787,0.1,,0.944,18,1,2000,2019
+Crohn Disease,C0010346,MYRF,745,Q9Y2G1,myelin regulatory factor,,102,0.584,0.731,1,0.1,,1,2,2,2015,2016
+Crohn Disease,C0010346,TMEM258,746,P61165,transmembrane protein 258,,63,0.644,0.654,0.0018504,0.1,,1,3,3,2010,2016
+Crohn Disease,C0010346,ALDH5A1,7915,P51649,aldehyde dehydrogenase 5 family member A1,Enzyme,83,0.619,0.462,3.05E-07,0.1,,1,1,1,2019,2019
+Crohn Disease,C0010346,ANKRD55,79722,Q3KP44,ankyrin repeat domain 55,,46,0.65,0.462,6.76E-08,0.1,,1,4,3,2012,2016
+Crohn Disease,C0010346,CPEB4,80315,Q17RY0,cytoplasmic polyadenylation element binding protein 4,Nucleic acid binding,70,0.621,0.462,0.98555,0.1,,1,3,3,2012,2016
+Crohn Disease,C0010346,VWA7,80737,Q9Y334,von Willebrand factor A domain containing 7,,6,0.839,0.308,2.31E-11,0.1,,1,1,1,2017,2017
+Crohn Disease,C0010346,NDFIP1,80762,Q9BT67,Nedd4 family interacting protein 1,,29,0.716,0.462,0.97747,0.1,,1,3,1,2015,2017
+Crohn Disease,C0010346,TSPAN14,81619,Q8NG11,tetraspanin 14,,13,0.78,0.231,0.97908,0.1,,1,3,2,2015,2017
+Crohn Disease,C0010346,GATD3A,8209,A0A0B4J2D5;P0DPI2,glutamine amidotransferase like class 1 domain containing 3A,,58,0.619,0.654,0.000029727,0.1,,1,5,5,2008,2017
+Crohn Disease,C0010346,KIAA1109,84162,Q2LD37,KIAA1109,,86,0.603,0.654,3.26E-21,0.1,,1,1,2,2015,2015
+Crohn Disease,C0010346,NICN1,84276,Q9BSH3,nicolin 1,,2,0.931,0.154,0.038834,0.1,,1,1,1,2007,2007
+Crohn Disease,C0010346,CUL1,8454,Q13616,cullin 1,Enzyme,58,0.617,0.615,1,0.1,,1,1,1,2017,2017
+Crohn Disease,C0010346,ZGPAT,84619,Q8N5A5,zinc finger CCCH-type and G-patch domain containing,,54,0.653,0.654,0.00038328,0.1,,1,2,3,2010,2015
+Crohn Disease,C0010346,GPR65,8477,Q8IYL9,G protein-coupled receptor 65,G-protein coupled receptor,47,0.653,0.5,0.1114,0.1,,1,3,1,2010,2017
+Crohn Disease,C0010346,NKD1,85407,Q969G9,NKD inhibitor of WNT signaling pathway 1,,58,0.621,0.385,0.99344,0.1,,1,2,10,2007,2015
+Crohn Disease,C0010346,DOCK7,85440,Q96N67,dedicator of cytokinesis 7,Enzyme modulator,51,0.682,0.423,0.000006358,0.1,,1,1,1,2015,2015
+Crohn Disease,C0010346,TP63,8626,Q9H3D4,tumor protein p63,Transcription factor,816,0.362,0.769,0.99728,0.1,,0.882,17,0,1998,2020
+Crohn Disease,C0010346,IL18R1,8809,Q13478,interleukin 18 receptor 1,Receptor,234,0.473,0.808,0.000008625,0.1,,1,2,3,2016,2017
+Crohn Disease,C0010346,KSR1,8844,Q8IVT5,kinase suppressor of ras 1,Kinase,42,0.666,0.346,0.069796,0.1,,1,4,2,2012,2017
+Crohn Disease,C0010346,ASAP2,8853,O43150,"ArfGAP with SH3 domain, ankyrin repeat and PH domain 2",,85,0.585,0.731,0.99996,0.1,,1,1,1,2016,2016
+Crohn Disease,C0010346,NR1I2,8856,O75469,nuclear receptor subfamily 1 group I member 2,Nuclear receptor,462,0.418,0.846,7.27E-09,0.1,,1,10,10,2004,2019
+Crohn Disease,C0010346,SKAP2,8935,O75563,src kinase associated phosphoprotein 2,,49,0.653,0.577,0.0012836,0.1,,1,3,2,2012,2016
+Crohn Disease,C0010346,CCND3,896,P30281,cyclin D3,Enzyme modulator,126,0.554,0.654,0.98347,0.1,,1,1,1,2017,2017
+Crohn Disease,C0010346,UBE3D,90025,Q7Z6J8,ubiquitin protein ligase E3D,,6,0.839,0.115,5.98E-07,0.1,,1,1,1,2016,2016
+Crohn Disease,C0010346,ANKRD30A,91074,Q9BXX3,ankyrin repeat domain 30A,,36,0.678,0.346,2.69E-45,0.1,,1,1,1,2015,2015
+Crohn Disease,C0010346,FIBP,9158,O43427,FGF1 intracellular binding protein,,39,0.674,0.538,4.39E-06,0.1,,1,2,1,2015,2016
+Crohn Disease,C0010346,OSMR,9180,Q99650,oncostatin M receptor,Signaling,77,0.599,0.577,9.21E-18,0.1,,1,3,1,2015,2017
+Crohn Disease,C0010346,ARHGEF2,9181,Q92974,Rho/Rac guanine nucleotide exchange factor 2,,205,0.502,0.769,1,0.1,,0.895,19,0,1998,2020
+Crohn Disease,C0010346,RFT1,91869,Q96AA3,RFT1 homolog,,60,0.7,0.5,3.74E-13,0.1,,1,1,1,2017,2017
+Crohn Disease,C0010346,MAGI1,9223,Q96QZ7,"membrane associated guanylate kinase, WW and PDZ domain containing 1",,66,0.628,0.615,0.5597,0.1,,1,1,1,2015,2015
+Crohn Disease,C0010346,DLG5,9231,Q8TDM6,discs large MAGUK scaffold protein 5,,36,0.686,0.5,0.99948,0.1,,0.885,26,5,2004,2018
+Crohn Disease,C0010346,CD14,929,P08571,CD14 molecule,,551,0.392,0.885,0.000048813,0.1,,0.875,24,1,2002,2020
+Crohn Disease,C0010346,TNFSF8,944,P32971,TNF superfamily member 8,,62,0.61,0.538,0.75809,0.1,,1,2,8,2005,2013
+Crohn Disease,C0010346,LITAF,9516,Q99732,lipopolysaccharide induced TNF factor,Transcription factor,59,0.65,0.462,0.030752,0.1,,1,1,1,2015,2015
+Crohn Disease,C0010346,NPEPPS,9520,P55786,aminopeptidase puromycin sensitive,Enzyme,172,0.519,0.808,1,0.1,,1,1,1,2016,2016
+Crohn Disease,C0010346,CLCA2,9635,Q9UQC9,chloride channel accessory 2,Ion channel,36,0.686,0.423,1.47E-28,0.1,,1,1,1,2015,2015
+Crohn Disease,C0010346,SETD1A,9739,O15047,"SET domain containing 1A, histone lysine methyltransferase",,68,0.619,0.615,1,0.1,,1,1,1,2016,2016
+Crohn Disease,C0010346,KEAP1,9817,Q14145,kelch like ECH associated protein 1,,251,0.475,0.808,0.00038766,0.1,,1,1,1,2016,2016
+Crohn Disease,C0010346,CARD8,22900,Q9Y2G2,caspase recruitment domain family member 8,,78,0.59,0.731,1.77E-06,0.09,,1,9,3,2006,2018
+Crohn Disease,C0010346,GP2,2813,P55259,glycoprotein 2,,36,0.67,0.5,1.68E-21,0.09,,1,9,0,2009,2019
+Crohn Disease,C0010346,CEACAM6,4680,P40199,CEA cell adhesion molecule 6,,110,0.561,0.731,1.19E-06,0.09,,0.889,9,0,2007,2020
+Crohn Disease,C0010346,HLA-C,3107,P10321,"major histocompatibility complex, class I, C",,435,0.415,0.846,1.57E-06,0.08,,1,8,0,2009,2016
+Crohn Disease,C0010346,XIAP,331,P98170,X-linked inhibitor of apoptosis,Enzyme modulator,321,0.447,0.808,0.91837,0.08,,0.875,8,0,2011,2018
+Crohn Disease,C0010346,IL1A,3552,P01583,interleukin 1 alpha,,1002,0.333,0.962,0.0001602,0.08,,1,8,0,1996,2019
+Crohn Disease,C0010346,IL13,3596,P35225,interleukin 13,,587,0.386,0.846,0.014426,0.08,,1,8,0,1997,2019
+Crohn Disease,C0010346,LCN2,3934,P80188,lipocalin 2,Enzyme,497,0.405,0.885,1.14E-09,0.08,,1,8,0,2007,2019
+Crohn Disease,C0010346,LTA,4049,P01374,lymphotoxin alpha,Signaling,353,0.434,0.885,0.19685,0.08,,1,8,3,1995,2019
+Crohn Disease,C0010346,MEFV,4210,O15553,"MEFV innate immuity regulator, pyrin",,410,0.44,0.885,1.02E-14,0.08,,1,8,3,2005,2019
+Crohn Disease,C0010346,MMP3,4314,P08254,matrix metallopeptidase 3,Enzyme,473,0.408,0.885,5.74E-15,0.08,,1,8,0,2000,2010
+Crohn Disease,C0010346,MYDGF,56005,Q969H8,myeloid derived growth factor,,295,0.451,0.846,3.49E-06,0.08,,1,8,0,2003,2017
+Crohn Disease,C0010346,PTGS2,5743,P35354,prostaglandin-endoperoxide synthase 2,Enzyme,1234,0.314,0.962,0.99597,0.08,,1,8,3,1998,2019
+Crohn Disease,C0010346,BPI,671,P17213,bactericidal permeability increasing protein,,83,0.61,0.769,1.65E-14,0.08,,0.875,8,1,1999,2017
+Crohn Disease,C0010346,TLR2,7097,O60603,toll like receptor 2,,749,0.361,0.923,1.02E-06,0.08,,0.875,8,2,2004,2019
+Crohn Disease,C0010346,DEFB4B,100289462,O15263,defensin beta 4B,,166,0.51,0.769,0.067977,0.07,,1,7,0,2006,2018
+Crohn Disease,C0010346,CCR6,1235,P51684,C-C motif chemokine receptor 6,G-protein coupled receptor,231,0.485,0.808,0.0057867,0.07,,1,7,0,2009,2017
+Crohn Disease,C0010346,RBM45,129831,Q8IUH3,RNA binding motif protein 45,,557,0.383,0.846,2.11E-10,0.07,,0.857,7,0,1995,2011
+Crohn Disease,C0010346,DEFB4A,1673,O15263,defensin beta 4A,,177,0.507,0.769,0.0011637,0.07,,1,7,0,2006,2018
+Crohn Disease,C0010346,DMBT1,1755,Q9UGM3,deleted in malignant brain tumors 1,Enzyme,135,0.533,0.654,4.48E-63,0.07,,1,7,1,2007,2017
+Crohn Disease,C0010346,MYO9B,4650,Q13459,myosin IXB,,65,0.644,0.615,1,0.07,,1,7,4,2006,2016
+Crohn Disease,C0010346,PTGER4,5734,P35408,prostaglandin E receptor 4,G-protein coupled receptor,120,0.558,0.731,0.9755,0.07,,1,7,0,2007,2017
+Crohn Disease,C0010346,IL33,90865,O95760,interleukin 33,,487,0.409,0.885,8.29E-10,0.07,,1,7,0,2007,2019
+Crohn Disease,C0010346,CDKN2A,1029,P42771;Q8N726,cyclin dependent kinase inhibitor 2A,,1314,0.3,0.885,0.39474,0.06,,1,6,0,2013,2019
+Crohn Disease,C0010346,DEFB1,1672,P60022,defensin beta 1,,177,0.509,0.808,0.4059,0.06,,0.833,6,3,2005,2014
+Crohn Disease,C0010346,FKBP4,2288,Q02790,FKBP prolyl isomerase 4,Enzyme,149,0.532,0.769,0.15539,0.06,,1,6,0,2017,2019
+Crohn Disease,C0010346,KLRK1,22914,P26718,killer cell lectin like receptor K1,,255,0.467,0.769,6.98E-14,0.06,,1,6,0,2007,2017
+Crohn Disease,C0010346,IBD3,30829,,inflammatory bowel disease 3,,5,0.861,0.038,,0.06,,1,6,0,2002,2014
+Crohn Disease,C0010346,INPP5D,3635,Q92835,inositol polyphosphate-5-phosphatase D,,109,0.558,0.731,0.97198,0.06,,1,6,0,2015,2019
+Crohn Disease,C0010346,ISG20,3669,Q96AZ6,interferon stimulated exonuclease gene 20,,414,0.414,0.846,0.002899,0.06,,1,6,0,1999,2018
+Crohn Disease,C0010346,JAK1,3716,P23458,Janus kinase 1,Kinase,239,0.474,0.769,0.99998,0.06,,1,6,0,2017,2019
+Crohn Disease,C0010346,LYZ,4069,P61626,lysozyme,,178,0.526,0.846,3.41E-06,0.06,,1,6,0,1992,2019
+Crohn Disease,C0010346,MIR31,407035,,microRNA 31,,235,0.471,0.769,,0.06,,1,6,0,2013,2019
+Crohn Disease,C0010346,MMP9,4318,P14780,matrix metallopeptidase 9,Enzyme,1337,0.305,0.923,1.89E-17,0.06,,1,6,0,2007,2019
+Crohn Disease,C0010346,NFKBIA,4792,P25963,NFKB inhibitor alpha,,226,0.487,0.885,0.99452,0.06,,1,6,1,2004,2014
+Crohn Disease,C0010346,PLA2G1B,5319,P04054,phospholipase A2 group IB,Enzyme,268,0.468,0.846,1.01E-10,0.06,,1,6,0,1995,2019
+Crohn Disease,C0010346,IL17D,53342,Q8TAD2,interleukin 17D,,259,0.464,0.808,0.19796,0.06,,1,6,0,2005,2016
+Crohn Disease,C0010346,HAMP,57817,P81172,hepcidin antimicrobial peptide,,377,0.433,0.846,0.0081797,0.06,,1,6,0,2017,2020
+Crohn Disease,C0010346,IL21,59067,Q9HBE4,interleukin 21,,321,0.441,0.769,0.6254,0.06,,1,6,0,2007,2018
+Crohn Disease,C0010346,REG1A,5967,P05451,regenerating family member 1 alpha,,264,0.467,0.846,0.000013499,0.06,,1,6,0,2001,2019
+Crohn Disease,C0010346,CCL5,6352,P13501,C-C motif chemokine ligand 5,Signaling,514,0.403,0.885,0.0017516,0.06,,0.833,6,0,2005,2013
+Crohn Disease,C0010346,TRBV20OR9-2,6962,,T cell receptor beta variable 20/OR9-2 (non-functional),,456,0.403,0.923,,0.06,,1,6,0,1996,2018
+Crohn Disease,C0010346,VIM,7431,P08670,vimentin,,644,0.372,0.846,0.71255,0.06,,1,6,0,2013,2018
+Crohn Disease,C0010346,KLRC4-KLRK1,100528032,P26718,KLRC4-KLRK1 readthrough,,246,0.469,0.769,,0.05,,1,5,0,2011,2017
+Crohn Disease,C0010346,CDKN2D,1032,P55273,cyclin dependent kinase inhibitor 2D,,110,0.547,0.769,0.49473,0.05,,1,5,0,2013,2019
+Crohn Disease,C0010346,IL17F,112744,Q96PD4,interleukin 17F,,236,0.48,0.808,0.039165,0.05,,1,5,1,2008,2019
+Crohn Disease,C0010346,H3P13,115482685,,H3 histone pseudogene 13,,78,0.584,0.769,,0.05,,1,5,0,2013,2019
+Crohn Disease,C0010346,CCR5,1234,P51681,C-C motif chemokine receptor 5 (gene/pseudogene),G-protein coupled receptor,508,0.398,0.885,4.31E-10,0.05,,0.8,5,0,2001,2005
+Crohn Disease,C0010346,CTNNB1,1499,P35222,catenin beta 1,,1368,0.303,0.885,0.99999,0.05,,1,5,0,2004,2018
+Crohn Disease,C0010346,DECR1,1666,Q16698,"2,4-dienoyl-CoA reductase 1",Enzyme,399,0.426,0.885,4.47E-14,0.05,,1,5,0,2001,2019
+Crohn Disease,C0010346,DEFA5,1670,Q01523,defensin alpha 5,,34,0.695,0.423,5.19E-06,0.05,,1,5,0,2001,2019
+Crohn Disease,C0010346,ATN1,1822,P54259,atrophin 1,,499,0.409,0.885,0.99992,0.05,,1,5,0,2010,2019
+Crohn Disease,C0010346,ESR1,2099,P03372,estrogen receptor 1,Nuclear receptor,1101,0.324,0.962,0.9992,0.05,,1,5,1,2019,2019
+Crohn Disease,C0010346,F9,2158,P00740,coagulation factor IX,Enzyme,276,0.465,0.885,0.99776,0.05,,1,5,0,2013,2019
+Crohn Disease,C0010346,SMUG1,23583,Q53HV7,single-strand-selective monofunctional uracil-DNA glycosylase 1,,1034,0.322,0.923,0.00045154,0.05,,1,5,0,2017,2019
+Crohn Disease,C0010346,GEM,2669,P55040,GTP binding protein overexpressed in skeletal muscle,,251,0.467,0.769,1.18E-08,0.05,,0.8,5,0,2009,2019
+Crohn Disease,C0010346,CD274,29126,Q9NZQ7,CD274 molecule,Receptor,1011,0.324,0.923,0.01916,0.05,,1,5,0,2012,2020
+Crohn Disease,C0010346,HNF4A,3172,P41235,hepatocyte nuclear factor 4 alpha,Nuclear receptor,340,0.461,0.808,0.15285,0.05,,1,5,0,2008,2017
+Crohn Disease,C0010346,HSPA1A,3303,P0DMV8;P0DMV9,heat shock protein family A (Hsp70) member 1A,,229,0.486,0.769,0.030228,0.05,,0.8,5,0,1999,2007
+Crohn Disease,C0010346,HSPA1B,3304,P0DMV8;P0DMV9,heat shock protein family A (Hsp70) member 1B,,251,0.474,0.808,0.0053464,0.05,,0.8,5,0,1999,2007
+Crohn Disease,C0010346,HSPA2,3306,P54652,heat shock protein family A (Hsp70) member 2,,115,0.55,0.808,0.048648,0.05,,0.8,5,0,1999,2007
+Crohn Disease,C0010346,IBD2,3378,,inflammatory bowel disease 2,,13,0.805,0.154,,0.05,,0.8,5,0,2000,2005
+Crohn Disease,C0010346,IRF1,3659,P10914,interferon regulatory factor 1,Transcription factor,257,0.468,0.769,0.9909,0.05,,1,5,1,2006,2014
+Crohn Disease,C0010346,KIR3DL1,3811,P43629,"killer cell immunoglobulin like receptor, three Ig domains and long cytoplasmic tail 1",Receptor,231,0.475,0.769,8.36E-14,0.05,,0.8,5,0,2009,2019
+Crohn Disease,C0010346,MLH1,4292,P40692,mutL homolog 1,Nucleic acid binding,526,0.399,0.808,0.0000341,0.05,,1,5,0,1997,2008
+Crohn Disease,C0010346,PON1,5444,P27169,paraoxonase 1,,496,0.409,0.885,9.81E-11,0.05,,1,5,0,2007,2018
+Crohn Disease,C0010346,BCL2,596,P10415,BCL2 apoptosis regulator,Signaling,1456,0.291,0.885,0.55903,0.05,,1,5,0,1999,2018
+Crohn Disease,C0010346,SPP1,6696,P10451,secreted phosphoprotein 1,,824,0.353,0.885,0.000002146,0.05,,1,5,3,2005,2018
+Crohn Disease,C0010346,TG,7038,P01266,thyroglobulin,Enzyme modulator,240,0.48,0.808,2.88E-59,0.05,,1,5,0,2016,2019
+Crohn Disease,C0010346,TIMP1,7076,P01033,TIMP metallopeptidase inhibitor 1,Enzyme modulator,603,0.38,0.885,0.4993,0.05,,1,5,0,2000,2018
+Crohn Disease,C0010346,VEGFA,7422,P15692,vascular endothelial growth factor A,Signaling,1899,0.266,0.923,0.000024085,0.05,,1,5,0,1999,2018
+Crohn Disease,C0010346,VIP,7432,P01282,vasoactive intestinal peptide,Signaling,376,0.437,0.846,0.00041995,0.05,,0.8,5,0,2005,2019
+Crohn Disease,C0010346,XBP1,7494,P17861,X-box binding protein 1,,234,0.477,0.846,0.032014,0.05,,1,5,1,2008,2019
+Crohn Disease,C0010346,UST,10090,Q9Y2C2,uronyl 2-sulfotransferase,,17,0.792,0.192,0.43933,0.04,,0.75,4,0,2019,2019
+Crohn Disease,C0010346,EBI3,10148,Q14213,Epstein-Barr virus induced 3,Signaling,233,0.474,0.808,0.10797,0.04,,1,4,0,1998,2005
+Crohn Disease,C0010346,MTCO2P12,107075310,,MT-CO2 pseudogene 12,,703,0.368,0.962,,0.04,,1,4,0,1998,2018
+Crohn Disease,C0010346,CCR9,10803,P51686,C-C motif chemokine receptor 9,G-protein coupled receptor,90,0.573,0.692,0.0041986,0.04,,1,4,0,2001,2018
+Crohn Disease,C0010346,CHI3L1,1116,P36222,chitinase 3 like 1,,420,0.419,0.885,0.000011133,0.04,,1,4,0,2006,2019
+Crohn Disease,C0010346,CCN2,1490,P29279,cellular communication network factor 2,Signaling,518,0.399,0.846,0.00050202,0.04,,1,4,0,1998,2013
+Crohn Disease,C0010346,CX3CR1,1524,P49238,C-X3-C motif chemokine receptor 1,G-protein coupled receptor,310,0.457,0.885,0.061371,0.04,,1,4,2,2006,2017
+Crohn Disease,C0010346,ACE,1636,P12821,angiotensin I converting enzyme,Enzyme,1082,0.328,0.923,1.03E-37,0.04,,1,4,1,2001,2019
+Crohn Disease,C0010346,DEFA6,1671,Q01524,defensin alpha 6,,13,0.792,0.115,4.25E-06,0.04,,1,4,0,2001,2016
+Crohn Disease,C0010346,DPEP1,1800,P16444,dipeptidase 1,,100,0.57,0.654,3.47E-10,0.04,,1,4,0,2010,2016
+Crohn Disease,C0010346,ECM1,1893,Q16610,extracellular matrix protein 1,,120,0.576,0.731,4.66E-14,0.04,,1,4,1,2008,2019
+Crohn Disease,C0010346,TMEM201,199953,Q5SNT2,transmembrane protein 201,,21,0.729,0.346,0.99004,0.04,,1,4,0,2005,2020
+Crohn Disease,C0010346,F5,2153,P12259,coagulation factor V,Enzyme,369,0.441,0.846,5.92E-15,0.04,,0.75,4,0,2000,2014
+Crohn Disease,C0010346,FCGR3B,2215,O75015,Fc fragment of IgG receptor IIIb,Cell adhesion,291,0.452,0.962,3.03E-07,0.04,,1,4,0,2009,2018
+Crohn Disease,C0010346,NLRP1,22861,Q9C000,NLR family pyrin domain containing 1,,200,0.502,0.769,4.97E-19,0.04,,1,4,1,2008,2013
+Crohn Disease,C0010346,ICOSLG,23308,O75144,inducible T cell costimulator ligand,,69,0.601,0.654,0.00035482,0.04,,1,4,0,2010,2015
+Crohn Disease,C0010346,PLA2G15,23659,Q8NCC3,phospholipase A2 group XV,Enzyme,170,0.52,0.769,0.37838,0.04,,1,4,0,2017,2019
+Crohn Disease,C0010346,GCG,2641,P01275,glucagon,,441,0.431,0.885,0.034814,0.04,,1,4,0,2012,2020
+Crohn Disease,C0010346,GH1,2688,P01241,growth hormone 1,Signaling,686,0.373,0.923,0.030057,0.04,,1,4,0,2006,2018
+Crohn Disease,C0010346,SGSM3,27352,Q96HU1,small G protein signaling modulator 3,Enzyme,259,0.469,0.808,3.41E-15,0.04,,1,4,0,2011,2019
+Crohn Disease,C0010346,ANXA1,301,P04083,annexin A1,,336,0.442,0.885,1.20E-07,0.04,,1,4,0,1998,2013
+Crohn Disease,C0010346,HMOX1,3162,P09601,heme oxygenase 1,,666,0.381,0.923,0.0096817,0.04,,0.75,4,0,2010,2018
+Crohn Disease,C0010346,HSPA4,3308,P34932,heat shock protein family A (Hsp70) member 4,,550,0.394,0.923,0.99954,0.04,,0.75,4,0,1999,2017
+Crohn Disease,C0010346,IL10RA,3587,Q13651,interleukin 10 receptor subunit alpha,Receptor,90,0.579,0.692,0.017808,0.04,,1,4,0,2003,2016
+Crohn Disease,C0010346,IRF5,3663,Q13568,interferon regulatory factor 5,Transcription factor,226,0.489,0.731,0.0090365,0.04,,1,4,2,2007,2015
+Crohn Disease,C0010346,MMP1,4312,P03956,matrix metallopeptidase 1,Enzyme,589,0.385,0.885,7.72E-18,0.04,,1,4,0,2000,2007
+Crohn Disease,C0010346,MNAT1,4331,P51948,MNAT1 component of CDK activating kinase,Enzyme modulator,131,0.539,0.846,1.31E-12,0.04,,1,4,0,1998,2011
+Crohn Disease,C0010346,COX2,4513,P00403,cytochrome c oxidase subunit II,Enzyme,875,0.352,0.962,,0.04,,1,4,0,1998,2018
+Crohn Disease,C0010346,NT5E,4907,P21589,5'-nucleotidase ecto,Enzyme,376,0.436,0.885,2.29E-11,0.04,,1,4,0,2009,2019
+Crohn Disease,C0010346,PAEP,5047,P09466,progestagen associated endometrial protein,Enzyme,397,0.43,0.846,3.11E-08,0.04,,0.75,4,0,1992,2019
+Crohn Disease,C0010346,DUOX2,50506,Q9NRD8,dual oxidase 2,Enzyme,150,0.533,0.769,4.50E-56,0.04,,1,4,0,2007,2016
+Crohn Disease,C0010346,IBD6,50942,,inflammatory bowel disease 6,,5,0.861,0.077,,0.04,,1,4,0,2003,2015
+Crohn Disease,C0010346,TREM1,54210,Q9NP99,triggering receptor expressed on myeloid cells 1,,172,0.515,0.808,0.0062776,0.04,,0.75,4,1,2009,2019
+Crohn Disease,C0010346,ACSS2,55902,Q9NR19,acyl-CoA synthetase short chain family member 2,Enzyme,188,0.506,0.808,1.14E-13,0.04,,1,4,0,2017,2019
+Crohn Disease,C0010346,RAC1,5879,P63000,Rac family small GTPase 1,Enzyme modulator,415,0.429,0.962,0.76228,0.04,,1,4,0,2013,2018
+Crohn Disease,C0010346,CCL20,6364,P78556,C-C motif chemokine ligand 20,Signaling,242,0.474,0.846,0.00024242,0.04,,1,4,0,2004,2017
+Crohn Disease,C0010346,CXCL12,6387,P48061,C-X-C motif chemokine ligand 12,,626,0.379,0.846,0.11851,0.04,,1,4,0,2000,2014
+Crohn Disease,C0010346,SLCO2A1,6578,Q92959,solute carrier organic anion transporter family member 2A1,Transporter,112,0.578,0.654,2.28E-13,0.04,,1,4,0,2015,2019
+Crohn Disease,C0010346,SOAT1,6646,P35610,sterol O-acyltransferase 1,Enzyme,389,0.424,0.846,7.36E-10,0.04,,1,4,0,2011,2019
+Crohn Disease,C0010346,STAT6,6778,P42226,signal transducer and activator of transcription 6,Nucleic acid binding,281,0.475,0.808,0.98849,0.04,,0.75,4,0,2003,2011
+Crohn Disease,C0010346,ADAM17,6868,P78536,ADAM metallopeptidase domain 17,,316,0.453,0.808,0.99528,0.04,,1,4,0,2006,2018
+Crohn Disease,C0010346,TGFB2,7042,P61812,transforming growth factor beta 2,Signaling,389,0.433,0.885,0.99905,0.04,,1,4,0,2002,2019
+Crohn Disease,C0010346,HSP90B1,7184,P14625,heat shock protein 90 beta family member 1,Chaperone,155,0.522,0.808,0.9972,0.04,,1,4,0,2005,2017
+Crohn Disease,C0010346,ACCS,84680,Q96QU6,1-aminocyclopropane-1-carboxylate synthase homolog (inactive),Enzyme,161,0.522,0.731,8.98E-07,0.04,,1,4,0,2017,2019
+Crohn Disease,C0010346,ORMDL3,94103,Q8N138,ORMDL sphingolipid biosynthesis regulator 3,,35,0.666,0.423,0.78329,0.04,,1,4,0,2010,2019
+Crohn Disease,C0010346,NAT2,10,P11245,N-acetyltransferase 2,Enzyme,311,0.451,0.885,3.27E-06,0.03,,1,3,0,2005,2014
+Crohn Disease,C0010346,CD24,100133941,P25063,CD24 molecule,,244,0.472,0.769,,0.03,,1,3,1,2011,2015
+Crohn Disease,C0010346,MICA,100507436,Q29983,MHC class I polypeptide-related sequence A,,248,0.473,0.846,0.0049697,0.03,,1,3,1,2001,2017
+Crohn Disease,C0010346,OPTN,10133,Q96CV9,optineurin,,136,0.548,0.808,5.91E-18,0.03,,1,3,0,2015,2018
+Crohn Disease,C0010346,TRAF3IP2,10758,O43734,TRAF3 interacting protein 2,,103,0.585,0.692,1.62E-09,0.03,,1,3,0,2013,2020
+Crohn Disease,C0010346,MAPK14,1432,Q16539,mitogen-activated protein kinase 14,Kinase,626,0.379,0.923,0.37466,0.03,,1,3,0,2002,2015
+Crohn Disease,C0010346,CYP3A4,1576,P08684,cytochrome P450 family 3 subfamily A member 4,Enzyme,291,0.462,0.885,5.80E-11,0.03,,1,3,0,2006,2019
+Crohn Disease,C0010346,DEFA1,1667,P59665,defensin alpha 1,,57,0.636,0.731,,0.03,,1,3,0,2010,2018
+Crohn Disease,C0010346,AGER,177,Q15109,advanced glycosylation end-product specific receptor,Receptor,450,0.42,0.885,6.35E-16,0.03,,1,3,2,2009,2014
+Crohn Disease,C0010346,DPP4,1803,P27487,dipeptidyl peptidase 4,Enzyme,451,0.42,0.808,7.28E-09,0.03,,1,3,0,2012,2019
+Crohn Disease,C0010346,AGT,183,P01019,angiotensinogen,Enzyme modulator,765,0.367,0.923,4.97E-08,0.03,,1,3,0,2006,2019
+Crohn Disease,C0010346,MTOR,2475,P42345,mechanistic target of rapamycin kinase,Kinase,960,0.343,0.885,1,0.03,,1,3,0,2013,2019
+Crohn Disease,C0010346,PART1,25859,,prostate androgen-regulated transcript 1,,250,0.483,0.885,,0.03,,1,3,0,2017,2019
+Crohn Disease,C0010346,NR3C1,2908,P04150,nuclear receptor subfamily 3 group C member 1,Nuclear receptor,590,0.393,0.885,0.96958,0.03,,1,3,0,2009,2012
+Crohn Disease,C0010346,GSTM1,2944,P09488,glutathione S-transferase mu 1,,627,0.38,0.923,0.0020641,0.03,,1,3,0,2007,2019
+Crohn Disease,C0010346,GSTT1,2952,P30711,glutathione S-transferase theta 1,,541,0.393,0.923,0.00014834,0.03,,1,3,0,2011,2017
+Crohn Disease,C0010346,HIF1A,3091,Q16665,hypoxia inducible factor 1 subunit alpha,Transcription factor,1044,0.327,0.923,0.9777,0.03,,1,3,0,2013,2018
+Crohn Disease,C0010346,HLA-DPB1,3115,P04440,"major histocompatibility complex, class II, DP beta 1",Immune response,324,0.453,0.923,5.33E-10,0.03,,0.667,3,0,1998,2000
+Crohn Disease,C0010346,HLA-DQA1,3117,P01909,"major histocompatibility complex, class II, DQ alpha 1",Immune response,427,0.416,0.846,0.023947,0.03,,0.667,3,0,1995,2020
+Crohn Disease,C0010346,HLA-G,3135,P17693,"major histocompatibility complex, class I, G",,279,0.461,0.769,1.37E-11,0.03,,1,3,0,2007,2018
+Crohn Disease,C0010346,APC,324,P25054,APC regulator of WNT signaling pathway,,703,0.373,0.962,1,0.03,,1,3,0,2002,2016
+Crohn Disease,C0010346,IL4R,3566,P24394,interleukin 4 receptor,Receptor,242,0.474,0.846,0.00023013,0.03,,0.667,3,0,2001,2003
+Crohn Disease,C0010346,IL6ST,3572,P40189,interleukin 6 signal transducer,Signaling,260,0.475,0.808,0.99978,0.03,,1,3,0,2001,2018
+Crohn Disease,C0010346,IL13RA2,3598,Q14627,interleukin 13 receptor subunit alpha 2,Signaling,103,0.556,0.654,4.02E-07,0.03,,1,3,0,2017,2019
+Crohn Disease,C0010346,IDO1,3620,P14902,"indoleamine 2,3-dioxygenase 1",,295,0.454,0.846,3.30E-06,0.03,,1,3,1,2002,2019
+Crohn Disease,C0010346,ITGAX,3687,P20702,integrin subunit alpha X,,170,0.504,0.769,1.37E-15,0.03,,1,3,0,2009,2019
+Crohn Disease,C0010346,ITPA,3704,Q9BY32,inosine triphosphatase,Enzyme,77,0.604,0.5,1.01E-07,0.03,,1,3,0,2006,2012
+Crohn Disease,C0010346,MIR122,406906,,microRNA 122,,250,0.468,0.808,,0.03,,1,3,1,2016,2019
+Crohn Disease,C0010346,MIR19B1,406980,,microRNA 19b-1,,144,0.529,0.769,,0.03,,1,3,0,2015,2019
+Crohn Disease,C0010346,MMP2,4313,P08253,matrix metallopeptidase 2,Enzyme,1021,0.333,0.923,0.83878,0.03,,1,3,0,2003,2012
+Crohn Disease,C0010346,MSH2,4436,P43246,mutS homolog 2,Nucleic acid binding,490,0.406,0.808,0.89539,0.03,,1,3,0,2001,2008
+Crohn Disease,C0010346,MUC5AC,4586,P98088,"mucin 5AC, oligomeric mucus/gel-forming",Enzyme modulator,224,0.483,0.808,9.99E-09,0.03,,1,3,0,2001,2019
+Crohn Disease,C0010346,NOS1,4842,P29475,nitric oxide synthase 1,,521,0.408,0.885,1,0.03,,1,3,0,2007,2013
+Crohn Disease,C0010346,P2RX7,5027,Q99572,purinergic receptor P2X 7,Ion channel,337,0.45,0.808,3.33E-11,0.03,,1,3,4,2007,2014
+Crohn Disease,C0010346,IBD4,50608,,inflammatory bowel disease 4,,5,0.89,0.077,,0.03,,1,3,0,2003,2018
+Crohn Disease,C0010346,CUZD1,50624,Q86UP6,CUB and zona pellucida like domains 1,,17,0.769,0.308,2.29E-11,0.03,,1,3,0,2015,2017
+Crohn Disease,C0010346,TLR8,51311,Q9NR97,toll like receptor 8,,122,0.543,0.769,0.32401,0.03,,1,3,0,2009,2016
+Crohn Disease,C0010346,ACP1,52,P24666,acid phosphatase 1,,107,0.566,0.731,1.75E-08,0.03,,0.667,3,0,2000,2012
+Crohn Disease,C0010346,SERPINA1,5265,P01009,serpin family A member 1,Enzyme modulator,482,0.41,0.923,6.85E-08,0.03,,1,3,0,1980,2008
+Crohn Disease,C0010346,PI3,5266,P19957,peptidase inhibitor 3,Enzyme modulator,92,0.57,0.692,0.16965,0.03,,1,3,0,2007,2017
+Crohn Disease,C0010346,IL26,55801,Q9NPH9,interleukin 26,,51,0.631,0.538,0.00053514,0.03,,1,3,0,2009,2017
+Crohn Disease,C0010346,PRTN3,5657,P24158,proteinase 3,Enzyme,215,0.503,0.808,0.000038044,0.03,,1,3,0,1999,2018
+Crohn Disease,C0010346,RELA,5970,Q04206,"RELA proto-oncogene, NF-kB subunit",Transcription factor,483,0.406,0.885,0.99948,0.03,,1,3,0,1996,2015
+Crohn Disease,C0010346,BCL3,602,P20749,BCL3 transcription coactivator,,136,0.541,0.731,0.98871,0.03,,1,3,0,2010,2016
+Crohn Disease,C0010346,CCL11,6356,P51671,C-C motif chemokine ligand 11,Signaling,250,0.473,0.885,0.010211,0.03,,1,3,0,1996,2018
+Crohn Disease,C0010346,SLC39A8,64116,Q9C0K1,solute carrier family 39 member 8,Transporter,138,0.584,0.769,0.66924,0.03,,1,3,1,2016,2019
+Crohn Disease,C0010346,SH3GL1,6455,Q99961,"SH3 domain containing GRB2 like 1, endophilin A2",,33,0.686,0.346,0.011714,0.03,,1,3,0,2017,2019
+Crohn Disease,C0010346,IL25,64806,Q9H293,interleukin 25,,139,0.529,0.846,0.00092347,0.03,,1,3,0,2003,2020
+Crohn Disease,C0010346,SLC15A1,6564,P46059,solute carrier family 15 member 1,Transporter,31,0.7,0.615,4.99E-13,0.03,,1,3,1,2009,2017
+Crohn Disease,C0010346,TACR1,6869,P25103,tachykinin receptor 1,G-protein coupled receptor,217,0.502,0.885,0.00038437,0.03,,1,3,0,2000,2010
+Crohn Disease,C0010346,TCF4,6925,P15884,transcription factor 4,Transcription factor,378,0.464,0.846,0.99981,0.03,,1,3,0,2007,2010
+Crohn Disease,C0010346,TCF7L2,6934,Q9NQB0,transcription factor 7 like 2,,257,0.485,0.846,0.99537,0.03,,1,3,1,2007,2010
+Crohn Disease,C0010346,TFF3,7033,Q07654,trefoil factor 3,Signaling,163,0.518,0.885,0.01591,0.03,,1,3,0,2010,2019
+Crohn Disease,C0010346,TIMP3,7078,P35625,TIMP metallopeptidase inhibitor 3,Enzyme modulator,325,0.445,0.923,0.63037,0.03,,0.667,3,0,2009,2012
+Crohn Disease,C0010346,TLR1,7096,Q15399,toll like receptor 1,,198,0.496,0.808,5.87E-23,0.03,,1,3,1,2006,2015
+Crohn Disease,C0010346,CDR3,8163,,Cerebellar degeneration-related autoantigen-3,,233,0.472,0.808,,0.03,,1,3,0,1997,2018
+Crohn Disease,C0010346,MADCAM1,8174,Q13477,mucosal vascular addressin cell adhesion molecule 1,,36,0.67,0.5,0.53462,0.03,,0.667,3,0,2003,2018
+Crohn Disease,C0010346,CASP1,834,P29466,caspase 1,Enzyme,444,0.413,0.885,0.000035183,0.03,,1,3,0,2002,2017
+Crohn Disease,C0010346,CASP3,836,P42574,caspase 3,Enzyme,819,0.351,0.923,0.10017,0.03,,1,3,0,2011,2017
+Crohn Disease,C0010346,REG4,83998,Q9BYZ8,regenerating family member 4,,67,0.615,0.385,0.00075276,0.03,,1,3,0,2001,2018
+Crohn Disease,C0010346,ULK1,8408,O75385,unc-51 like autophagy activating kinase 1,Kinase,99,0.564,0.769,0.99318,0.03,,1,3,1,2011,2017
+Crohn Disease,C0010346,RIPK2,8767,O43353,receptor interacting serine/threonine kinase 2,Kinase,83,0.587,0.769,0.39282,0.03,,1,3,0,2009,2014
+Crohn Disease,C0010346,CD19,930,P15391,CD19 molecule,,365,0.43,0.885,0.90496,0.03,,1,3,0,2002,2018
+Crohn Disease,C0010346,CD163,9332,Q86VB7,CD163 molecule,Enzyme,369,0.427,0.846,0.0008338,0.03,,0.667,3,0,2013,2020
+Crohn Disease,C0010346,CD28,940,P10747,CD28 molecule,,364,0.436,0.885,0.35779,0.03,,1,3,0,2001,2017
+Crohn Disease,C0010346,ABCG2,9429,Q9UNQ0,ATP binding cassette subfamily G member 2 (Junior blood group),Transporter,420,0.419,0.885,2.10E-32,0.03,,1,3,1,2009,2012
+Crohn Disease,C0010346,ENTPD1,953,P49961,ectonucleoside triphosphate diphosphohydrolase 1,Enzyme,206,0.499,0.769,0.0080716,0.03,,1,3,0,2009,2019
+Crohn Disease,C0010346,ADA,100,P00813,adenosine deaminase,Enzyme,379,0.44,0.885,2.88E-12,0.02,,1,2,0,2005,2019
+Crohn Disease,C0010346,H3C9P,100289545,,"H3 clustered histone 9, pseudogene",,43,0.656,0.538,,0.02,,1,2,0,1999,2000
+Crohn Disease,C0010346,IL18BP,10068,O95998,interleukin 18 binding protein,,75,0.603,0.731,1.48E-08,0.02,,1,2,0,2002,2007
+Crohn Disease,C0010346,CALCOCO2,10241,Q13137,calcium binding and coiled-coil domain 2,,21,0.722,0.423,0.0001027,0.02,,1,2,1,2013,2013
+Crohn Disease,C0010346,CDX2,1045,Q99626,caudal type homeobox 2,Transcription factor,278,0.458,0.769,0.52887,0.02,,0.5,2,0,2008,2008
+Crohn Disease,C0010346,NXF1,10482,Q9UBU9,nuclear RNA export factor 1,Nucleic acid binding,141,0.531,0.885,0.9763,0.02,,1,2,0,1996,1997
+Crohn Disease,C0010346,UPK3B,105375355,Q9BT76,uroplakin 3B,,82,0.584,0.808,0.00023426,0.02,,1,2,0,1998,2000
+Crohn Disease,C0010346,AHSA1,10598,O95433,activator of HSP90 ATPase activity 1,,526,0.396,0.923,0.99896,0.02,,1,2,0,2002,2015
+Crohn Disease,C0010346,RN7SL263P,106480993,,"RNA, 7SL, cytoplasmic 263, pseudogene",,189,0.496,0.808,,0.02,,1,2,0,2003,2016
+Crohn Disease,C0010346,IL24,11009,Q13007,interleukin 24,,202,0.498,0.769,5.88E-07,0.02,,1,2,0,2009,2014
+Crohn Disease,C0010346,CD160,11126,O95971,CD160 molecule,,87,0.59,0.615,0.000068425,0.02,,1,2,0,2013,2019
+Crohn Disease,C0010346,RASSF1,11186,Q9NS23,Ras association domain family member 1,Enzyme modulator,400,0.42,0.808,4.93E-06,0.02,,1,2,0,2019,2019
+Crohn Disease,C0010346,LINC02605,112935892,,long intergenic non-protein coding RNA 2605,,203,0.49,0.769,,0.02,,1,2,0,2017,2019
+Crohn Disease,C0010346,CDCA5,113130,Q96FF9,cell division cycle associated 5,,105,0.563,0.808,0.0011583,0.02,,1,2,0,1998,2000
+Crohn Disease,C0010346,AZIN2,113451,Q96A70,antizyme inhibitor 2,Enzyme,187,0.499,0.808,8.87E-07,0.02,,1,2,0,2017,2018
+Crohn Disease,C0010346,FCRL3,115352,Q96P31,Fc receptor like 3,Cell adhesion,62,0.612,0.769,5.97E-21,0.02,,1,2,1,2007,2009
+Crohn Disease,C0010346,MTFMT,123263,Q96DP5,mitochondrial methionyl-tRNA formyltransferase,Enzyme,101,0.595,0.808,1.50E-07,0.02,,1,2,0,2018,2019
+Crohn Disease,C0010346,CCR7,1236,P32248,C-C motif chemokine receptor 7,G-protein coupled receptor,320,0.443,0.769,0.057623,0.02,,1,2,0,2005,2015
+Crohn Disease,C0010346,CNR1,1268,P21554,cannabinoid receptor 1,G-protein coupled receptor,393,0.446,0.808,0.50652,0.02,,1,2,2,2010,2019
+Crohn Disease,C0010346,COMP,1311,P49747,cartilage oligomeric matrix protein,,230,0.503,0.808,1.35E-09,0.02,,1,2,0,2017,2019
+Crohn Disease,C0010346,CREB1,1385,P16220,cAMP responsive element binding protein 1,,294,0.463,0.885,0.99673,0.02,,1,2,0,2013,2013
+Crohn Disease,C0010346,CRK,1398,P46108,"CRK proto-oncogene, adaptor protein",,544,0.394,0.923,0.95936,0.02,,1,2,0,2002,2015
+Crohn Disease,C0010346,DOCK11,139818,Q5JSL3,dedicator of cytokinesis 11,Enzyme modulator,57,0.606,0.731,0.012097,0.02,,1,2,0,2018,2018
+Crohn Disease,C0010346,DEFB104A,140596,Q8WTQ1,defensin beta 104A,,43,0.638,0.692,0.093748,0.02,,1,2,0,2004,2010
+Crohn Disease,C0010346,PARP1,142,P09874,poly(ADP-ribose) polymerase 1,,565,0.389,0.923,0.00033366,0.02,,1,2,0,2017,2018
+Crohn Disease,C0010346,CSF1,1435,P09603,colony stimulating factor 1,,259,0.473,0.808,0.99634,0.02,,1,2,0,2017,2019
+Crohn Disease,C0010346,CSF2RA,1438,P15509,colony stimulating factor 2 receptor subunit alpha,Signaling,49,0.67,0.615,2.40E-10,0.02,,1,2,0,2011,2019
+Crohn Disease,C0010346,CSF2RB,1439,P32927,colony stimulating factor 2 receptor subunit beta,Receptor,39,0.705,0.423,0.17646,0.02,,1,2,0,2016,2016
+Crohn Disease,C0010346,PLB1,151056,Q6P1J6,phospholipase B1,,219,0.488,0.846,1.73E-72,0.02,,1,2,0,1999,2019
+Crohn Disease,C0010346,DMD,1756,P11532,dystrophin,,484,0.423,0.923,1,0.02,,1,2,0,2017,2018
+Crohn Disease,C0010346,DSG2,1829,Q14126,desmoglein 2,Cell adhesion,83,0.601,0.692,2.79E-10,0.02,,1,2,0,2017,2018
+Crohn Disease,C0010346,NR0B1,190,P51843,nuclear receptor subfamily 0 group B member 1,Nuclear receptor,222,0.494,0.808,0.97025,0.02,,1,2,0,2016,2017
+Crohn Disease,C0010346,EPHX1,2052,P07099,epoxide hydrolase 1,,196,0.5,0.846,3.22E-09,0.02,,1,2,0,2003,2011
+Crohn Disease,C0010346,ESR2,2100,Q92731,estrogen receptor 2,Nuclear receptor,528,0.4,0.923,4.45E-08,0.02,,1,2,0,2019,2019
+Crohn Disease,C0010346,F2,2147,P00734,"coagulation factor II, thrombin",Enzyme,490,0.415,0.885,0.0011118,0.02,,1,2,1,2005,2018
+Crohn Disease,C0010346,FAAH,2166,O00519,fatty acid amide hydrolase,,177,0.545,0.692,4.44E-11,0.02,,1,2,1,2008,2009
+Crohn Disease,C0010346,FAT1,2195,Q14517,FAT atypical cadherin 1,,178,0.508,0.808,1.20E-12,0.02,,1,2,0,2018,2018
+Crohn Disease,C0010346,FCGR1A,2209,P12314,Fc fragment of IgG receptor Ia,Cell adhesion,141,0.532,0.731,0.00013116,0.02,,1,2,0,2007,2017
+Crohn Disease,C0010346,FCN2,2220,Q15485,ficolin 2,Signaling,159,0.517,0.846,3.56E-11,0.02,,1,2,0,1998,2000
+Crohn Disease,C0010346,FGF7,2252,P21781,fibroblast growth factor 7,Signaling,167,0.519,0.846,0.77089,0.02,,1,2,0,1996,1997
+Crohn Disease,C0010346,FHIT,2272,P49789,fragile histidine triad diadenosine triphosphatase,,337,0.444,0.846,0.0057055,0.02,,1,2,0,2006,2009
+Crohn Disease,C0010346,DKK1,22943,O94907,dickkopf WNT signaling pathway inhibitor 1,,372,0.439,0.885,0.17423,0.02,,1,2,0,2013,2019
+Crohn Disease,C0010346,FLNB,2317,O75369,filamin B,,374,0.458,0.923,6.05E-10,0.02,,1,2,0,1996,1997
+Crohn Disease,C0010346,FOS,2353,P01100,"Fos proto-oncogene, AP-1 transcription factor subunit",Transcription factor,528,0.411,0.885,0.26176,0.02,,1,2,0,2002,2014
+Crohn Disease,C0010346,SEC14L2,23541,O76054,SEC14 like lipid binding 2,,198,0.494,0.885,2.92E-08,0.02,,1,2,0,1996,1997
+Crohn Disease,C0010346,LY96,23643,Q9Y6Y9,lymphocyte antigen 96,Receptor,54,0.636,0.615,0.000074167,0.02,,1,2,1,2014,2014
+Crohn Disease,C0010346,PANX1,24145,Q96RD7,pannexin 1,Ion channel,107,0.575,0.846,2.47E-06,0.02,,1,2,0,2012,2013
+Crohn Disease,C0010346,ALPI,248,P09923,"alkaline phosphatase, intestinal",Enzyme,98,0.563,0.769,2.45E-18,0.02,,1,2,0,2007,2012
+Crohn Disease,C0010346,RNF19A,25897,Q9NV58,"ring finger protein 19A, RBR E3 ubiquitin protein ligase",Enzyme,523,0.397,0.923,0.025305,0.02,,1,2,0,2002,2015
+Crohn Disease,C0010346,GAPDH,2597,P04406,glyceraldehyde-3-phosphate dehydrogenase,Enzyme,305,0.447,0.808,0.11388,0.02,,1,2,0,1997,2014
+Crohn Disease,C0010346,POLDIP2,26073,Q9Y2S7,DNA polymerase delta interacting protein 2,,530,0.396,0.923,0.41407,0.02,,1,2,0,2002,2015
+Crohn Disease,C0010346,GCHFR,2644,P30047,GTP cyclohydrolase I feedback regulator,,89,0.579,0.808,0.048251,0.02,,1,2,0,1998,2000
+Crohn Disease,C0010346,GHR,2690,P10912,growth hormone receptor,Signaling,247,0.49,0.846,0.000084385,0.02,,1,2,0,2006,2018
+Crohn Disease,C0010346,IL17C,27189,Q9P0M4,interleukin 17C,,61,0.619,0.692,0.0001243,0.02,,1,2,0,2014,2014
+Crohn Disease,C0010346,ABO,28,P16442,"ABO, alpha 1-3-N-acetylgalactosaminyltransferase and alpha 1-3-galactosyltransferase",Enzyme,443,0.427,0.885,,0.02,,1,2,0,2014,2020
+Crohn Disease,C0010346,OR10A4,283297,Q9H209,olfactory receptor family 10 subfamily A member 4,G-protein coupled receptor,128,0.54,0.808,0.000016786,0.02,,1,2,0,2007,2012
+Crohn Disease,C0010346,CXCR3,2833,P49682,C-X-C motif chemokine receptor 3,G-protein coupled receptor,367,0.436,0.808,0.181,0.02,,1,2,0,2005,2008
+Crohn Disease,C0010346,GPER1,2852,Q99527,G protein-coupled estrogen receptor 1,G-protein coupled receptor,180,0.505,0.731,0.57434,0.02,,1,2,0,2017,2019
+Crohn Disease,C0010346,CXCL1,2919,P09341,C-X-C motif chemokine ligand 1,Signaling,315,0.449,0.923,0.11845,0.02,,1,2,0,2017,2018
+Crohn Disease,C0010346,GSTA1,2938,P08263,glutathione S-transferase alpha 1,,108,0.561,0.731,1.73E-06,0.02,,1,2,0,2012,2017
+Crohn Disease,C0010346,GUCY2C,2984,P25092,guanylate cyclase 2C,Kinase,88,0.599,0.577,1.39E-30,0.02,,1,2,0,2012,2017
+Crohn Disease,C0010346,GUSB,2990,P08236,glucuronidase beta,,183,0.53,0.846,4.04E-08,0.02,,1,2,0,2013,2016
+Crohn Disease,C0010346,GZMB,3002,P10144,granzyme B,Enzyme,290,0.453,0.808,3.67E-14,0.02,,1,2,0,2000,2018
+Crohn Disease,C0010346,ANXA2,302,P07355,annexin A2,,294,0.453,0.808,0.000097728,0.02,,1,2,0,1999,2000
+Crohn Disease,C0010346,CD209,30835,Q9NNX6,CD209 molecule,Receptor,57,0.626,0.769,2.74E-13,0.02,,1,2,1,2003,2007
+Crohn Disease,C0010346,HLA-A,3105,P04439,"major histocompatibility complex, class I, A",,672,0.37,0.846,0.0013299,0.02,,0.5,2,0,1980,2015
+Crohn Disease,C0010346,HLA-DPA1,3113,P20036,"major histocompatibility complex, class II, DP alpha 1",Immune response,139,0.552,0.846,0.0000025,0.02,,0.5,2,0,1999,2002
+Crohn Disease,C0010346,HLA-DRB3,3125,P79483,"major histocompatibility complex, class II, DR beta 3",Immune response,85,0.57,0.885,,0.02,,1,2,0,1996,1998
+Crohn Disease,C0010346,NR4A1,3164,P22736,nuclear receptor subfamily 4 group A member 1,Nuclear receptor,216,0.49,0.731,0.37074,0.02,,1,2,0,2015,2016
+Crohn Disease,C0010346,APAF1,317,O14727,apoptotic peptidase activating factor 1,,145,0.525,0.769,9.62E-06,0.02,,1,2,2,2002,2003
+Crohn Disease,C0010346,TNC,3371,P24821,tenascin C,,369,0.433,0.846,1.26E-07,0.02,,1,2,0,2010,2017
+Crohn Disease,C0010346,IRF8,3394,Q02556,interferon regulatory factor 8,Transcription factor,149,0.539,0.808,0.94807,0.02,,1,2,0,2010,2011
+Crohn Disease,C0010346,GADL1,339896,Q6ZQY3,glutamate decarboxylase like 1,,192,0.497,0.808,1.37E-21,0.02,,1,2,0,2017,2018
+Crohn Disease,C0010346,IDH1,3417,O75874,isocitrate dehydrogenase (NADP(+)) 1,,399,0.424,0.808,2.62E-12,0.02,,1,2,0,2014,2016
+Crohn Disease,C0010346,LINC01193,348120,,long intergenic non-protein coding RNA 1193,,91,0.565,0.692,,0.02,,0.5,2,0,2014,2014
+Crohn Disease,C0010346,IL5,3567,P05113,interleukin 5,,359,0.437,0.846,0.0056529,0.02,,1,2,0,1997,2017
+Crohn Disease,C0010346,IL7,3574,P13232,interleukin 7,,275,0.464,0.808,0.92574,0.02,,1,2,0,2017,2019
+Crohn Disease,C0010346,IL11,3589,P20809,interleukin 11,,244,0.481,0.808,0.00031772,0.02,,1,2,0,1999,2002
+Crohn Disease,C0010346,IL12A,3592,P29459,interleukin 12A,,261,0.491,0.808,0.04746,0.02,,1,2,0,1998,2000
+Crohn Disease,C0010346,IL16,3603,Q14005,interleukin 16,Signaling,193,0.501,0.846,1.24E-10,0.02,,1,2,0,2000,2003
+Crohn Disease,C0010346,INSRR,3645,P14616,insulin receptor related receptor,Kinase,186,0.508,0.808,5.40E-24,0.02,,1,2,0,2019,2019
+Crohn Disease,C0010346,KIR2DL2,3803,P43627,"killer cell immunoglobulin like receptor, two Ig domains and long cytoplasmic tail 2",Receptor,65,0.612,0.654,,0.02,,1,2,0,2009,2016
+Crohn Disease,C0010346,KIR2DL3,3804,P43628,"killer cell immunoglobulin like receptor, two Ig domains and long cytoplasmic tail 3",Receptor,57,0.612,0.654,2.68E-09,0.02,,1,2,0,2009,2016
+Crohn Disease,C0010346,KIR2DS1,3806,Q14954,"killer cell immunoglobulin like receptor, two Ig domains and short cytoplasmic tail 1",Receptor,123,0.537,0.769,,0.02,,1,2,0,2016,2019
+Crohn Disease,C0010346,KPNA1,3836,P52294,karyopherin subunit alpha 1,Transporter,22,0.736,0.577,0.99818,0.02,,1,2,0,2008,2008
+Crohn Disease,C0010346,CCL4L1,388372,P13236;Q8NHW4,C-C motif chemokine ligand 4 like 1,,135,0.534,0.885,0.33576,0.02,,1,2,0,2011,2013
+Crohn Disease,C0010346,LBP,3929,P18428,lipopolysaccharide binding protein,,156,0.525,0.808,4.19E-15,0.02,,1,2,0,2007,2011
+Crohn Disease,C0010346,LGALS3,3958,P17931,galectin 3,Signaling,557,0.392,0.846,0.000023207,0.02,,1,2,0,2001,2008
+Crohn Disease,C0010346,LPL,4023,P06858,lipoprotein lipase,Enzyme,290,0.474,0.808,1.27E-09,0.02,,1,2,0,1994,2018
+Crohn Disease,C0010346,CYP4F3,4051,Q08477,cytochrome P450 family 4 subfamily F member 3,Enzyme,114,0.551,0.808,3.54E-16,0.02,,1,2,0,2010,2014
+Crohn Disease,C0010346,MIR125A,406910,,microRNA 125a,,225,0.48,0.769,,0.02,,0.5,2,0,2015,2017
+Crohn Disease,C0010346,MIR146A,406938,,microRNA 146a,,505,0.398,0.885,,0.02,,1,2,1,2016,2016
+Crohn Disease,C0010346,MIR155,406947,,microRNA 155,,584,0.384,0.885,,0.02,,1,2,0,2016,2017
+Crohn Disease,C0010346,MIR21,406991,,microRNA 21,,726,0.363,0.846,,0.02,,1,2,0,2017,2018
+Crohn Disease,C0010346,SMAD4,4089,Q13485,SMAD family member 4,Transcription factor,575,0.401,0.808,0.99881,0.02,,1,2,0,2018,2019
+Crohn Disease,C0010346,DEFB103A,414325,P81534,defensin beta 103A,,84,0.573,0.731,,0.02,,0.5,2,0,2004,2013
+Crohn Disease,C0010346,MDK,4192,P21741,midkine,Signaling,209,0.494,0.808,0.23005,0.02,,1,2,0,2017,2019
+Crohn Disease,C0010346,MICB,4277,Q29980,MHC class I polypeptide-related sequence B,,95,0.576,0.731,0.000040609,0.02,,0.5,2,0,2001,2017
+Crohn Disease,C0010346,MMP7,4316,P09237,matrix metallopeptidase 7,Enzyme,320,0.446,0.885,1.04E-09,0.02,,1,2,0,2010,2020
+Crohn Disease,C0010346,MMP10,4319,P09238,matrix metallopeptidase 10,Enzyme,123,0.553,0.808,5.91E-15,0.02,,1,2,0,2010,2020
+Crohn Disease,C0010346,MPO,4353,P05164,myeloperoxidase,Enzyme,653,0.377,0.923,7.11E-15,0.02,,1,2,0,1999,2018
+Crohn Disease,C0010346,MPZ,4359,P25189,myelin protein zero,,249,0.503,0.846,0.27158,0.02,,1,2,0,2016,2017
+Crohn Disease,C0010346,MST1R,4486,Q04912,macrophage stimulating 1 receptor,Kinase,133,0.542,0.808,7.87E-37,0.02,,1,2,2,2008,2009
+Crohn Disease,C0010346,MUC3A,4584,Q02505,"mucin 3A, cell surface associated",,52,0.636,0.5,1.48E-10,0.02,,1,2,0,2001,2001
+Crohn Disease,C0010346,ATF3,467,P18847,activating transcription factor 3,Transcription factor,228,0.494,0.885,0.089296,0.02,,1,2,0,2011,2018
+Crohn Disease,C0010346,NOS3,4846,P29474,nitric oxide synthase 3,,706,0.378,0.885,6.72E-07,0.02,,1,2,0,2006,2011
+Crohn Disease,C0010346,NPC1,4864,O15118,NPC intracellular cholesterol transporter 1,Transporter,220,0.518,0.692,6.54E-06,0.02,,1,2,0,2017,2018
+Crohn Disease,C0010346,MIR375,494324,,microRNA 375,,226,0.476,0.769,,0.02,,1,2,0,2015,2019
+Crohn Disease,C0010346,DEFB104B,503618,Q8WTQ1,defensin beta 104B,,42,0.638,0.692,0.33176,0.02,,1,2,0,2004,2010
+Crohn Disease,C0010346,SERPINE1,5054,P05121,serpin family E member 1,Enzyme modulator,770,0.359,0.885,0.043609,0.02,,1,2,0,2003,2007
+Crohn Disease,C0010346,NT5C3A,51251,Q9H0P0,"5'-nucleotidase, cytosolic IIIA",Enzyme,80,0.593,0.692,0.015053,0.02,,1,2,0,1999,2000
+Crohn Disease,C0010346,PIK3CA,5290,P42336,"phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha",Kinase,1511,0.292,0.923,1,0.02,,1,2,0,2013,2019
+Crohn Disease,C0010346,PIK3CB,5291,P42338,"phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta",Kinase,1083,0.322,0.885,0.99964,0.02,,1,2,0,2013,2019
+Crohn Disease,C0010346,PIK3CD,5293,O00329,"phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta",Kinase,1119,0.319,0.885,0.99999,0.02,,1,2,0,2013,2019
+Crohn Disease,C0010346,PIK3CG,5294,P48736,"phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit gamma",Kinase,1101,0.32,0.885,1.41E-06,0.02,,1,2,0,2013,2019
+Crohn Disease,C0010346,PKM,5315,P14618,pyruvate kinase M1/2,Kinase,237,0.482,0.808,0.8549,0.02,,1,2,0,2015,2018
+Crohn Disease,C0010346,PLA2G2A,5320,P14555,phospholipase A2 group IIA,Enzyme,215,0.488,0.808,0.097278,0.02,,1,2,0,2006,2014
+Crohn Disease,C0010346,PLG,5340,P00747,plasminogen,Enzyme,586,0.389,0.923,0.010345,0.02,,1,2,0,2003,2007
+Crohn Disease,C0010346,PMP22,5376,Q01453,peripheral myelin protein 22,Cellular structure,341,0.471,0.885,0.90958,0.02,,1,2,0,2016,2017
+Crohn Disease,C0010346,UGT1A1,54658,P22309,UDP glucuronosyltransferase family 1 member A1,,302,0.464,0.769,3.26E-06,0.02,,1,2,0,2012,2014
+Crohn Disease,C0010346,MARCHF1,55016,Q8TCQ1,membrane associated ring-CH-type finger 1,,126,0.54,0.808,0.0086782,0.02,,1,2,0,2019,2019
+Crohn Disease,C0010346,IMPACT,55364,Q9P2X3,impact RWD domain protein,,85,0.593,0.808,4.83E-08,0.02,,1,2,0,2017,2017
+Crohn Disease,C0010346,DEFB103B,55894,P81534,defensin beta 103B,,87,0.572,0.731,,0.02,,0.5,2,0,2004,2013
+Crohn Disease,C0010346,MAP2K1,5604,Q02750,mitogen-activated protein kinase kinase 1,Kinase,389,0.439,0.846,0.89669,0.02,,1,2,0,2008,2018
+Crohn Disease,C0010346,RETN,56729,Q9HD89,resistin,,302,0.454,0.808,0.036545,0.02,,1,2,0,2011,2018
+Crohn Disease,C0010346,EMSY,56946,Q7Z589,"EMSY transcriptional repressor, BRCA2 interacting",,52,0.628,0.423,1,0.02,,1,2,0,2011,2013
+Crohn Disease,C0010346,CXCL16,58191,Q9H2A7,C-X-C motif chemokine ligand 16,Signaling,178,0.502,0.769,0.000034546,0.02,,0.5,2,1,2008,2014
+Crohn Disease,C0010346,RAP1A,5906,P62834,"RAP1A, member of RAS oncogene family",Enzyme modulator,215,0.502,0.808,0.62227,0.02,,1,2,0,2010,2019
+Crohn Disease,C0010346,S100A9,6280,P06702,S100 calcium binding protein A9,Calcium-binding protein,363,0.433,0.885,0.4777,0.02,,1,2,0,2001,2017
+Crohn Disease,C0010346,BGLAP,632,P02818,bone gamma-carboxyglutamate protein,,274,0.462,0.846,4.62E-08,0.02,,1,2,0,2018,2019
+Crohn Disease,C0010346,CCL3L1,6349,P16619,C-C motif chemokine ligand 3 like 1,,40,0.65,0.654,0.12057,0.02,,0.5,2,0,2011,2011
+Crohn Disease,C0010346,CCL21,6366,O00585,C-C motif chemokine ligand 21,Signaling,186,0.502,0.769,0.036239,0.02,,1,2,1,2005,2007
+Crohn Disease,C0010346,CXCL5,6374,P42830,C-X-C motif chemokine ligand 5,Signaling,160,0.519,0.769,5.04E-06,0.02,,1,2,0,1997,2007
+Crohn Disease,C0010346,SDC1,6382,P18827,syndecan 1,Extracellular structure,323,0.445,0.769,0.0084118,0.02,,1,2,0,2013,2014
+Crohn Disease,C0010346,SELL,6402,P14151,selectin L,,171,0.505,0.846,4.96E-07,0.02,,1,2,0,2004,2009
+Crohn Disease,C0010346,ARHGEF28,64283,Q8N1W1,Rho guanine nucleotide exchange factor 28,,60,0.615,0.423,8.10E-21,0.02,,1,2,0,2009,2012
+Crohn Disease,C0010346,GORASP1,64689,Q9BQQ3,golgi reassembly stacking protein 1,,369,0.428,0.846,0.019543,0.02,,1,2,0,1996,1998
+Crohn Disease,C0010346,WNK1,65125,Q9H4A3,WNK lysine deficient protein kinase 1,Kinase,460,0.416,0.846,1,0.02,,1,2,0,1996,1998
+Crohn Disease,C0010346,SLC10A2,6555,Q12908,solute carrier family 10 member 2,Transporter,66,0.621,0.538,9.58E-17,0.02,,1,2,0,1995,2004
+Crohn Disease,C0010346,SLC22A1,6580,O15245,solute carrier family 22 member 1,Transporter,119,0.556,0.731,1.46E-22,0.02,,1,2,0,2005,2012
+Crohn Disease,C0010346,ST14,6768,Q9Y5Y6,suppression of tumorigenicity 14,Enzyme,170,0.514,0.769,0.56042,0.02,,1,2,0,2012,2017
+Crohn Disease,C0010346,STAT5A,6776,P42229,signal transducer and activator of transcription 5A,Nucleic acid binding,318,0.445,0.808,0.99994,0.02,,1,2,1,2013,2015
+Crohn Disease,C0010346,STAT5B,6777,P51692,signal transducer and activator of transcription 5B,Nucleic acid binding,357,0.442,0.808,0.99988,0.02,,1,2,0,2006,2013
+Crohn Disease,C0010346,SYT1,6857,P21579,synaptotagmin 1,Transporter,460,0.412,0.846,0.60038,0.02,,1,2,0,1996,1998
+Crohn Disease,C0010346,TAC1,6863,P20366,tachykinin precursor 1,,478,0.424,0.923,0.74608,0.02,,1,2,0,2007,2013
+Crohn Disease,C0010346,MAP3K7,6885,O43318,mitogen-activated protein kinase kinase kinase 7,Kinase,273,0.477,0.808,0.99971,0.02,,1,2,0,2009,2015
+Crohn Disease,C0010346,TAP2,6891,Q03519,"transporter 2, ATP binding cassette subfamily B member",Transporter,155,0.517,0.808,6.89E-11,0.02,,1,2,0,1997,2019
+Crohn Disease,C0010346,TCN2,6948,P20062,transcobalamin 2,,104,0.578,0.615,1.05E-06,0.02,,1,2,2,2012,2017
+Crohn Disease,C0010346,TFF1,7031,P04155,trefoil factor 1,Signaling,147,0.529,0.769,0.00088929,0.02,,1,2,0,1991,2013
+Crohn Disease,C0010346,THY1,7070,P04216,Thy-1 cell surface antigen,,197,0.496,0.808,0.049895,0.02,,1,2,0,2013,2020
+Crohn Disease,C0010346,NR2C2,7182,P49116,nuclear receptor subfamily 2 group C member 2,Nuclear receptor,131,0.534,0.808,0.99892,0.02,,1,2,0,2009,2015
+Crohn Disease,C0010346,C4B,721,P0C0L4;P0C0L5,complement C4B (Chido blood group),Enzyme modulator,66,0.603,0.808,0.83464,0.02,,1,2,0,2016,2017
+Crohn Disease,C0010346,DEFA1B,728358,P59665,defensin alpha 1B,,39,0.674,0.692,,0.02,,1,2,0,2010,2018
+Crohn Disease,C0010346,CCR2,729230,P41597,C-C motif chemokine receptor 2,,436,0.418,0.846,0.023412,0.02,,1,2,0,2001,2012
+Crohn Disease,C0010346,VCAM1,7412,P19320,vascular cell adhesion molecule 1,,406,0.422,0.808,0.79791,0.02,,1,2,0,2017,2020
+Crohn Disease,C0010346,VIL1,7429,P09327,villin 1,Cellular structure,32,0.691,0.423,2.64E-14,0.02,,1,2,0,2008,2018
+Crohn Disease,C0010346,BEST1,7439,O76090,bestrophin 1,Ion channel,292,0.465,0.885,1.82E-12,0.02,,1,2,0,2017,2018
+Crohn Disease,C0010346,XPNPEP1,7511,Q9NQW7,X-prolyl aminopeptidase 1,,20,0.729,0.346,0.33296,0.02,,1,2,0,2005,2019
+Crohn Disease,C0010346,YWHAZ,7534,P63104,tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein zeta,Chaperone,247,0.475,0.846,0.93965,0.02,,1,2,0,1999,2019
+Crohn Disease,C0010346,CXCR4,7852,P61073,C-X-C motif chemokine receptor 4,G-protein coupled receptor,739,0.362,0.923,0.017804,0.02,,1,2,0,2012,2014
+Crohn Disease,C0010346,AIMP2,7965,Q13155,aminoacyl tRNA synthetase complex interacting multifunctional protein 2,,555,0.393,0.923,0.008024,0.02,,1,2,0,2002,2015
+Crohn Disease,C0010346,PDCD1LG2,80380,Q9BQ51,programmed cell death 1 ligand 2,,191,0.496,0.769,0.00001203,0.02,,1,2,0,2017,2019
+Crohn Disease,C0010346,TLR10,81793,Q9BXR5,toll like receptor 10,,71,0.592,0.654,3.48E-09,0.02,,1,2,0,2011,2012
+Crohn Disease,C0010346,CAMP,820,P49913,cathelicidin antimicrobial peptide,,262,0.466,0.846,0.0043897,0.02,,1,2,0,2018,2019
+Crohn Disease,C0010346,CASP8,841,Q14790,caspase 8,Enzyme,480,0.404,0.923,3.72E-06,0.02,,1,2,0,2001,2020
+Crohn Disease,C0010346,CASP9,842,P55211,caspase 9,Enzyme,293,0.458,0.808,7.38E-06,0.02,,1,2,0,2011,2018
+Crohn Disease,C0010346,TSLP,85480,Q969D9,thymic stromal lymphopoietin,,220,0.486,0.808,0.0040357,0.02,,1,2,0,2010,2017
+Crohn Disease,C0010346,RUNX2,860,Q13950,RUNX family transcription factor 2,Transcription factor,405,0.437,0.846,0.94884,0.02,,1,2,0,2018,2018
+Crohn Disease,C0010346,USO1,8615,O60763,USO1 vesicle transport factor,Transporter,153,0.522,0.885,0.33417,0.02,,1,2,0,1996,1997
+Crohn Disease,C0010346,RUNX3,864,Q13761,RUNX family transcription factor 3,Transcription factor,281,0.459,0.731,0.84295,0.02,,0.5,2,0,2008,2011
+Crohn Disease,C0010346,CDK5R1,8851,Q15078,cyclin dependent kinase 5 regulatory subunit 1,Enzyme modulator,153,0.529,0.808,0.9149,0.02,,1,2,0,1998,2000
+Crohn Disease,C0010346,HERC2,8924,O95714,HECT and RLD domain containing E3 ubiquitin protein ligase 2,,143,0.568,0.692,1,0.02,,1,2,0,2009,2010
+Crohn Disease,C0010346,SOCS3,9021,O14543,suppressor of cytokine signaling 3,Enzyme modulator,375,0.434,0.808,0.74613,0.02,,1,2,0,2014,2015
+Crohn Disease,C0010346,CLDN8,9073,P56748,claudin 8,Cell-cell junction,30,0.674,0.5,0.016193,0.02,,1,2,0,2017,2018
+Crohn Disease,C0010346,CLDN2,9075,P57739,claudin 2,Cell-cell junction,97,0.575,0.692,0.70328,0.02,,1,2,0,2012,2013
+Crohn Disease,C0010346,MSC,9242,O60682,musculin,,241,0.475,0.846,0.024651,0.02,,1,2,0,2013,2018
+Crohn Disease,C0010346,GRAP2,9402,O75791,GRB2 related adaptor protein 2,,538,0.394,0.923,0.00015256,0.02,,1,2,0,2002,2015
+Crohn Disease,C0010346,CD86,942,P42081,CD86 molecule,,219,0.483,0.769,0.94879,0.02,,1,2,0,2007,2014
+Crohn Disease,C0010346,CD40LG,959,P29965,CD40 ligand,Signaling,453,0.414,0.846,0.72079,0.02,,1,2,1,1999,2017
+Crohn Disease,C0010346,TRAF4,9618,Q9BUZ4,TNF receptor associated factor 4,Signaling,61,0.626,0.615,0.93602,0.02,,1,2,0,2011,2012
+Crohn Disease,C0010346,MAGI2,9863,Q86UL8,"membrane associated guanylate kinase, WW and PDZ domain containing 2",,97,0.579,0.654,0.99943,0.02,,1,2,1,2009,2011
+Crohn Disease,C0010346,RNA28SN5,100008589,,"RNA, 28S ribosomal N5",,24,0.705,0.346,,0.01,,1,1,0,1997,1997
+Crohn Disease,C0010346,CDKN2B-AS1,100048912,,CDKN2B antisense RNA 1,,213,0.491,0.769,,0.01,,1,1,0,2019,2019
+Crohn Disease,C0010346,OCTN3,100049579,,organic cation transporter 3,,8,0.805,0.308,,0.01,,1,1,0,2003,2003
+Crohn Disease,C0010346,CDH3,1001,P22223,cadherin 3,,119,0.56,0.615,2.80E-10,0.01,,1,1,0,2011,2011
+Crohn Disease,C0010346,ZGLP1,100125288,P0C6A0,zinc finger GATA like protein 1,,186,0.512,0.808,0.3868,0.01,,1,1,0,2018,2018
+Crohn Disease,C0010346,HDAC6,10013,Q9UBN7,histone deacetylase 6,Epigenetic regulator,288,0.465,0.846,1,0.01,,1,1,0,2007,2007
+Crohn Disease,C0010346,HDAC5,10014,Q9UQL6,histone deacetylase 5,Epigenetic regulator,114,0.552,0.769,1,0.01,,1,1,0,2018,2018
+Crohn Disease,C0010346,IBD19,100190926,,Inflammatory bowel disease 19,,1,1,0.038,,0.01,,1,1,0,2019,2019
+Crohn Disease,C0010346,IBD15,100190929,,Inflammatory bowel disease-15,,2,1,0.038,,0.01,,1,1,0,2011,2011
+Crohn Disease,C0010346,IBD18,100190931,,Inflammatory bowel disease-18,,1,1,0.038,,0.01,,1,1,0,2014,2014
+Crohn Disease,C0010346,IBD21,100192312,,Inflammatory bowel disease-21,,2,1,0.038,,0.01,,1,1,0,2006,2006
+Crohn Disease,C0010346,IBD22,100240732,,Inflammatory bowel disease-22,,2,0.931,0.038,,0.01,,1,1,0,2007,2007
+Crohn Disease,C0010346,IBD23,100240733,,Inflammatory bowel disease-23,,1,1,0.038,,0.01,,1,1,0,2006,2006
+Crohn Disease,C0010346,IBD24,100270798,,Inflammatory bowel disease-24,,3,0.931,0.038,,0.01,,1,1,0,2001,2001
+Crohn Disease,C0010346,LINC00994,100287879,,long intergenic non-protein coding RNA 994,,7,0.839,0.154,,0.01,,1,1,0,2015,2015
+Crohn Disease,C0010346,IBD27,100302059,,Inflammatory bowel disease-27,,4,0.89,0.077,,0.01,,1,1,0,2003,2003
+Crohn Disease,C0010346,MIR1246,100302142,,microRNA 1246,,76,0.592,0.808,,0.01,,1,1,0,2015,2015
+Crohn Disease,C0010346,MIR1908,100302263,,microRNA 1908,,37,0.67,0.577,,0.01,,1,1,0,2018,2018
+Crohn Disease,C0010346,DBET,100419743,,D4Z4 binding element transcript,,2,0.931,0.154,,0.01,,1,1,0,2015,2015
+Crohn Disease,C0010346,LRRC3C,100505591,A6NJW4,leucine rich repeat containing 3C,,4,0.931,0.115,0.029211,0.01,,1,1,0,2015,2015
+Crohn Disease,C0010346,OCLN,100506658,Q16625,occludin,,195,0.507,0.846,8.56E-07,0.01,,1,1,0,2019,2019
+Crohn Disease,C0010346,PSC,100653366,,"Cholangitis, primary sclerosing",,67,0.603,0.731,,0.01,,1,1,0,2019,2019
+Crohn Disease,C0010346,MUC12,10071,Q9UKN1,"mucin 12, cell surface associated",,10,0.792,0.192,1.28E-68,0.01,,1,1,1,2006,2006
+Crohn Disease,C0010346,CDH11,1009,P55287,cadherin 11,,203,0.512,0.808,0.9999,0.01,,1,1,0,2020,2020
+Crohn Disease,C0010346,OPN1MW3,101060233,P04001;P0DN77;P0DN78,"opsin 1, medium wave sensitive 3",,80,0.601,0.769,,0.01,,0,1,0,2002,2002
+Crohn Disease,C0010346,RAD50,10111,Q92878,RAD50 double strand break repair protein,,110,0.556,0.808,3.44E-27,0.01,,1,1,1,2006,2006
+Crohn Disease,C0010346,LRPPRC,10128,P42704,leucine rich pentatricopeptide repeat containing,,220,0.493,0.769,2.30E-10,0.01,,1,1,0,2002,2002
+Crohn Disease,C0010346,LPAR6,10161,P43657,lysophosphatidic acid receptor 6,G-protein coupled receptor,47,0.678,0.385,0.0007129,0.01,,1,1,0,2009,2009
+Crohn Disease,C0010346,RCL1,10171,Q9Y2P8,RNA terminal phosphate cyclase like 1,Enzyme,19,0.792,0.192,0.059378,0.01,,1,1,0,2019,2019
+Crohn Disease,C0010346,TNK2,10188,Q07912,tyrosine kinase non receptor 2,Kinase,59,0.623,0.538,8.22E-12,0.01,,1,1,0,2016,2016
+Crohn Disease,C0010346,NME6,10201,O75414,NME/NM23 nucleoside diphosphate kinase 6,Kinase,4,0.861,0.077,4.27E-07,0.01,,1,1,0,2013,2013
+Crohn Disease,C0010346,TRIM13,10206,O60858,tripartite motif containing 13,,275,0.462,0.846,0.6366,0.01,,1,1,0,2017,2017
+Crohn Disease,C0010346,DDX39A,10212,O00148,DExD-box helicase 39A,,37,0.674,0.692,0.60151,0.01,,1,1,0,2004,2004
+Crohn Disease,C0010346,CDKN1A,1026,P38936,cyclin dependent kinase inhibitor 1A,,490,0.403,0.769,0.0018575,0.01,,1,1,0,1999,1999
+Crohn Disease,C0010346,IGSF6,10261,O95976,immunoglobulin superfamily member 6,,12,0.839,0.269,0.0014791,0.01,,1,1,0,2000,2000
+Crohn Disease,C0010346,CDKN1B,1027,P46527,cyclin dependent kinase inhibitor 1B,,454,0.409,0.769,0.62376,0.01,,1,1,0,2017,2017
+Crohn Disease,C0010346,LOC102723971,102723971,,lipocalin 1-like,,39,0.663,0.577,,0.01,,1,1,0,1996,1996
+Crohn Disease,C0010346,LOC102723996,102723996,,ICOS ligand,,10,0.769,0.423,,0.01,,1,1,0,2014,2014
+Crohn Disease,C0010346,TRAIP,10293,Q9BWF2,TRAF interacting protein,,77,0.644,0.654,0.000015879,0.01,,1,1,1,2008,2008
+Crohn Disease,C0010346,TLR6,10333,Q9Y2C9,toll like receptor 6,,106,0.556,0.769,0.000022508,0.01,,1,1,0,2011,2011
+Crohn Disease,C0010346,TRIM22,10346,Q8IYM9,tripartite motif containing 22,,33,0.691,0.5,0.000021312,0.01,,1,1,0,2016,2016
+Crohn Disease,C0010346,HMG20A,10363,Q9NP66,high mobility group 20A,,5,0.89,0.154,0.67769,0.01,,1,1,0,2016,2016
+Crohn Disease,C0010346,MERTK,10461,Q12866,"MER proto-oncogene, tyrosine kinase",Kinase,154,0.531,0.692,2.66E-11,0.01,,1,1,0,2017,2017
+Crohn Disease,C0010346,CLEC10A,10462,Q8IUN9,C-type lectin domain containing 10A,Receptor,64,0.606,0.692,7.76E-06,0.01,,1,1,0,2012,2012
+Crohn Disease,C0010346,FBLN5,10516,Q9UBX5,fibulin 5,Calcium-binding protein,150,0.546,0.692,0.9997,0.01,,1,1,0,2009,2009
+Crohn Disease,C0010346,KAT5,10524,Q92993,lysine acetyltransferase 5,,138,0.534,0.769,0.088234,0.01,,1,1,0,1995,1995
+Crohn Disease,C0010346,UBD,10537,O15205,ubiquitin D,,71,0.597,0.692,0.0070467,0.01,,1,1,0,2010,2010
+Crohn Disease,C0010346,AGR2,10551,O95994,"anterior gradient 2, protein disulphide isomerase family member",Enzyme,108,0.556,0.692,9.24E-08,0.01,,1,1,0,2019,2019
+Crohn Disease,C0010346,TNFSF13B,10673,Q9Y275,TNF superfamily member 13b,,282,0.46,0.731,0.98193,0.01,,1,1,0,2019,2019
+Crohn Disease,C0010346,CORIN,10699,Q9Y5Q5,"corin, serine peptidase",,55,0.695,0.538,6.51E-35,0.01,,1,1,0,2013,2013
+Crohn Disease,C0010346,CERS1,10715,P27544,ceramide synthase 1,,49,0.638,0.385,0.096618,0.01,,1,1,0,2013,2013
+Crohn Disease,C0010346,MASP2,10747,O00187,mannan binding lectin serine peptidase 2,Enzyme,86,0.582,0.692,3.04E-14,0.01,,1,1,0,2007,2007
+Crohn Disease,C0010346,CFTR,1080,P13569,CF transmembrane conductance regulator,Ion channel,476,0.424,0.885,2.17E-58,0.01,,1,1,0,2007,2007
+Crohn Disease,C0010346,CCL27,10850,Q9Y4X3,C-C motif chemokine ligand 27,Signaling,185,0.502,0.846,0.013511,0.01,,1,1,0,2019,2019
+Crohn Disease,C0010346,HPSE,10855,Q9Y251,heparanase,Enzyme,393,0.425,0.808,2.27E-14,0.01,,1,1,0,2013,2013
+Crohn Disease,C0010346,CEACAM8,1088,P31997,CEA cell adhesion molecule 8,,29,0.682,0.538,3.30E-07,0.01,,1,1,0,2019,2019
+Crohn Disease,C0010346,RIPK3,11035,Q9Y572,receptor interacting serine/threonine kinase 3,Kinase,196,0.497,0.885,1.19E-14,0.01,,1,1,0,2011,2011
+Crohn Disease,C0010346,STIN2-VNTR,110806307,,serotonin transporter intronic VNTR enhancer,,55,0.636,0.538,,0.01,,1,1,0,2018,2018
+Crohn Disease,C0010346,PRDM5,11107,Q9NQX1,PR/SET domain 5,,73,0.621,0.654,3.60E-10,0.01,,1,1,0,2017,2017
+Crohn Disease,C0010346,KIF3A,11127,Q9Y496,kinesin family member 3A,Cellular structure,64,0.612,0.615,0.89775,0.01,,1,1,0,2009,2009
+Crohn Disease,C0010346,BAZ1A,11177,Q9NRL2,bromodomain adjacent to zinc finger domain 1A,,17,0.792,0.269,1,0.01,,1,1,0,2014,2014
+Crohn Disease,C0010346,WIF1,11197,Q9Y5W5,WNT inhibitory factor 1,Calcium-binding protein,171,0.507,0.731,1.32E-09,0.01,,1,1,0,2019,2019
+Crohn Disease,C0010346,IRAK3,11213,Q9Y616,interleukin 1 receptor associated kinase 3,Kinase,59,0.615,0.615,5.31E-21,0.01,,1,1,0,2016,2016
+Crohn Disease,C0010346,AKAP13,11214,Q12802,A-kinase anchoring protein 13,,73,0.626,0.615,0.92909,0.01,,0,1,0,2004,2004
+Crohn Disease,C0010346,EGLN3,112399,Q9H6Z9,egl-9 family hypoxia inducible factor 3,,97,0.575,0.654,0.0094753,0.01,,1,1,0,2012,2012
+Crohn Disease,C0010346,PRRT2,112476,Q7Z6L0,proline rich transmembrane protein 2,,353,0.448,0.808,0.57919,0.01,,1,1,0,2016,2016
+Crohn Disease,C0010346,ECD,11319,O95905,ecdysoneless cell cycle regulator,,40,0.656,0.538,2.34E-12,0.01,,1,1,0,2004,2004
+Crohn Disease,C0010346,CBX3,11335,Q13185,chromobox 3,Epigenetic regulator,53,0.633,0.346,0.40951,0.01,,0,1,0,2012,2012
+Crohn Disease,C0010346,MGLL,11343,Q99685,monoglyceride lipase,Enzyme,125,0.564,0.731,0.020016,0.01,,1,1,0,2012,2012
+Crohn Disease,C0010346,CHUK,1147,O15111,component of inhibitor of nuclear factor kappa B kinase complex,Kinase,125,0.556,0.731,0.99403,0.01,,1,1,0,2016,2016
+Crohn Disease,C0010346,PGLYRP3,114771,Q96LB9,peptidoglycan recognition protein 3,,9,0.792,0.192,9.61E-08,0.01,,1,1,0,2013,2013
+Crohn Disease,C0010346,ATG4A,115201,Q8WYN0,autophagy related 4A cysteine peptidase,Enzyme,16,0.76,0.192,0.98953,0.01,,1,1,0,2010,2010
+Crohn Disease,C0010346,H3P40,115482723,,H3 histone pseudogene 40,,175,0.506,0.846,,0.01,,1,1,0,1998,1998
+Crohn Disease,C0010346,LRG1,116844,P02750,leucine rich alpha-2-glycoprotein 1,,109,0.564,0.731,0.095143,0.01,,1,1,0,2012,2012
+Crohn Disease,C0010346,CLU,1191,P10909,clusterin,,412,0.426,0.885,0.000078072,0.01,,1,1,0,2001,2001
+Crohn Disease,C0010346,CCR1,1230,P32246,C-C motif chemokine receptor 1,G-protein coupled receptor,192,0.531,0.769,0.38775,0.01,,1,1,0,2017,2017
+Crohn Disease,C0010346,CCR3,1232,P51677,C-C motif chemokine receptor 3,G-protein coupled receptor,149,0.527,0.808,0.00012636,0.01,,1,1,0,2010,2010
+Crohn Disease,C0010346,ACKR2,1238,O00590,atypical chemokine receptor 2,G-protein coupled receptor,59,0.641,0.615,0.001388,0.01,,1,1,0,2007,2007
+Crohn Disease,C0010346,COL1A1,1277,P02452,collagen type I alpha 1 chain,,487,0.43,0.808,1,0.01,,1,1,0,2005,2005
+Crohn Disease,C0010346,COL3A1,1281,P02461,collagen type III alpha 1 chain,,301,0.477,0.808,1,0.01,,1,1,0,2019,2019
+Crohn Disease,C0010346,COL7A1,1294,Q02388,collagen type VII alpha 1 chain,Receptor,160,0.545,0.808,2.44E-40,0.01,,1,1,0,2002,2002
+Crohn Disease,C0010346,COL11A2,1302,P13942,collagen type XI alpha 2 chain,,399,0.435,0.846,0.70197,0.01,,1,1,0,2017,2017
+Crohn Disease,C0010346,SLCO6A1,133482,Q86UG4,solute carrier organic anion transporter family member 6A1,Transporter,449,0.412,0.885,2.88E-11,0.01,,1,1,0,2012,2012
+Crohn Disease,C0010346,ATF2,1386,P15336,activating transcription factor 2,Transcription factor,122,0.551,0.808,0.99131,0.01,,1,1,0,2013,2013
+Crohn Disease,C0010346,GPR119,139760,Q8TDV5,G protein-coupled receptor 119,G-protein coupled receptor,27,0.695,0.346,0.0086183,0.01,,1,1,0,2019,2019
+Crohn Disease,C0010346,ADORA3,140,P0DMS8,adenosine A3 receptor,G-protein coupled receptor,36,0.682,0.5,0.0001441,0.01,,1,1,0,2009,2009
+Crohn Disease,C0010346,MUC17,140453,Q685J3,"mucin 17, cell surface associated",,53,0.638,0.577,7.90E-63,0.01,,1,1,0,2001,2001
+Crohn Disease,C0010346,CRX,1406,O43186,cone-rod homeobox,Transcription factor,128,0.565,0.692,0.51043,0.01,,1,1,0,2019,2019
+Crohn Disease,C0010346,MACROD2,140733,A1Z1Q3,mono-ADP ribosylhydrolase 2,,57,0.686,0.423,0.43472,0.01,,1,1,0,2013,2013
+Crohn Disease,C0010346,HT,140805,,Hashimoto thyroiditis,,170,0.505,0.731,,0.01,,0,1,0,2017,2017
+Crohn Disease,C0010346,C11orf40,143501,Q8WZ69,chromosome 11 open reading frame 40 (putative),,4,0.931,0.115,1.06E-06,0.01,,1,1,0,2017,2017
+Crohn Disease,C0010346,CSF1R,1436,P07333,colony stimulating factor 1 receptor,Kinase,356,0.448,0.808,0.13278,0.01,,1,1,0,2019,2019
+Crohn Disease,C0010346,PWAR1,145624,,Prader Willi/Angelman region RNA 1,,246,0.49,0.769,,0.01,,1,1,0,2017,2017
+Crohn Disease,C0010346,IL34,146433,Q6ZMJ4,interleukin 34,,103,0.56,0.769,0.55444,0.01,,1,1,0,2015,2015
+Crohn Disease,C0010346,CD300LF,146722,Q8TDQ1,CD300 molecule like family member f,,34,0.716,0.385,1.06E-08,0.01,,1,1,0,2009,2009
+Crohn Disease,C0010346,CST3,1471,P01034,cystatin C,,370,0.436,0.808,0.0039011,0.01,,1,1,0,2016,2016
+Crohn Disease,C0010346,CTSS,1520,P25774,cathepsin S,Enzyme,131,0.539,0.731,0.34178,0.01,,1,1,0,2013,2013
+Crohn Disease,C0010346,CXADR,1525,P78310,CXADR Ig-like cell adhesion molecule,,305,0.454,0.885,0.36867,0.01,,1,1,0,2017,2017
+Crohn Disease,C0010346,MARVELD2,153562,Q8N4S9,MARVEL domain containing 2,Cell-cell junction,26,0.705,0.462,1.26E-12,0.01,,1,1,0,2018,2018
+Crohn Disease,C0010346,CYP1A1,1543,P04798,cytochrome P450 family 1 subfamily A member 1,Enzyme,379,0.436,0.846,1.06E-17,0.01,,1,1,0,2003,2003
+Crohn Disease,C0010346,CYP2A6,1548,P11509,cytochrome P450 family 2 subfamily A member 6,,133,0.556,0.731,5.40E-09,0.01,,1,1,0,2014,2014
+Crohn Disease,C0010346,CYP2D6,1565,P10635,cytochrome P450 family 2 subfamily D member 6,,432,0.437,0.885,1.08E-25,0.01,,1,1,0,2014,2014
+Crohn Disease,C0010346,CYP2J2,1573,P51589,cytochrome P450 family 2 subfamily J member 2,,65,0.628,0.615,1.62E-15,0.01,,1,1,0,2013,2013
+Crohn Disease,C0010346,CYP19A1,1588,P11511,cytochrome P450 family 19 subfamily A member 1,Enzyme,519,0.41,0.885,0.000017022,0.01,,1,1,0,2017,2017
+Crohn Disease,C0010346,CYP27B1,1594,O15528,cytochrome P450 family 27 subfamily B member 1,Enzyme,229,0.502,0.769,1.92E-07,0.01,,0,1,0,2019,2019
+Crohn Disease,C0010346,CLEC12A,160364,Q5QGZ9,C-type lectin domain family 12 member A,,34,0.686,0.346,2.60E-07,0.01,,1,1,0,2015,2015
+Crohn Disease,C0010346,DCC,1630,P43146,DCC netrin 1 receptor,,279,0.471,0.808,0.99448,0.01,,1,1,0,2009,2009
+Crohn Disease,C0010346,IDO2,169355,Q6ZQW0,"indoleamine 2,3-dioxygenase 2",,31,0.695,0.577,3.14E-09,0.01,,1,1,0,2014,2014
+Crohn Disease,C0010346,PSORS1C1,170679,Q9UIG5,psoriasis susceptibility 1 candidate 1,,43,0.656,0.731,0.00026534,0.01,,1,1,0,2004,2004
+Crohn Disease,C0010346,ASXL1,171023,Q8IXJ9,ASXL transcriptional regulator 1,,296,0.482,0.808,1.25E-14,0.01,,1,1,0,2019,2019
+Crohn Disease,C0010346,DHPS,1725,P49366,deoxyhypusine synthase,,62,0.67,0.538,0.00016305,0.01,,1,1,0,2012,2012
+Crohn Disease,C0010346,DLG1,1739,Q12959,discs large MAGUK scaffold protein 1,Receptor,54,0.647,0.654,0.99393,0.01,,1,1,1,2014,2014
+Crohn Disease,C0010346,DNASE1,1773,P24855,deoxyribonuclease 1,,180,0.505,0.846,6.98E-21,0.01,,1,1,0,2014,2014
+Crohn Disease,C0010346,DNMT1,1786,P26358,DNA methyltransferase 1,Epigenetic regulator,496,0.406,0.885,1,0.01,,1,1,0,2018,2018
+Crohn Disease,C0010346,DNTT,1791,P04053,DNA nucleotidylexotransferase,Enzyme,70,0.606,0.692,2.95E-10,0.01,,1,1,0,2006,2006
+Crohn Disease,C0010346,DRD2,1813,P14416,dopamine receptor D2,G-protein coupled receptor,437,0.436,0.846,0.74709,0.01,,1,1,0,2006,2006
+Crohn Disease,C0010346,DSC2,1824,Q02487,desmocollin 2,Cell adhesion,81,0.61,0.538,5.17E-08,0.01,,1,1,0,2018,2018
+Crohn Disease,C0010346,DSG1,1828,Q02413,desmoglein 1,Cell adhesion,81,0.606,0.538,0.92688,0.01,,1,1,0,2017,2017
+Crohn Disease,C0010346,DSP,1832,P15924,desmoplakin,Cellular structure,191,0.514,0.808,0.99978,0.01,,1,1,0,2017,2017
+Crohn Disease,C0010346,EEC1,1913,,"ectrodactyly, ectodermal dysplasia and cleft lip/palate syndrome 1",,26,0.691,0.538,,0.01,,0,1,0,2012,2012
+Crohn Disease,C0010346,EFNB2,1948,P52799,ephrin B2,Signaling,109,0.561,0.692,0.98845,0.01,,1,1,0,2005,2005
+Crohn Disease,C0010346,EGF,1950,P01133,epidermal growth factor,,774,0.357,0.923,8.53E-17,0.01,,1,1,0,1991,1991
+Crohn Disease,C0010346,MEGF8,1954,Q7Z7M0,multiple EGF like domains 8,Enzyme modulator,89,0.584,0.538,0.000019329,0.01,,1,1,0,2019,2019
+Crohn Disease,C0010346,EGFR,1956,P00533,epidermal growth factor receptor,Kinase,1394,0.295,0.885,0.36837,0.01,,1,1,0,2002,2002
+Crohn Disease,C0010346,EGR1,1958,P18146,early growth response 1,Nucleic acid binding,378,0.433,0.923,0.3509,0.01,,1,1,0,2012,2012
+Crohn Disease,C0010346,AHSG,197,P02765,alpha 2-HS glycoprotein,Enzyme modulator,204,0.506,0.846,3.21E-10,0.01,,1,1,0,2017,2017
+Crohn Disease,C0010346,AIF1,199,P55008,allograft inflammatory factor 1,Calcium-binding protein,166,0.521,0.808,1.88E-06,0.01,,1,1,0,2013,2013
+Crohn Disease,C0010346,ELANE,1991,P08246,"elastase, neutrophil expressed",Enzyme,346,0.447,0.846,0.0012274,0.01,,1,1,0,2017,2017
+Crohn Disease,C0010346,ELAVL2,1993,Q12926,ELAV like RNA binding protein 2,,199,0.486,0.808,0.99514,0.01,,1,1,0,2019,2019
+Crohn Disease,C0010346,ELAVL1,1994,Q15717,ELAV like RNA binding protein 1,,103,0.56,0.731,0.98849,0.01,,1,1,0,2011,2011
+Crohn Disease,C0010346,ELAVL3,1995,Q14576,ELAV like RNA binding protein 3,,27,0.705,0.385,0.77072,0.01,,1,1,0,2017,2017
+Crohn Disease,C0010346,EP300,2033,Q09472,E1A binding protein p300,,345,0.459,0.846,1,0.01,,1,1,0,2013,2013
+Crohn Disease,C0010346,NLRP11,204801,P59045,NLR family pyrin domain containing 11,,5,0.931,0.077,2.15E-09,0.01,,1,1,1,2010,2010
+Crohn Disease,C0010346,EPHX2,2053,P34913,epoxide hydrolase 2,Enzyme,97,0.568,0.654,1.79E-21,0.01,,1,1,0,2019,2019
+Crohn Disease,C0010346,ERBB2,2064,P04626,erb-b2 receptor tyrosine kinase 2,Kinase,995,0.328,0.923,0.0059892,0.01,,1,1,0,2017,2017
+Crohn Disease,C0010346,ERBB4,2066,Q15303,erb-b2 receptor tyrosine kinase 4,Kinase,317,0.455,0.846,0.99912,0.01,,1,1,0,2019,2019
+Crohn Disease,C0010346,AKT1,207,P31749,AKT serine/threonine kinase 1,Kinase,1250,0.311,0.962,0.9759,0.01,,1,1,0,2017,2017
+Crohn Disease,C0010346,EZH2,2146,Q15910,enhancer of zeste 2 polycomb repressive complex 2 subunit,Epigenetic regulator,653,0.376,0.885,1,0.01,,1,1,0,2017,2017
+Crohn Disease,C0010346,F2R,2149,P25116,coagulation factor II thrombin receptor,G-protein coupled receptor,347,0.444,0.846,0.0084678,0.01,,1,1,0,2017,2017
+Crohn Disease,C0010346,ALDH1A1,216,P00352,aldehyde dehydrogenase 1 family member A1,Enzyme,270,0.46,0.846,0.95448,0.01,,1,1,0,2014,2014
+Crohn Disease,C0010346,F13A1,2162,P00488,coagulation factor XIII A chain,Enzyme,117,0.575,0.731,5.29E-08,0.01,,1,1,1,2006,2006
+Crohn Disease,C0010346,FABP5,2171,Q01469,fatty acid binding protein 5,,85,0.585,0.731,0.047008,0.01,,1,1,0,2017,2017
+Crohn Disease,C0010346,FAP,2191,Q12884,fibroblast activation protein alpha,Enzyme,216,0.496,0.808,1.90E-28,0.01,,1,1,0,2018,2018
+Crohn Disease,C0010346,FGF2,2247,P09038,fibroblast growth factor 2,Signaling,635,0.383,0.923,0.0184,0.01,,1,1,0,2012,2012
+Crohn Disease,C0010346,FGFR1,2260,P11362,fibroblast growth factor receptor 1,Kinase,816,0.362,0.885,0.99984,0.01,,1,1,0,2019,2019
+Crohn Disease,C0010346,FH,2271,P07954,fumarate hydratase,Enzyme,231,0.489,0.846,0.08824,0.01,,1,1,0,2017,2017
+Crohn Disease,C0010346,FKBP5,2289,Q13451,FKBP prolyl isomerase 5,Enzyme,179,0.524,0.769,0.73393,0.01,,1,1,1,2012,2012
+Crohn Disease,C0010346,MMRN1,22915,Q13201,multimerin 1,,272,0.465,0.846,2.07E-25,0.01,,1,1,0,2017,2017
+Crohn Disease,C0010346,SEPHS1,22929,P49903,selenophosphate synthetase 1,Enzyme,31,0.695,0.385,0.97637,0.01,,1,1,0,2012,2012
+Crohn Disease,C0010346,TTLL5,23093,Q6EMB2,tubulin tyrosine ligase like 5,Enzyme,34,0.686,0.5,2.92E-22,0.01,,1,1,0,2019,2019
+Crohn Disease,C0010346,MPRIP,23164,Q6WCQ1,myosin phosphatase Rho interacting protein,Enzyme modulator,113,0.556,0.885,0.98078,0.01,,1,1,0,2011,2011
+Crohn Disease,C0010346,ACSBG1,23205,Q96GR2,acyl-CoA synthetase bubblegum family member 1,Enzyme,73,0.603,0.654,0.00003959,0.01,,1,1,0,2017,2017
+Crohn Disease,C0010346,MED13L,23389,Q71F56,mediator complex subunit 13L,,94,0.617,0.538,1,0.01,,1,1,0,2012,2012
+Crohn Disease,C0010346,SF3B3,23450,Q15393,splicing factor 3b subunit 3,Nucleic acid binding,13,0.792,0.231,1,0.01,,1,1,0,2020,2020
+Crohn Disease,C0010346,SF3B1,23451,O75533,splicing factor 3b subunit 1,Nucleic acid binding,200,0.511,0.731,1,0.01,,1,1,0,2019,2019
+Crohn Disease,C0010346,CABIN1,23523,Q9Y6J0,calcineurin binding protein 1,Enzyme modulator,136,0.536,0.846,3.28E-17,0.01,,1,1,0,2019,2019
+Crohn Disease,C0010346,ZNF281,23528,Q9Y2X9,zinc finger protein 281,Transcription factor,34,0.674,0.346,0.99624,0.01,,1,1,0,2018,2018
+Crohn Disease,C0010346,FOSB,2354,P53539,"FosB proto-oncogene, AP-1 transcription factor subunit",Transcription factor,278,0.463,0.846,0.97553,0.01,,1,1,0,2002,2002
+Crohn Disease,C0010346,ATP6V0A2,23545,Q9Y487,ATPase H+ transporting V0 subunit a2,Transporter,158,0.57,0.692,2.63E-11,0.01,,1,1,0,2013,2013
+Crohn Disease,C0010346,FOSL2,2355,P15408,"FOS like 2, AP-1 transcription factor subunit",Transcription factor,83,0.595,0.692,0.98293,0.01,,1,1,1,2018,2018
+Crohn Disease,C0010346,PADI4,23569,Q9UM07,peptidyl arginine deiminase 4,,196,0.494,0.808,4.60E-16,0.01,,1,1,0,2005,2005
+Crohn Disease,C0010346,IL17RA,23765,Q96F46,interleukin 17 receptor A,,159,0.529,0.808,0.00035636,0.01,,1,1,0,2009,2009
+Crohn Disease,C0010346,ALOX5,240,P09917,arachidonate 5-lipoxygenase,Enzyme,342,0.447,0.885,1.21E-06,0.01,,1,1,0,2010,2010
+Crohn Disease,C0010346,VAMAS6,246319,,Vitiligo,,23,0.729,0.269,,0.01,,1,1,0,2017,2017
+Crohn Disease,C0010346,FRG1,2483,Q14331,FSHD region gene 1,Nucleic acid binding,44,0.722,0.423,6.14E-07,0.01,,1,1,0,2015,2015
+Crohn Disease,C0010346,ALPP,250,P05187,"alkaline phosphatase, placental",Enzyme,209,0.487,0.808,1.81E-13,0.01,,1,1,0,2012,2012
+Crohn Disease,C0010346,FUT3,2525,P21217,fucosyltransferase 3 (Lewis blood group),Enzyme,74,0.606,0.615,0.000062991,0.01,,1,1,0,2014,2014
+Crohn Disease,C0010346,IPMK,253430,Q8NFU5,inositol polyphosphate multikinase,Kinase,19,0.751,0.423,0.96258,0.01,,1,1,0,2016,2016
+Crohn Disease,C0010346,TAC4,255061,Q86UU9,tachykinin precursor 4,,24,0.711,0.462,0.000036126,0.01,,1,1,0,2011,2011
+Crohn Disease,C0010346,PARM1,25849,Q6UWI2,prostate androgen-regulated mucin-like protein 1,,13,0.769,0.269,0.000869,0.01,,1,1,0,2011,2011
+Crohn Disease,C0010346,GALNT2,2590,Q10471,polypeptide N-acetylgalactosaminyltransferase 2,Enzyme,45,0.678,0.538,0.0084175,0.01,,1,1,0,2011,2011
+Crohn Disease,C0010346,AOC1,26,P19801,amine oxidase copper containing 1,,61,0.628,0.769,6.72E-08,0.01,,1,1,1,2009,2009
+Crohn Disease,C0010346,FDCSP,260436,Q8NFU4,follicular dendritic cell secreted protein,,15,0.805,0.385,0.081818,0.01,,1,1,0,2010,2010
+Crohn Disease,C0010346,NAT9,26151,Q9BTE0,N-acetyltransferase 9 (putative),,25,0.695,0.346,0.00022044,0.01,,1,1,0,2009,2009
+Crohn Disease,C0010346,GART,2618,P22102,"phosphoribosylglycinamide formyltransferase, phosphoribosylglycinamide synthetase, phosphoribosylaminoimidazole synthetase",Enzyme,48,0.631,0.615,0.00027711,0.01,,1,1,0,2016,2016
+Crohn Disease,C0010346,GATA3,2625,P23771,GATA binding protein 3,,429,0.415,0.846,0.89887,0.01,,1,1,0,2017,2017
+Crohn Disease,C0010346,KAT2A,2648,Q92830,lysine acetyltransferase 2A,,66,0.61,0.731,0.57331,0.01,,1,1,0,2015,2015
+Crohn Disease,C0010346,OPN1MW,2652,P04001;P0DN77;P0DN78,"opsin 1, medium wave sensitive",G-protein coupled receptor,107,0.572,0.769,0.037781,0.01,,0,1,0,2002,2002
+Crohn Disease,C0010346,GDF1,2657,P27539,growth differentiation factor 1,Signaling,136,0.529,0.692,0.41237,0.01,,1,1,0,2013,2013
+Crohn Disease,C0010346,GDNF,2668,P39905,glial cell derived neurotrophic factor,Signaling,409,0.434,0.885,0.2035,0.01,,1,1,0,2013,2013
+Crohn Disease,C0010346,RNU1-1,26871,,"RNA, U1 small nuclear 1",,66,0.608,0.731,,0.01,,1,1,0,2009,2009
+Crohn Disease,C0010346,GHSR,2693,Q92847,growth hormone secretagogue receptor,G-protein coupled receptor,171,0.528,0.769,0.0065825,0.01,,1,1,0,2008,2008
+Crohn Disease,C0010346,CPAMD8,27151,Q8IZJ3,C3 and PZP like alpha-2-macroglobulin domain containing 8,Enzyme modulator,24,0.722,0.231,6.92E-23,0.01,,1,1,0,2019,2019
+Crohn Disease,C0010346,GLB1,2720,P16278,galactosidase beta 1,Enzyme,385,0.448,0.808,7.92E-10,0.01,,1,1,0,2005,2005
+Crohn Disease,C0010346,HPGDS,27306,O60760,hematopoietic prostaglandin D synthase,,570,0.388,0.923,1.81E-06,0.01,,1,1,0,2015,2015
+Crohn Disease,C0010346,RABGEF1,27342,Q9UJ41,RAB guanine nucleotide exchange factor 1,Enzyme modulator,122,0.55,0.731,0.00063083,0.01,,1,1,0,2010,2010
+Crohn Disease,C0010346,GLI1,2735,P08151,GLI family zinc finger 1,,369,0.431,0.846,7.66E-14,0.01,,1,1,1,2017,2017
+Crohn Disease,C0010346,GLP1R,2740,P43220,glucagon like peptide 1 receptor,G-protein coupled receptor,288,0.471,0.846,0.29347,0.01,,1,1,0,2018,2018
+Crohn Disease,C0010346,GNAO1,2775,P09471,G protein subunit alpha o1,Enzyme modulator,188,0.523,0.808,0.98963,0.01,,1,1,0,2003,2003
+Crohn Disease,C0010346,GNG11,2791,P61952,G protein subunit gamma 11,Enzyme modulator,12,0.76,0.231,0.54709,0.01,,1,1,0,2019,2019
+Crohn Disease,C0010346,GOLGB1,2804,Q14789,golgin B1,,32,0.695,0.615,9.30E-12,0.01,,0,1,0,2002,2002
+Crohn Disease,C0010346,GOT2,2806,P00505,glutamic-oxaloacetic transaminase 2,,148,0.529,0.731,0.014233,0.01,,1,1,0,2017,2017
+Crohn Disease,C0010346,SLCO3A1,28232,Q9UIG8,solute carrier organic anion transporter family member 3A1,Transporter,19,0.736,0.385,0.38961,0.01,,1,1,0,2014,2014
+Crohn Disease,C0010346,GPR3,2827,P46089,G protein-coupled receptor 3,G-protein coupled receptor,18,0.743,0.5,0.00026263,0.01,,1,1,0,2013,2013
+Crohn Disease,C0010346,CCDC88B,283234,A6NC98,coiled-coil domain containing 88B,Enzyme modulator,16,0.743,0.192,1.40E-09,0.01,,1,1,0,2017,2017
+Crohn Disease,C0010346,GSDMA,284110,Q96QA5,gasdermin A,,14,0.792,0.308,1.62E-16,0.01,,1,1,0,2015,2015
+Crohn Disease,C0010346,TRBV10-1,28585,A0A0K0K1A3,T cell receptor beta variable 10-1(gene/pseudogene),,2,0.931,0.077,,0.01,,1,1,0,2016,2016
+Crohn Disease,C0010346,TRBJ2-7,28622,A0A0A0MT78,T cell receptor beta joining 2-7,,3,0.931,0.077,,0.01,,1,1,0,2016,2016
+Crohn Disease,C0010346,GPT,2875,P24298,glutamic--pyruvic transaminase,Enzyme,511,0.403,0.923,3.59E-19,0.01,,1,1,0,2011,2011
+Crohn Disease,C0010346,GPX1,2876,P07203,glutathione peroxidase 1,Enzyme,290,0.458,0.923,0.000038518,0.01,,1,1,1,2017,2017
+Crohn Disease,C0010346,GRB2,2885,P62993,growth factor receptor bound protein 2,,122,0.546,0.769,0.93934,0.01,,1,1,0,2011,2011
+Crohn Disease,C0010346,CLEC2D,29121,Q9UHP7,C-type lectin domain family 2 member D,,21,0.736,0.308,0.23009,0.01,,1,1,0,2012,2012
+Crohn Disease,C0010346,GSN,2934,P06396,gelsolin,Cellular structure,262,0.475,0.885,3.89E-11,0.01,,1,1,0,2018,2018
+Crohn Disease,C0010346,USP25,29761,Q9UHP3,ubiquitin specific peptidase 25,Enzyme,21,0.743,0.308,0.7522,0.01,,1,1,0,2015,2015
+Crohn Disease,C0010346,CARD10,29775,Q9BWT7,caspase recruitment domain family member 10,,41,0.656,0.423,0.0022648,0.01,,1,1,0,2018,2018
+Crohn Disease,C0010346,MDFIC,29969,Q9P1T7,MyoD family inhibitor domain containing,,17,0.76,0.308,0.037611,0.01,,1,1,0,2019,2019
+Crohn Disease,C0010346,TBX21,30009,Q9UL17,T-box transcription factor 21,Transcription factor,124,0.541,0.808,0.99636,0.01,,1,1,1,2018,2018
+Crohn Disease,C0010346,HBB,3043,P68871,hemoglobin subunit beta,,272,0.494,0.808,1.23E-09,0.01,,1,1,0,2017,2017
+Crohn Disease,C0010346,HDAC2,3066,Q92769,histone deacetylase 2,Epigenetic regulator,257,0.476,0.846,0.99997,0.01,,1,1,0,2018,2018
+Crohn Disease,C0010346,HFE,3077,Q30201,homeostatic iron regulator,,415,0.436,0.846,2.56E-08,0.01,,1,1,0,2016,2016
+Crohn Disease,C0010346,HGF,3082,P14210,hepatocyte growth factor,Enzyme,671,0.374,0.885,0.99947,0.01,,1,1,0,2005,2005
+Crohn Disease,C0010346,ACACA,31,Q13085,acetyl-CoA carboxylase alpha,,241,0.48,0.846,1,0.01,,1,1,0,2013,2013
+Crohn Disease,C0010346,HLA-DQB2,3120,P05538,"major histocompatibility complex, class II, DQ beta 2",Immune response,91,0.573,0.731,0.042679,0.01,,1,1,0,2003,2003
+Crohn Disease,C0010346,HLA-DRA,3122,P01903,"major histocompatibility complex, class II, DR alpha",Immune response,92,0.581,0.769,0.51949,0.01,,1,1,0,2011,2011
+Crohn Disease,C0010346,HLA-DRB4,3126,P13762,"major histocompatibility complex, class II, DR beta 4",Immune response,87,0.565,0.846,,0.01,,0,1,0,1999,1999
+Crohn Disease,C0010346,HLA-DRB5,3127,Q30154,"major histocompatibility complex, class II, DR beta 5",Immune response,62,0.608,0.731,3.64E-07,0.01,,1,1,0,2016,2016
+Crohn Disease,C0010346,HMGB1,3146,P09429,high mobility group box 1,Nucleic acid binding,724,0.368,0.923,0.82035,0.01,,1,1,0,2011,2011
+Crohn Disease,C0010346,AOX1,316,Q06278,aldehyde oxidase 1,Enzyme,26,0.716,0.308,1.17E-31,0.01,,1,1,0,2019,2019
+Crohn Disease,C0010346,HMMR,3161,O75330,hyaluronan mediated motility receptor,,117,0.544,0.615,5.52E-21,0.01,,1,1,0,1999,1999
+Crohn Disease,C0010346,FOXA1,3169,P55317,forkhead box A1,Transcription factor,138,0.522,0.731,0.22227,0.01,,1,1,0,2017,2017
+Crohn Disease,C0010346,IBD9,317669,,inflammatory bowel disease 9,,1,1,0.038,,0.01,,1,1,0,2013,2013
+Crohn Disease,C0010346,CELIAC2,317782,,celiac disease 2,,40,0.653,0.577,,0.01,,1,1,0,2018,2018
+Crohn Disease,C0010346,HNRNPA1,3178,P09651,heterogeneous nuclear ribonucleoprotein A1,,188,0.529,0.885,0.99911,0.01,,1,1,0,2009,2009
+Crohn Disease,C0010346,HNRNPD,3184,Q14103,heterogeneous nuclear ribonucleoprotein D,,60,0.621,0.654,0.99621,0.01,,1,1,0,2017,2017
+Crohn Disease,C0010346,HP,3240,P00738,haptoglobin,Enzyme,464,0.412,0.885,0.00001736,0.01,,1,1,0,2007,2007
+Crohn Disease,C0010346,HPGD,3248,P15428,15-hydroxyprostaglandin dehydrogenase,,194,0.516,0.731,0.000014357,0.01,,1,1,0,2015,2015
+Crohn Disease,C0010346,HPN,3249,P05981,hepsin,Enzyme,57,0.641,0.577,0.99911,0.01,,1,1,0,2019,2019
+Crohn Disease,C0010346,HRAS,3265,P01112,"HRas proto-oncogene, GTPase",Enzyme modulator,698,0.378,0.885,0.079774,0.01,,0,1,0,1991,1991
+Crohn Disease,C0010346,HSD11B2,3291,P80365,hydroxysteroid 11-beta dehydrogenase 2,Enzyme,163,0.532,0.808,0.11777,0.01,,1,1,0,2009,2009
+Crohn Disease,C0010346,HSF2,3298,Q03933,heat shock transcription factor 2,Transcription factor,30,0.711,0.423,0.97536,0.01,,1,1,0,2014,2014
+Crohn Disease,C0010346,HSPA6,3310,P17066,heat shock protein family A (Hsp70) member 6,,23,0.743,0.423,6.83E-06,0.01,,1,1,0,2018,2018
+Crohn Disease,C0010346,HSP90AA1,3320,P07900,heat shock protein 90 alpha family class A member 1,Chaperone,455,0.411,0.923,0.86025,0.01,,1,1,0,2012,2012
+Crohn Disease,C0010346,APOA1,335,P02647,apolipoprotein A1,,416,0.429,0.885,0.00054909,0.01,,1,1,0,2014,2014
+Crohn Disease,C0010346,HTR7,3363,P34969,5-hydroxytryptamine receptor 7,G-protein coupled receptor,103,0.592,0.5,0.045409,0.01,,1,1,0,2014,2014
+Crohn Disease,C0010346,APOA4,337,P06727,apolipoprotein A4,,88,0.582,0.577,5.45E-06,0.01,,1,1,0,2007,2007
+Crohn Disease,C0010346,IAPP,3375,P10997,islet amyloid polypeptide,Signaling,183,0.507,0.808,0.0031814,0.01,,1,1,0,2012,2012
+Crohn Disease,C0010346,CLEC4D,338339,Q8WXI8,C-type lectin domain family 4 member D,,73,0.587,0.538,2.45E-06,0.01,,1,1,0,2017,2017
+Crohn Disease,C0010346,TAS2R64P,338412,,taste 2 receptor member 64 pseudogene,,33,0.678,0.385,,0.01,,1,1,0,1991,1991
+Crohn Disease,C0010346,FFAR4,338557,Q5NUL3,free fatty acid receptor 4,,67,0.621,0.577,0.000013634,0.01,,1,1,0,2017,2017
+Crohn Disease,C0010346,RSPO2,340419,Q6UXX9,R-spondin 2,,113,0.558,0.577,0.024608,0.01,,1,1,0,2016,2016
+Crohn Disease,C0010346,IFNA1,3439,P01562,interferon alpha 1,,662,0.371,0.923,,0.01,,1,1,0,2015,2015
+Crohn Disease,C0010346,IFNA4,3441,P05014,interferon alpha 4,,7,0.861,0.154,,0.01,,1,1,0,2015,2015
+Crohn Disease,C0010346,IFNA10,3446,P01566,interferon alpha 10,,8,0.89,0.115,,0.01,,1,1,0,2015,2015
+Crohn Disease,C0010346,IFNA13,3447,P01562,interferon alpha 13,,646,0.374,0.923,,0.01,,1,1,0,2015,2015
+Crohn Disease,C0010346,IFNB1,3456,P01574,interferon beta 1,,426,0.421,0.846,,0.01,,1,1,0,2018,2018
+Crohn Disease,C0010346,IFNGR1,3459,P15260,interferon gamma receptor 1,Receptor,153,0.529,0.692,0.015503,0.01,,1,1,1,2018,2018
+Crohn Disease,C0010346,APOE,348,P02649,apolipoprotein E,,1049,0.338,0.962,0.0018685,0.01,,1,1,0,2015,2015
+Crohn Disease,C0010346,IGFBP3,3486,P17936,insulin like growth factor binding protein 3,Enzyme modulator,350,0.439,0.808,0.91029,0.01,,1,1,0,2011,2011
+Crohn Disease,C0010346,IGFBP5,3488,P24593,insulin like growth factor binding protein 5,Enzyme modulator,126,0.544,0.692,0.96283,0.01,,1,1,0,2001,2001
+Crohn Disease,C0010346,FAS,355,P25445,Fas cell surface death receptor,,754,0.372,0.923,0.8117,0.01,,1,1,1,2006,2006
+Crohn Disease,C0010346,IKBKB,3551,O14920,inhibitor of nuclear factor kappa B kinase subunit beta,Kinase,191,0.506,0.846,0.99192,0.01,,1,1,0,2016,2016
+Crohn Disease,C0010346,FASLG,356,P48023,Fas ligand,Signaling,398,0.43,0.885,0.18345,0.01,,1,1,0,2012,2012
+Crohn Disease,C0010346,IL3,3562,P08700,interleukin 3,,211,0.489,0.731,2.59E-09,0.01,,1,1,0,1992,1992
+Crohn Disease,C0010346,IL3RA,3563,P26951,interleukin 3 receptor subunit alpha,Signaling,95,0.56,0.769,2.99E-27,0.01,,1,1,0,2008,2008
+Crohn Disease,C0010346,IL7R,3575,P16871,interleukin 7 receptor,Receptor,231,0.487,0.769,3.76E-07,0.01,,1,1,0,2016,2016
+Crohn Disease,C0010346,CXCR2,3579,P25025,C-X-C motif chemokine receptor 2,G-protein coupled receptor,335,0.445,0.923,0.013736,0.01,,1,1,0,2015,2015
+Crohn Disease,C0010346,IL10RB,3588,Q08334,interleukin 10 receptor subunit beta,Receptor,50,0.636,0.577,2.51E-06,0.01,,1,1,0,2013,2013
+Crohn Disease,C0010346,IL12RB2,3595,Q99665,interleukin 12 receptor subunit beta 2,Signaling,59,0.608,0.692,1.62E-09,0.01,,1,1,0,2012,2012
+Crohn Disease,C0010346,IL15,3600,P40933,interleukin 15,,426,0.422,0.846,0.70859,0.01,,1,1,0,2013,2013
+Crohn Disease,C0010346,IL15RA,3601,Q13261,interleukin 15 receptor subunit alpha,,72,0.603,0.769,0.000002332,0.01,,1,1,0,2013,2013
+Crohn Disease,C0010346,TNFRSF9,3604,Q07011,TNF receptor superfamily member 9,,177,0.502,0.769,0.32153,0.01,,1,1,1,2004,2004
+Crohn Disease,C0010346,ING1,3621,Q9UK53,inhibitor of growth family member 1,Nucleic acid binding,99,0.573,0.692,0.0096662,0.01,,0,1,0,2004,2004
+Crohn Disease,C0010346,CXCL10,3627,P02778,C-X-C motif chemokine ligand 10,Signaling,631,0.378,0.885,0.36865,0.01,,1,1,0,2017,2017
+Crohn Disease,C0010346,PDX1,3651,P52945,pancreatic and duodenal homeobox 1,,185,0.53,0.654,0.017775,0.01,,1,1,0,2008,2008
+Crohn Disease,C0010346,IRAK1,3654,P51617,interleukin 1 receptor associated kinase 1,Kinase,200,0.506,0.808,0.98774,0.01,,1,1,0,2016,2016
+Crohn Disease,C0010346,IRF4,3662,Q15306,interferon regulatory factor 4,Transcription factor,203,0.491,0.769,0.85677,0.01,,1,1,0,2008,2008
+Crohn Disease,C0010346,ITGAE,3682,P38570,integrin subunit alpha E,,95,0.579,0.692,3.92E-20,0.01,,1,1,0,2003,2003
+Crohn Disease,C0010346,ITGAM,3684,P11215,integrin subunit alpha M,,343,0.443,0.808,3.31E-11,0.01,,0,1,0,2003,2003
+Crohn Disease,C0010346,ITGAV,3685,P06756,integrin subunit alpha V,,141,0.526,0.769,0.00022844,0.01,,1,1,0,2018,2018
+Crohn Disease,C0010346,ITGB1,3688,P05556,integrin subunit beta 1,Receptor,210,0.496,0.808,0.98208,0.01,,1,1,0,2013,2013
+Crohn Disease,C0010346,ITGB2,3689,P05107,integrin subunit beta 2,Receptor,340,0.444,0.923,5.08E-15,0.01,,1,1,0,2002,2002
+Crohn Disease,C0010346,ITGB3,3690,P05106,integrin subunit beta 3,Receptor,260,0.485,0.846,0.0017189,0.01,,1,1,0,2010,2010
+Crohn Disease,C0010346,JAK3,3718,P52333,Janus kinase 3,Kinase,194,0.505,0.731,5.93E-06,0.01,,1,1,0,2019,2019
+Crohn Disease,C0010346,JUN,3725,P05412,"Jun proto-oncogene, AP-1 transcription factor subunit",Transcription factor,344,0.442,0.885,0.05962,0.01,,1,1,0,2002,2002
+Crohn Disease,C0010346,JUNB,3726,P17275,"JunB proto-oncogene, AP-1 transcription factor subunit",Transcription factor,264,0.467,0.769,0.86299,0.01,,1,1,0,2002,2002
+Crohn Disease,C0010346,JUND,3727,P17535,"JunD proto-oncogene, AP-1 transcription factor subunit",Transcription factor,242,0.475,0.808,0.70054,0.01,,1,1,0,2002,2002
+Crohn Disease,C0010346,NDUFS7,374291,O75251,NADH:ubiquinone oxidoreductase core subunit S7,,120,0.579,0.769,0.9142,0.01,,1,1,0,2018,2018
+Crohn Disease,C0010346,TEPP,374739,Q6URK8,"testis, prostate and placenta expressed",,4,0.931,0.115,0.0002319,0.01,,1,1,0,2012,2012
+Crohn Disease,C0010346,KCNN1,3780,Q92952,potassium calcium-activated channel subfamily N member 1,Ion channel,6,0.89,0.077,0.85412,0.01,,1,1,0,2003,2003
+Crohn Disease,C0010346,KCNN4,3783,O15554,potassium calcium-activated channel subfamily N member 4,Ion channel,61,0.653,0.577,5.03E-07,0.01,,1,1,0,2010,2010
+Crohn Disease,C0010346,KCNQ2,3785,O43526,potassium voltage-gated channel subfamily Q member 2,Ion channel,175,0.537,0.654,0.99998,0.01,,1,1,0,2017,2017
+Crohn Disease,C0010346,KDR,3791,P35968,kinase insert domain receptor,Kinase,623,0.378,0.885,0.99982,0.01,,1,1,0,2011,2011
+Crohn Disease,C0010346,ACAT1,38,P24752,acetyl-CoA acetyltransferase 1,Enzyme,176,0.538,0.692,9.85E-08,0.01,,1,1,0,2019,2019
+Crohn Disease,C0010346,KIR3DL2,3812,P43630,"killer cell immunoglobulin like receptor, three Ig domains and long cytoplasmic tail 2",Receptor,118,0.543,0.769,6.08E-12,0.01,,1,1,0,2016,2016
+Crohn Disease,C0010346,KLK1,3816,P06870,kallikrein 1,Enzyme,132,0.533,0.769,0.00015311,0.01,,1,1,0,2003,2003
+Crohn Disease,C0010346,ARF6,382,P62330,ADP ribosylation factor 6,,56,0.631,0.577,0.71536,0.01,,1,1,0,2019,2019
+Crohn Disease,C0010346,KNG1,3827,P01042,kininogen 1,Enzyme modulator,279,0.481,0.885,3.21E-10,0.01,,1,1,0,2005,2005
+Crohn Disease,C0010346,ARG1,383,P05089,arginase 1,Enzyme,273,0.476,0.846,0.00035944,0.01,,1,1,0,2019,2019
+Crohn Disease,C0010346,KRT1,3848,P04264,keratin 1,,100,0.575,0.654,0.73629,0.01,,1,1,0,2017,2017
+Crohn Disease,C0010346,KRT8,3856,P05787,keratin 8,,166,0.517,0.654,2.36E-08,0.01,,1,1,1,2004,2004
+Crohn Disease,C0010346,NPSR1,387129,Q6W5P4,neuropeptide S receptor 1,,69,0.608,0.615,2.05E-09,0.01,,1,1,0,2007,2007
+Crohn Disease,C0010346,THEMIS,387357,Q8N1K5,thymocyte selection associated,,32,0.682,0.654,1.96E-06,0.01,,1,1,0,2013,2013
+Crohn Disease,C0010346,LAMB1,3912,P07942,laminin subunit beta 1,Enzyme modulator,75,0.615,0.654,5.07E-22,0.01,,1,1,0,2015,2015
+Crohn Disease,C0010346,LAMP1,3916,P11279,lysosomal associated membrane protein 1,Transporter,120,0.542,0.769,0.8747,0.01,,1,1,0,2001,2001
+Crohn Disease,C0010346,LAMP2,3920,P13473,lysosomal associated membrane protein 2,Transporter,134,0.552,0.731,0.26698,0.01,,1,1,0,2001,2001
+Crohn Disease,C0010346,LCT,3938,P09848,lactase,Enzyme,90,0.581,0.808,0.059849,0.01,,1,1,0,1999,1999
+Crohn Disease,C0010346,LGALS3BP,3959,Q08380,galectin 3 binding protein,,127,0.546,0.769,2.68E-07,0.01,,1,1,0,2019,2019
+Crohn Disease,C0010346,ARHGDIA,396,P52565,Rho GDP dissociation inhibitor alpha,Enzyme modulator,51,0.663,0.577,0.03642,0.01,,1,1,0,2007,2007
+Crohn Disease,C0010346,LGALS4,3960,P56470,galectin 4,Signaling,73,0.599,0.731,2.75E-07,0.01,,1,1,0,2016,2016
+Crohn Disease,C0010346,LGALS9,3965,O00182,galectin 9,Signaling,197,0.496,0.769,0.000006548,0.01,,1,1,0,2011,2011
+Crohn Disease,C0010346,FADS1,3992,O60427,fatty acid desaturase 1,,125,0.582,0.769,0.37384,0.01,,1,1,1,2014,2014
+Crohn Disease,C0010346,LORICRIN,4014,P23490,loricrin cornified envelope precursor protein,,43,0.674,0.423,0.33454,0.01,,1,1,0,2018,2018
+Crohn Disease,C0010346,LOX,4015,P28300,lysyl oxidase,,328,0.447,0.846,0.98769,0.01,,1,1,0,2018,2018
+Crohn Disease,C0010346,LOXL2,4017,Q9Y4K0,lysyl oxidase like 2,,149,0.527,0.731,3.38E-07,0.01,,1,1,0,2018,2018
+Crohn Disease,C0010346,LRP6,4040,O75581,LDL receptor related protein 6,,134,0.536,0.808,0.69664,0.01,,1,1,1,2014,2014
+Crohn Disease,C0010346,LTA4H,4048,P09960,leukotriene A4 hydrolase,,63,0.617,0.654,2.96E-08,0.01,,0,1,1,2019,2019
+Crohn Disease,C0010346,LTB,4050,Q06643,lymphotoxin beta,Signaling,110,0.555,0.769,9.61E-11,0.01,,1,1,0,2010,2010
+Crohn Disease,C0010346,LTF,4057,P02788,lactotransferrin,Enzyme,133,0.543,0.846,1.27E-21,0.01,,1,1,0,2019,2019
+Crohn Disease,C0010346,MIRLET7B,406884,,microRNA let-7b,,186,0.493,0.769,,0.01,,1,1,0,2018,2018
+Crohn Disease,C0010346,MIRLET7D,406886,,microRNA let-7d,,82,0.579,0.692,,0.01,,1,1,0,2014,2014
+Crohn Disease,C0010346,MIRLET7E,406887,,microRNA let-7e,,72,0.592,0.769,,0.01,,1,1,0,2014,2014
+Crohn Disease,C0010346,MIR106B,406900,,microRNA 106b,,143,0.523,0.808,,0.01,,1,1,0,2014,2014
+Crohn Disease,C0010346,MIR126,406913,,microRNA 126,,305,0.447,0.846,,0.01,,1,1,0,2017,2017
+Crohn Disease,C0010346,MIR141,406933,,microRNA 141,,179,0.497,0.808,,0.01,,1,1,0,2014,2014
+Crohn Disease,C0010346,MIR142,406934,,microRNA 142,,220,0.48,0.846,,0.01,,1,1,0,2014,2014
+Crohn Disease,C0010346,MIR143,406935,,microRNA 143,,267,0.462,0.885,,0.01,,1,1,0,2018,2018
+Crohn Disease,C0010346,MIR148A,406940,,microRNA 148a,,172,0.506,0.846,,0.01,,1,1,0,2013,2013
+Crohn Disease,C0010346,MIR15A,406948,,microRNA 15a,,221,0.482,0.808,,0.01,,1,1,0,2018,2018
+Crohn Disease,C0010346,MIR16-1,406950,,microRNA 16-1,,57,0.623,0.5,,0.01,,1,1,0,2017,2017
+Crohn Disease,C0010346,MIR17,406952,,microRNA 17,,270,0.459,0.846,,0.01,,1,1,0,2013,2013
+Crohn Disease,C0010346,MIR192,406967,,microRNA 192,,173,0.503,0.846,,0.01,,1,1,0,2019,2019
+Crohn Disease,C0010346,MIR196A2,406973,,microRNA 196a-2,,70,0.599,0.577,,0.01,,1,1,1,2017,2017
+Crohn Disease,C0010346,MIR200A,406983,,microRNA 200a,,156,0.519,0.808,,0.01,,1,1,0,2012,2012
+Crohn Disease,C0010346,MIR200B,406984,,microRNA 200b,,180,0.5,0.769,,0.01,,1,1,0,2012,2012
+Crohn Disease,C0010346,MIR203A,406986,,microRNA 203a,,237,0.471,0.808,,0.01,,1,1,0,2015,2015
+Crohn Disease,C0010346,MIR215,406997,,microRNA 215,,96,0.559,0.654,,0.01,,1,1,0,2015,2015
+Crohn Disease,C0010346,ARR3,407,P36575,arrestin 3,Enzyme modulator,279,0.46,0.846,0.10401,0.01,,1,1,0,2017,2017
+Crohn Disease,C0010346,MIR223,407008,,microRNA 223,,348,0.433,0.808,,0.01,,1,1,0,2018,2018
+Crohn Disease,C0010346,MIR27A,407018,,microRNA 27a,,248,0.466,0.846,,0.01,,1,1,0,2019,2019
+Crohn Disease,C0010346,MIR29B1,407024,,microRNA 29b-1,,212,0.485,0.846,,0.01,,1,1,0,2017,2017
+Crohn Disease,C0010346,MIR29B2,407025,,microRNA 29b-2,,214,0.484,0.885,,0.01,,1,1,0,2017,2017
+Crohn Disease,C0010346,MIR320A,407037,,microRNA 320a,,145,0.526,0.808,,0.01,,1,1,0,2016,2016
+Crohn Disease,C0010346,MIR93,407050,,microRNA 93,,171,0.507,0.808,,0.01,,1,1,0,2014,2014
+Crohn Disease,C0010346,SMAD2,4087,Q15796,SMAD family member 2,Transcription factor,289,0.456,0.808,0.99661,0.01,,1,1,0,2018,2018
+Crohn Disease,C0010346,ARRB2,409,P32121,arrestin beta 2,Enzyme modulator,119,0.561,0.769,0.50658,0.01,,1,1,0,2015,2015
+Crohn Disease,C0010346,SMAD5,4090,Q99717,SMAD family member 5,Transcription factor,55,0.633,0.615,0.99838,0.01,,1,1,0,2011,2011
+Crohn Disease,C0010346,MAS1,4142,P04201,"MAS1 proto-oncogene, G protein-coupled receptor",G-protein coupled receptor,142,0.533,0.769,0.000082518,0.01,,1,1,0,2003,2003
+Crohn Disease,C0010346,MAT1A,4143,Q00266,methionine adenosyltransferase 1A,Enzyme,103,0.582,0.577,0.00080978,0.01,,1,1,0,2019,2019
+Crohn Disease,C0010346,MCAM,4162,P43121,melanoma cell adhesion molecule,Cell adhesion,169,0.514,0.731,0.00015954,0.01,,1,1,0,2011,2011
+Crohn Disease,C0010346,MCL1,4170,Q07820,"MCL1 apoptosis regulator, BCL2 family member",Signaling,375,0.43,0.808,0.96349,0.01,,1,1,0,2017,2017
+Crohn Disease,C0010346,MDM2,4193,Q00987,MDM2 proto-oncogene,Nucleic acid binding,702,0.362,0.846,0.99981,0.01,,1,1,0,2010,2010
+Crohn Disease,C0010346,MAP3K1,4214,Q13233,mitogen-activated protein kinase kinase kinase 1,Kinase,136,0.538,0.731,0.99998,0.01,,1,1,1,2008,2008
+Crohn Disease,C0010346,MGMT,4255,P16455,O-6-methylguanine-DNA methyltransferase,,444,0.412,0.885,1.18E-07,0.01,,1,1,0,2008,2008
+Crohn Disease,C0010346,MGP,4256,P08493,matrix Gla protein,,160,0.539,0.846,0.000036072,0.01,,1,1,0,2018,2018
+Crohn Disease,C0010346,CD99,4267,P14209,CD99 molecule (Xg blood group),,197,0.491,0.731,0.0026127,0.01,,1,1,0,2017,2017
+Crohn Disease,C0010346,MIF,4282,P14174,macrophage migration inhibitory factor,,455,0.412,0.885,0.012262,0.01,,1,1,0,2001,2001
+Crohn Disease,C0010346,CXCL9,4283,Q07325,C-X-C motif chemokine ligand 9,Signaling,269,0.462,0.808,0.0029304,0.01,,1,1,0,2007,2007
+Crohn Disease,C0010346,MIP,4284,P30301,major intrinsic protein of lens fiber,Ion channel,181,0.507,0.846,0.030956,0.01,,1,1,0,2002,2002
+Crohn Disease,C0010346,FRG2,448831,Q64ET8,FSHD region gene 2,,2,0.931,0.154,0.36635,0.01,,1,1,0,2015,2015
+Crohn Disease,C0010346,MT2A,4502,P02795,metallothionein 2A,,117,0.553,0.808,0.000012279,0.01,,1,1,0,2009,2009
+Crohn Disease,C0010346,MTR,4548,Q99707,5-methyltetrahydrofolate-homocysteine methyltransferase,,245,0.482,0.808,2.43E-12,0.01,,1,1,0,2008,2008
+Crohn Disease,C0010346,RNR1,4549,A0A0C5B5G6,s-rRNA,,75,0.626,0.769,,0.01,,1,1,0,2012,2012
+Crohn Disease,C0010346,MTRR,4552,Q9UBK8,5-methyltetrahydrofolate-homocysteine methyltransferase reductase,,207,0.502,0.808,2.18E-14,0.01,,1,1,1,2008,2008
+Crohn Disease,C0010346,MTX1,4580,Q13505,metaxin 1,,124,0.546,0.731,0.013271,0.01,,1,1,0,2014,2014
+Crohn Disease,C0010346,MUC1,4582,P15941,"mucin 1, cell surface associated",,594,0.384,0.885,0.018774,0.01,,1,1,0,1999,1999
+Crohn Disease,C0010346,MUC4,4585,Q99102,"mucin 4, cell surface associated",,183,0.506,0.769,2.79E-54,0.01,,1,1,3,2006,2006
+Crohn Disease,C0010346,MYC,4609,P01106,"MYC proto-oncogene, bHLH transcription factor",Transcription factor,821,0.344,0.923,0.99801,0.01,,1,1,0,2019,2019
+Crohn Disease,C0010346,MYLK,4638,Q15746,myosin light chain kinase,Kinase,199,0.51,0.846,9.17E-12,0.01,,1,1,0,2019,2019
+Crohn Disease,C0010346,ATF4,468,P18848,activating transcription factor 4,,178,0.507,0.769,0.015659,0.01,,1,1,0,2019,2019
+Crohn Disease,C0010346,NEDD9,4739,Q14511,"neural precursor cell expressed, developmentally down-regulated 9",,113,0.548,0.769,0.12634,0.01,,1,1,0,2006,2006
+Crohn Disease,C0010346,WG,474168,,Wegener granulomatosis,,61,0.595,0.808,,0.01,,1,1,0,2009,2009
+Crohn Disease,C0010346,NELL1,4745,Q92832,neural EGFL like 1,Calcium-binding protein,122,0.539,0.731,8.67E-12,0.01,,1,1,0,2012,2012
+Crohn Disease,C0010346,NEU1,4758,Q99519,neuraminidase 1,Enzyme,207,0.513,0.769,0.000073441,0.01,,1,1,0,2017,2017
+Crohn Disease,C0010346,NF1,4763,P21359,neurofibromin 1,Enzyme modulator,380,0.44,0.885,0.90175,0.01,,1,1,0,2013,2013
+Crohn Disease,C0010346,NFATC2,4773,Q13469,nuclear factor of activated T cells 2,Transcription factor,154,0.525,0.731,0.99995,0.01,,1,1,0,2019,2019
+Crohn Disease,C0010346,NFE2L2,4780,Q16236,"nuclear factor, erythroid 2 like 2",Enzyme,823,0.357,0.885,0.0035719,0.01,,1,1,0,2018,2018
+Crohn Disease,C0010346,NFIL3,4783,Q16649,"nuclear factor, interleukin 3 regulated",Transcription factor,54,0.633,0.615,0.81979,0.01,,1,1,0,2011,2011
+Crohn Disease,C0010346,NFKBIL1,4795,Q9UBC1,NFKB inhibitor like 1,,41,0.653,0.615,0.025515,0.01,,1,1,0,2006,2006
+Crohn Disease,C0010346,NGF,4803,P01138,nerve growth factor,Signaling,616,0.391,0.885,0.82026,0.01,,1,1,0,2000,2000
+Crohn Disease,C0010346,NHS,4810,Q6T4R5,NHS actin remodeling regulator,,295,0.466,0.846,0.99999,0.01,,1,1,0,2020,2020
+Crohn Disease,C0010346,NM,4827,,neutrophil migration,,250,0.473,0.808,,0.01,,1,1,0,2002,2002
+Crohn Disease,C0010346,NPY,4852,P01303,neuropeptide Y,Signaling,381,0.447,0.846,0.14294,0.01,,1,1,0,2018,2018
+Crohn Disease,C0010346,NPR1,4881,P16066,natriuretic peptide receptor 1,Kinase,81,0.608,0.654,0.00029303,0.01,,1,1,0,2017,2017
+Crohn Disease,C0010346,NPR3,4883,P17342,natriuretic peptide receptor 3,,83,0.633,0.615,0.00001006,0.01,,1,1,0,2017,2017
+Crohn Disease,C0010346,NSF,4905,P46459,"N-ethylmaleimide sensitive factor, vesicle fusing ATPase",Enzyme,40,0.659,0.577,0.018338,0.01,,1,1,0,2013,2013
+Crohn Disease,C0010346,NTF3,4908,P20783,neurotrophin 3,Signaling,170,0.519,0.808,0.93201,0.01,,1,1,0,2003,2003
+Crohn Disease,C0010346,RBMXL1,494115,Q96E39,RBMX like 1,,10,0.805,0.308,0.029284,0.01,,1,1,0,2019,2019
+Crohn Disease,C0010346,ODC1,4953,P11926,ornithine decarboxylase 1,Enzyme,184,0.51,0.731,0.16966,0.01,,1,1,0,2018,2018
+Crohn Disease,C0010346,TNFRSF11B,4982,O00300,TNF receptor superfamily member 11b,,443,0.422,0.808,0.16171,0.01,,1,1,1,2016,2016
+Crohn Disease,C0010346,OPRD1,4985,P41143,opioid receptor delta 1,G-protein coupled receptor,92,0.604,0.731,0.0033233,0.01,,1,1,0,2019,2019
+Crohn Disease,C0010346,ORM2,5005,P19652,orosomucoid 2,,22,0.722,0.462,2.00E-06,0.01,,1,1,0,2018,2018
+Crohn Disease,C0010346,P4HB,5034,P07237,prolyl 4-hydroxylase subunit beta,,222,0.488,0.808,0.99662,0.01,,1,1,0,2009,2009
+Crohn Disease,C0010346,PAFAH1B1,5048,P43034,platelet activating factor acetylhydrolase 1b regulatory subunit 1,,219,0.504,0.769,0.99995,0.01,,1,1,0,2019,2019
+Crohn Disease,C0010346,IL21R,50615,Q9HBE5,interleukin 21 receptor,Receptor,110,0.55,0.731,0.99835,0.01,,1,1,0,2018,2018
+Crohn Disease,C0010346,MBL3P,50639,,"mannose-binding lectin family member 3, pseudogene",,152,0.518,0.769,,0.01,,1,1,0,2016,2016
+Crohn Disease,C0010346,ASAP1,50807,Q9ULH1,"ArfGAP with SH3 domain, ankyrin repeat and PH domain 1",,112,0.556,0.808,1,0.01,,1,1,0,2018,2018
+Crohn Disease,C0010346,F11R,50848,Q9Y624,F11 receptor,,127,0.542,0.731,0.000018487,0.01,,1,1,0,2008,2008
+Crohn Disease,C0010346,CLEC4A,50856,Q9UMR7,C-type lectin domain family 4 member A,Receptor,14,0.792,0.269,0.000041872,0.01,,1,1,0,2012,2012
+Crohn Disease,C0010346,ASCC1,51008,Q8N9N2,activating signal cointegrator 1 complex subunit 1,,209,0.495,0.846,2.61E-14,0.01,,1,1,0,1998,1998
+Crohn Disease,C0010346,PCNA,5111,P12004,proliferating cell nuclear antigen,Nucleic acid binding,581,0.382,0.846,0.97606,0.01,,1,1,0,2008,2008
+Crohn Disease,C0010346,AADAT,51166,Q8N5Z0,aminoadipate aminotransferase,Enzyme,19,0.76,0.269,0.14641,0.01,,1,1,0,2019,2019
+Crohn Disease,C0010346,FKBP11,51303,Q9NYL4,FKBP prolyl isomerase 11,,9,0.805,0.231,6.46E-07,0.01,,1,1,0,2018,2018
+Crohn Disease,C0010346,PDCD1,5133,Q15116,programmed cell death 1,,497,0.402,0.846,0.41706,0.01,,1,1,0,2005,2005
+Crohn Disease,C0010346,CRNKL1,51340,Q9BZJ0,crooked neck pre-mRNA splicing factor 1,Nucleic acid binding,24,0.711,0.385,2.72E-06,0.01,,1,1,0,2013,2013
+Crohn Disease,C0010346,CHST15,51363,Q7LFX5,carbohydrate sulfotransferase 15,,44,0.647,0.346,0.000035249,0.01,,1,1,0,2017,2017
+Crohn Disease,C0010346,RNF138,51444,Q8WVD3,ring finger protein 138,,15,0.76,0.192,0.67535,0.01,,1,1,0,2009,2009
+Crohn Disease,C0010346,VTA1,51534,Q9NP79,vesicle trafficking 1,,51,0.641,0.423,0.00039935,0.01,,1,1,0,2019,2019
+Crohn Disease,C0010346,GDE1,51573,Q9NZC3,glycerophosphodiester phosphodiesterase 1,,228,0.481,0.808,6.12E-06,0.01,,1,1,0,2015,2015
+Crohn Disease,C0010346,TRIM33,51592,Q9UPN9,tripartite motif containing 33,,63,0.626,0.577,1,0.01,,0,1,0,2019,2019
+Crohn Disease,C0010346,RTRAF,51637,Q9Y224,"RNA transcription, translation and transport factor",,47,0.644,0.692,0.20165,0.01,,1,1,0,2019,2019
+Crohn Disease,C0010346,GHRL,51738,Q9UBU3,ghrelin and obestatin prepropeptide,,183,0.517,0.769,1.39E-11,0.01,,1,1,0,2008,2008
+Crohn Disease,C0010346,PF4,5196,P02776,platelet factor 4,Signaling,158,0.522,0.846,0.043062,0.01,,1,1,0,2017,2017
+Crohn Disease,C0010346,PGA5,5222,P0DJD9,pepsinogen A5,Enzyme,12,0.78,0.308,4.61E-10,0.01,,1,1,0,1989,1989
+Crohn Disease,C0010346,PIGR,5284,P01833,polymeric immunoglobulin receptor,,71,0.615,0.808,0.81331,0.01,,1,1,0,2008,2008
+Crohn Disease,C0010346,PLCG2,5336,P16885,phospholipase C gamma 2,Enzyme,82,0.588,0.808,0.99562,0.01,,1,1,0,2018,2018
+Crohn Disease,C0010346,PLEK,5341,P08567,pleckstrin,Cellular structure,83,0.588,0.731,0.001067,0.01,,0,1,0,2004,2004
+Crohn Disease,C0010346,PML,5371,P29590,promyelocytic leukemia,,274,0.477,0.846,0.21291,0.01,,1,1,0,2018,2018
+Crohn Disease,C0010346,IL20RA,53832,Q9UHF4,interleukin 20 receptor subunit alpha,Receptor,25,0.716,0.346,0.027129,0.01,,1,1,0,2019,2019
+Crohn Disease,C0010346,PNN,5411,Q9H307,"pinin, desmosome associated protein",,55,0.638,0.577,0.11262,0.01,,1,1,0,2017,2017
+Crohn Disease,C0010346,TERF2IP,54386,Q9NYB0,TERF2 interacting protein,,126,0.548,0.731,0.000026683,0.01,,1,1,0,2010,2010
+Crohn Disease,C0010346,POMC,5443,P01189,proopiomelanocortin,,873,0.356,0.846,0.00011658,0.01,,1,1,0,2019,2019
+Crohn Disease,C0010346,PON3,5446,Q15166,paraoxonase 3,,62,0.663,0.692,2.10E-07,0.01,,1,1,0,2007,2007
+Crohn Disease,C0010346,TOLLIP,54472,Q9H0E2,toll interacting protein,,40,0.65,0.462,0.081141,0.01,,1,1,0,2016,2016
+Crohn Disease,C0010346,KRT20,54474,P35900,keratin 20,,559,0.388,0.846,9.08E-11,0.01,,1,1,0,1999,1999
+Crohn Disease,C0010346,UGT1A7,54577,Q9HAW7,UDP glucuronosyltransferase family 1 member A7,,125,0.55,0.692,8.66E-14,0.01,,1,1,0,2005,2005
+Crohn Disease,C0010346,TET2,54790,Q6N021,tet methylcytosine dioxygenase 2,,362,0.458,0.808,4.33E-54,0.01,,1,1,0,2019,2019
+Crohn Disease,C0010346,DYM,54808,Q7RTS9,dymeclin,,155,0.563,0.769,3.59E-13,0.01,,1,1,0,2010,2010
+Crohn Disease,C0010346,DEF8,54849,Q6ZN54,differentially expressed in FDCP 8 homolog,,8,0.839,0.115,0.0025904,0.01,,1,1,0,2013,2013
+Crohn Disease,C0010346,DPP8,54878,Q6V1X1,dipeptidyl peptidase 8,Enzyme,26,0.722,0.385,0.99791,0.01,,1,1,0,2018,2018
+Crohn Disease,C0010346,PPP1R1A,5502,Q13522,protein phosphatase 1 regulatory inhibitor subunit 1A,Enzyme modulator,106,0.559,0.692,0.021894,0.01,,1,1,0,2012,2012
+Crohn Disease,C0010346,HEATR3,55027,Q7Z4Q2,HEAT repeat containing 3,,27,0.7,0.231,3.52E-07,0.01,,1,1,0,2014,2014
+Crohn Disease,C0010346,ATG2B,55102,Q96BY7,autophagy related 2B,,19,0.722,0.385,1.02E-08,0.01,,1,1,0,2018,2018
+Crohn Disease,C0010346,MAP1S,55201,Q66K74,microtubule associated protein 1S,Cellular structure,28,0.686,0.5,0.4197,0.01,,1,1,0,2017,2017
+Crohn Disease,C0010346,RAVER2,55225,Q9HCJ3,"ribonucleoprotein, PTB binding 2",Nucleic acid binding,8,0.821,0.154,1.52E-08,0.01,,1,1,0,2012,2012
+Crohn Disease,C0010346,STEAP3,55240,Q658P3,STEAP3 metalloreductase,,48,0.666,0.385,5.32E-09,0.01,,1,1,0,2009,2009
+Crohn Disease,C0010346,PRKAR1A,5573,P10644,protein kinase cAMP-dependent type I regulatory subunit alpha,,597,0.401,0.846,0.99985,0.01,,1,1,0,2017,2017
+Crohn Disease,C0010346,CCAR1,55749,Q8IX12,cell division cycle and apoptosis regulator 1,Calcium-binding protein,38,0.663,0.385,0.99999,0.01,,1,1,0,2018,2018
+Crohn Disease,C0010346,PRKCA,5578,P17252,protein kinase C alpha,Kinase,368,0.44,0.846,0.3677,0.01,,1,1,0,2016,2016
+Crohn Disease,C0010346,AXL,558,P30530,AXL receptor tyrosine kinase,Kinase,203,0.489,0.615,0.012951,0.01,,1,1,0,2017,2017
+Crohn Disease,C0010346,GSDMB,55876,Q8TAX9,gasdermin B,,44,0.67,0.5,3.34E-07,0.01,,1,1,0,2017,2017
+Crohn Disease,C0010346,LANCL2,55915,Q9NS86,LanC like 2,,11,0.805,0.231,0.3128,0.01,,1,1,0,2020,2020
+Crohn Disease,C0010346,NSFL1C,55968,Q9UNZ2,NSFL1 cofactor,Transporter,20,0.76,0.308,0.049492,0.01,,0,1,0,2004,2004
+Crohn Disease,C0010346,MAPK8,5599,P45983,mitogen-activated protein kinase 8,Kinase,520,0.397,0.885,0.99823,0.01,,1,1,0,2019,2019
+Crohn Disease,C0010346,PROC,5624,P04070,"protein C, inactivator of coagulation factors Va and VIIIa",Enzyme,200,0.504,0.808,0.000019118,0.01,,1,1,0,1999,1999
+Crohn Disease,C0010346,KYAT3,56267,Q6YP21,kynurenine aminotransferase 3,Enzyme,18,0.76,0.269,7.13E-16,0.01,,1,1,0,2019,2019
+Crohn Disease,C0010346,PROX1,5629,Q92786,prospero homeobox 1,Transcription factor,114,0.565,0.538,0.99884,0.01,,1,1,0,2018,2018
+Crohn Disease,C0010346,CYP26B1,56603,Q9NR63,cytochrome P450 family 26 subfamily B member 1,Enzyme,36,0.666,0.5,0.97987,0.01,,1,1,1,2013,2013
+Crohn Disease,C0010346,PSEN2,5664,P49810,presenilin 2,Enzyme,146,0.55,0.654,0.00053736,0.01,,1,1,0,1991,1991
+Crohn Disease,C0010346,PANX2,56666,Q96RD6,pannexin 2,Ion channel,14,0.736,0.5,4.42E-06,0.01,,1,1,0,2015,2015
+Crohn Disease,C0010346,MUC13,56667,Q9H3R2,"mucin 13, cell surface associated",,54,0.633,0.5,0.0024356,0.01,,1,1,1,2006,2006
+Crohn Disease,C0010346,SUCNR1,56670,Q9BXA5,succinate receptor 1,G-protein coupled receptor,48,0.647,0.577,0.00076877,0.01,,1,1,0,2019,2019
+Crohn Disease,C0010346,PSMA7,5688,O14818,proteasome 20S subunit alpha 7,,48,0.659,0.462,0.98768,0.01,,1,1,0,2017,2017
+Crohn Disease,C0010346,LXN,56925,Q9BS40,latexin,,63,0.633,0.615,1.83E-06,0.01,,1,1,0,2019,2019
+Crohn Disease,C0010346,PSMB6,5694,P28072,proteasome 20S subunit beta 6,,100,0.561,0.731,0.015779,0.01,,1,1,0,2009,2009
+Crohn Disease,C0010346,MEPE,56955,Q9NQ76,matrix extracellular phosphoglycoprotein,,53,0.628,0.654,0.0086273,0.01,,1,1,0,2012,2012
+Crohn Disease,C0010346,PSMB10,5699,P40306,proteasome 20S subunit beta 10,,28,0.736,0.462,1.77E-06,0.01,,1,1,1,2006,2006
+Crohn Disease,C0010346,CHPT1,56994,Q8WUD6,choline phosphotransferase 1,Enzyme,253,0.474,0.846,0.00024252,0.01,,0,1,0,2018,2018
+Crohn Disease,C0010346,SLC12A9,56996,Q9BXP2,solute carrier family 12 member 9,Transporter,280,0.454,0.769,1.18E-15,0.01,,1,1,1,1999,1999
+Crohn Disease,C0010346,PGLYRP4,57115,Q96LB8,peptidoglycan recognition protein 4,,11,0.78,0.231,2.94E-15,0.01,,1,1,0,2013,2013
+Crohn Disease,C0010346,PTEN,5728,P60484,phosphatase and tensin homolog,Enzyme,1349,0.305,0.923,0.25651,0.01,,1,1,0,2013,2013
+Crohn Disease,C0010346,PTGDS,5730,P41222,prostaglandin D2 synthase,Enzyme,195,0.503,0.846,0.0050922,0.01,,1,1,0,2015,2015
+Crohn Disease,C0010346,AICDA,57379,Q9GZX7,activation induced cytidine deaminase,Enzyme,265,0.463,0.885,9.21E-06,0.01,,1,1,0,1996,1996
+Crohn Disease,C0010346,HNP1,574045,,Hypertensive nephropathy,,51,0.638,0.654,,0.01,,1,1,0,2010,2010
+Crohn Disease,C0010346,SCYL1,57410,Q96KG9,SCY1 like pseudokinase 1,Kinase,104,0.582,0.769,2.52E-08,0.01,,1,1,0,2006,2006
+Crohn Disease,C0010346,PTHLH,5744,P12272,parathyroid hormone like hormone,,321,0.453,0.846,0.81146,0.01,,1,1,0,2018,2018
+Crohn Disease,C0010346,MIR146B,574447,,microRNA 146b,,187,0.496,0.769,,0.01,,1,1,0,2019,2019
+Crohn Disease,C0010346,WDR19,57728,Q8NEZ3,WD repeat domain 19,,143,0.554,0.769,4.63E-11,0.01,,1,1,0,2003,2003
+Crohn Disease,C0010346,PTPN6,5777,P29350,protein tyrosine phosphatase non-receptor type 6,,218,0.485,0.769,0.99999,0.01,,1,1,0,2013,2013
+Crohn Disease,C0010346,MUC3B,57876,Q9H195,"mucin 3B, cell surface associated",,41,0.666,0.462,,0.01,,1,1,0,2001,2001
+Crohn Disease,C0010346,PTPRC,5788,P08575,protein tyrosine phosphatase receptor type C,Enzyme,366,0.435,0.808,1,0.01,,1,1,0,2012,2012
+Crohn Disease,C0010346,PTPRF,5792,P10586,protein tyrosine phosphatase receptor type F,Enzyme,95,0.578,0.615,1,0.01,,1,1,0,2017,2017
+Crohn Disease,C0010346,PTPRJ,5795,Q12913,protein tyrosine phosphatase receptor type J,Enzyme,79,0.606,0.615,1.29E-11,0.01,,1,1,0,1999,1999
+Crohn Disease,C0010346,NLRC4,58484,Q9NPP4,NLR family CARD domain containing 4,,145,0.556,0.769,9.87E-12,0.01,,1,1,0,2007,2007
+Crohn Disease,C0010346,RAC2,5880,P15153,Rac family small GTPase 2,Enzyme modulator,119,0.556,0.731,0.96627,0.01,,1,1,0,2012,2012
+Crohn Disease,C0010346,MOK,5891,Q9UQ07,MOK protein kinase,Kinase,251,0.476,0.769,8.84E-22,0.01,,1,1,0,2014,2014
+Crohn Disease,C0010346,RARA,5914,P10276,retinoic acid receptor alpha,Nuclear receptor,274,0.47,0.846,0.96305,0.01,,1,1,0,2019,2019
+Crohn Disease,C0010346,PLAAT4,5920,Q9UL19,phospholipase A and acyltransferase 4,,190,0.5,0.808,1.22E-07,0.01,,1,1,0,2011,2011
+Crohn Disease,C0010346,ACE2,59272,Q9BYF1,angiotensin I converting enzyme 2,Enzyme,253,0.477,0.769,0.99769,0.01,,1,1,0,2019,2019
+Crohn Disease,C0010346,BCKDHA,593,P12694,branched chain keto acid dehydrogenase E1 subunit alpha,,45,0.695,0.423,9.82E-09,0.01,,1,1,0,2017,2017
+Crohn Disease,C0010346,GNB4,59345,Q9HAV0,G protein subunit beta 4,Enzyme,25,0.751,0.346,0.0023672,0.01,,1,1,0,2019,2019
+Crohn Disease,C0010346,CCND1,595,P24385,cyclin D1,Enzyme modulator,859,0.344,0.923,0.89057,0.01,,0,1,0,2010,2010
+Crohn Disease,C0010346,REG1B,5968,P48304,regenerating family member 1 beta,,22,0.716,0.308,1.95E-06,0.01,,1,1,0,2010,2010
+Crohn Disease,C0010346,REG1CP,5969,,"regenerating family member 1 gamma, pseudogene",,4,1,0.038,,0.01,,1,1,0,2010,2010
+Crohn Disease,C0010346,ACTB,60,P60709,actin beta,Cellular structure,1110,0.325,0.923,0.98564,0.01,,1,1,0,2018,2018
+Crohn Disease,C0010346,RNASE2,6036,P10153,ribonuclease A family member 2,,61,0.621,0.692,,0.01,,1,1,0,2019,2019
+Crohn Disease,C0010346,RNASE3,6037,P12724,ribonuclease A family member 3,,207,0.49,0.808,,0.01,,1,1,0,2019,2019
+Crohn Disease,C0010346,IGAN1,60498,,IgA nephropathy,,140,0.524,0.808,,0.01,,1,1,0,2017,2017
+Crohn Disease,C0010346,LDAH,60526,Q9H6V9,lipid droplet associated hydrolase,,9,0.839,0.231,0.00035525,0.01,,1,1,0,2015,2015
+Crohn Disease,C0010346,RNU1-4,6060,,"RNA, U1 small nuclear 4",,56,0.626,0.577,,0.01,,1,1,0,2009,2009
+Crohn Disease,C0010346,ROCK1,6093,Q13464,Rho associated coiled-coil containing protein kinase 1,Kinase,157,0.513,0.731,1,0.01,,1,1,0,2017,2017
+Crohn Disease,C0010346,RORC,6097,P51449,RAR related orphan receptor C,Nuclear receptor,88,0.576,0.769,0.99985,0.01,,1,1,1,2011,2011
+Crohn Disease,C0010346,RPGR,6103,Q92834,retinitis pigmentosa GTPase regulator,,167,0.536,0.692,0.99804,0.01,,1,1,0,2019,2019
+Crohn Disease,C0010346,DEFA1A3,613253,,"defensin alpha 1 and alpha 3, variable copy number locus",,17,0.751,0.423,,0.01,,1,1,0,2011,2011
+Crohn Disease,C0010346,S100A1,6271,P23297,S100 calcium binding protein A1,Calcium-binding protein,396,0.421,0.846,0.0060044,0.01,,1,1,0,2001,2001
+Crohn Disease,C0010346,S100A4,6275,P26447,S100 calcium binding protein A4,Calcium-binding protein,308,0.448,0.769,0.0061838,0.01,,1,1,0,2010,2010
+Crohn Disease,C0010346,S100A8,6279,P05109,S100 calcium binding protein A8,Calcium-binding protein,369,0.43,0.962,0.13761,0.01,,1,1,0,2017,2017
+Crohn Disease,C0010346,S100A12,6283,P80511,S100 calcium binding protein A12,Calcium-binding protein,221,0.488,0.846,0.48234,0.01,,1,1,0,2006,2006
+Crohn Disease,C0010346,S100B,6285,P04271,S100 calcium binding protein B,Calcium-binding protein,599,0.383,0.923,0.04387,0.01,,1,1,0,2001,2001
+Crohn Disease,C0010346,SAA1,6288,P0DJI8,serum amyloid A1,Transporter,188,0.513,0.808,0.01493,0.01,,1,1,0,2010,2010
+Crohn Disease,C0010346,CFB,629,P00751,complement factor B,,139,0.532,0.769,4.67E-16,0.01,,1,1,0,2014,2014
+Crohn Disease,C0010346,VPS52,6293,Q8N1B4,VPS52 subunit of GARP complex,Transporter,11,0.78,0.231,0.00038938,0.01,,1,1,0,2013,2013
+Crohn Disease,C0010346,SAT1,6303,P21673,spermidine/spermine N1-acetyltransferase 1,,135,0.539,0.808,0.8706,0.01,,1,1,0,2019,2019
+Crohn Disease,C0010346,CLEC11A,6320,Q9Y240,C-type lectin domain containing 11A,Extracellular structure,56,0.633,0.577,0.00038003,0.01,,0,1,0,2004,2004
+Crohn Disease,C0010346,CCL4,6351,P13236;Q8NHW4,C-C motif chemokine ligand 4,Signaling,276,0.466,0.923,0.24134,0.01,,1,1,0,2013,2013
+Crohn Disease,C0010346,CCL7,6354,P80098,C-C motif chemokine ligand 7,Signaling,124,0.548,0.846,0.00089294,0.01,,1,1,0,2010,2010
+Crohn Disease,C0010346,CCL8,6355,P80075,C-C motif chemokine ligand 8,Signaling,115,0.546,0.692,0.041412,0.01,,1,1,0,2013,2013
+Crohn Disease,C0010346,CCL19,6363,Q99731,C-C motif chemokine ligand 19,Signaling,126,0.542,0.692,0.31691,0.01,,1,1,0,2005,2005
+Crohn Disease,C0010346,CCL25,6370,O15444,C-C motif chemokine ligand 25,Signaling,61,0.61,0.692,0.015241,0.01,,1,1,0,2001,2001
+Crohn Disease,C0010346,CXCL6,6372,P80162,C-X-C motif chemokine ligand 6,Signaling,90,0.582,0.692,2.71E-09,0.01,,1,1,0,2004,2004
+Crohn Disease,C0010346,XCL1,6375,P47992,X-C motif chemokine ligand 1,Signaling,67,0.601,0.692,0.0012982,0.01,,1,1,0,2001,2001
+Crohn Disease,C0010346,CX3CL1,6376,P78423,C-X3-C motif chemokine ligand 1,Signaling,243,0.478,0.808,0.60837,0.01,,1,1,0,2017,2017
+Crohn Disease,C0010346,SLC28A3,64078,Q9HAS3,solute carrier family 28 member 3,Transporter,32,0.674,0.615,2.65E-23,0.01,,1,1,0,2016,2016
+Crohn Disease,C0010346,VSIR,64115,Q9H7M9,V-set immunoregulatory receptor,,92,0.573,0.654,0.76097,0.01,,1,1,0,2017,2017
+Crohn Disease,C0010346,SFRP2,6423,Q96HF1,secreted frizzled related protein 2,,134,0.544,0.731,0.0016693,0.01,,1,1,0,2001,2001
+Crohn Disease,C0010346,POU5F1P3,642559,,POU class 5 homeobox 1 pseudogene 3,,285,0.452,0.808,,0.01,,1,1,0,2012,2012
+Crohn Disease,C0010346,CXCR5,643,P32302,C-X-C motif chemokine receptor 5,G-protein coupled receptor,146,0.524,0.769,0.72861,0.01,,1,1,0,2015,2015
+Crohn Disease,C0010346,NFKBIZ,64332,Q9BYH8,NFKB inhibitor zeta,,30,0.674,0.577,0.99981,0.01,,1,1,0,2014,2014
+Crohn Disease,C0010346,SFTPD,6441,P35247,surfactant protein D,Surfactant,194,0.5,0.846,0.000074927,0.01,,1,1,2,2019,2019
+Crohn Disease,C0010346,SGK1,6446,O00141,serum/glucocorticoid regulated kinase 1,Kinase,188,0.506,0.769,0.0023046,0.01,,1,1,0,2015,2015
+Crohn Disease,C0010346,POU5F1P4,645682,,POU class 5 homeobox 1 pseudogene 4,,284,0.452,0.808,,0.01,,1,1,0,2012,2012
+Crohn Disease,C0010346,SHC1,6464,P29353,SHC adaptor protein 1,Signaling,80,0.597,0.538,0.0017351,0.01,,1,1,0,2011,2011
+Crohn Disease,C0010346,MARCHF7,64844,Q9H992,membrane associated ring-CH-type finger 7,,30,0.705,0.462,0.66162,0.01,,1,1,0,2019,2019
+Crohn Disease,C0010346,SLC1A5,6510,Q15758,solute carrier family 1 member 5,Transporter,81,0.587,0.577,0.16869,0.01,,1,1,0,2019,2019
+Crohn Disease,C0010346,CXADRP1,653108,,CXADR pseudogene 1,,272,0.463,0.846,,0.01,,1,1,0,2017,2017
+Crohn Disease,C0010346,SLC6A4,6532,P31645,solute carrier family 6 member 4,Transporter,440,0.429,0.808,0.24602,0.01,,1,1,1,2018,2018
+Crohn Disease,C0010346,NCF1,653361,P14598,neutrophil cytosolic factor 1,,170,0.521,0.808,0.000028311,0.01,,1,1,0,2004,2004
+Crohn Disease,C0010346,BMP7,655,P18075,bone morphogenetic protein 7,Signaling,197,0.498,0.769,0.12727,0.01,,1,1,0,2008,2008
+Crohn Disease,C0010346,SLC12A2,6558,P55011,solute carrier family 12 member 2,Transporter,128,0.552,0.808,0.96153,0.01,,1,1,0,2018,2018
+Crohn Disease,C0010346,SLPI,6590,P03973,secretory leukocyte peptidase inhibitor,Enzyme modulator,310,0.449,0.846,0.00089665,0.01,,1,1,0,2007,2007
+Crohn Disease,C0010346,H3P37,664611,,H3 histone pseudogene 37,,18,0.78,0.269,,0.01,,0,1,0,2004,2004
+Crohn Disease,C0010346,SOD1,6647,P00441,superoxide dismutase 1,Enzyme,689,0.379,0.962,0.1773,0.01,,1,1,0,2017,2017
+Crohn Disease,C0010346,HNRNPA1P10,664709,,heterogeneous nuclear ribonucleoprotein A1 pseudogene 10,,53,0.631,0.654,,0.01,,1,1,0,2009,2009
+Crohn Disease,C0010346,SOD2,6648,P04179,superoxide dismutase 2,Enzyme,668,0.379,0.923,0.15499,0.01,,1,1,1,2017,2017
+Crohn Disease,C0010346,SPG7,6687,Q9UQ90,"SPG7 matrix AAA peptidase subunit, paraplegin",Enzyme,419,0.436,0.885,1.97E-36,0.01,,1,1,0,2017,2017
+Crohn Disease,C0010346,SPN,6693,P16150,sialophorin,,101,0.563,0.692,0.014408,0.01,,1,1,0,2019,2019
+Crohn Disease,C0010346,SRC,6714,P12931,"SRC proto-oncogene, non-receptor tyrosine kinase",Kinase,265,0.467,0.885,0.99691,0.01,,1,1,0,2020,2020
+Crohn Disease,C0010346,BRAF,673,P15056,"B-Raf proto-oncogene, serine/threonine kinase",Kinase,1228,0.319,0.846,0.99995,0.01,,1,1,2,2017,2017
+Crohn Disease,C0010346,SST,6750,P61278,somatostatin,Signaling,535,0.399,0.885,0.34128,0.01,,1,1,0,2018,2018
+Crohn Disease,C0010346,STAT1,6772,P42224,signal transducer and activator of transcription 1,Nucleic acid binding,531,0.399,0.885,0.99999,0.01,,1,1,0,2019,2019
+Crohn Disease,C0010346,STK4,6789,Q13043,serine/threonine kinase 4,Kinase,58,0.638,0.462,0.014598,0.01,,1,1,0,2008,2008
+Crohn Disease,C0010346,SYK,6850,P43405,spleen associated tyrosine kinase,Kinase,229,0.475,0.808,0.99986,0.01,,1,1,0,2017,2017
+Crohn Disease,C0010346,TACR2,6865,P21452,tachykinin receptor 2,G-protein coupled receptor,33,0.7,0.5,0.000088349,0.01,,1,1,0,2000,2000
+Crohn Disease,C0010346,HNF1A,6927,P20823,HNF1 homeobox A,Nucleic acid binding,292,0.478,0.846,0.96115,0.01,,1,1,0,2014,2014
+Crohn Disease,C0010346,MIR532,693124,,microRNA 532,,52,0.628,0.615,,0.01,,1,1,0,2012,2012
+Crohn Disease,C0010346,MIR629,693214,,microRNA 629,,40,0.653,0.538,,0.01,,1,1,0,2013,2013
+Crohn Disease,C0010346,TCF21,6943,O43680,transcription factor 21,,143,0.537,0.692,0.82553,0.01,,1,1,0,2018,2018
+Crohn Disease,C0010346,TRA,6955,P0DSE1,T cell receptor alpha locus,,51,0.628,0.577,,0.01,,1,1,0,2002,2002
+Crohn Disease,C0010346,TRB,6957,P0DSE2,T cell receptor beta locus,,49,0.636,0.538,,0.01,,1,1,0,2002,2002
+Crohn Disease,C0010346,TERF2,7014,Q15554,telomeric repeat binding factor 2,,125,0.541,0.731,0.99237,0.01,,1,1,0,2010,2010
+Crohn Disease,C0010346,TFF2,7032,Q03403,trefoil factor 2,Signaling,72,0.61,0.538,2.22E-07,0.01,,1,1,0,2013,2013
+Crohn Disease,C0010346,TGFB3,7043,P10600,transforming growth factor beta 3,Signaling,230,0.498,0.808,0.98727,0.01,,1,1,0,2002,2002
+Crohn Disease,C0010346,TGFBR2,7048,P37173,transforming growth factor beta receptor 2,Kinase,502,0.413,0.846,0.12535,0.01,,1,1,0,1997,1997
+Crohn Disease,C0010346,THBD,7056,P07204,thrombomodulin,,303,0.457,0.769,0.053769,0.01,,1,1,0,2013,2013
+Crohn Disease,C0010346,TKT,7086,P29401,transketolase,Enzyme,92,0.595,0.769,0.006748,0.01,,1,1,0,2019,2019
+Crohn Disease,C0010346,TLE1,7088,Q04724,"TLE family member 1, transcriptional corepressor",Transcription factor,106,0.56,0.654,0.99922,0.01,,1,1,1,2011,2011
+Crohn Disease,C0010346,TLR3,7098,O15455,toll like receptor 3,Receptor,393,0.427,0.885,1.63E-07,0.01,,1,1,0,2014,2014
+Crohn Disease,C0010346,CLDN5,7122,O00501,claudin 5,Cell-cell junction,104,0.559,0.769,0.89512,0.01,,1,1,0,2018,2018
+Crohn Disease,C0010346,TNFAIP6,7130,P98066,TNF alpha induced protein 6,,91,0.582,0.731,1.09E-06,0.01,,1,1,0,2016,2016
+Crohn Disease,C0010346,TPM3,7170,P06753,tropomyosin 3,Cellular structure,297,0.49,0.808,0.0066522,0.01,,1,1,0,1998,1998
+Crohn Disease,C0010346,C3,718,P01024,complement C3,Enzyme modulator,343,0.445,0.885,0.90421,0.01,,1,1,0,2000,2000
+Crohn Disease,C0010346,TRAF3,7187,Q13114,TNF receptor associated factor 3,Signaling,129,0.541,0.769,0.99869,0.01,,1,1,0,2013,2013
+Crohn Disease,C0010346,TRAF5,7188,O00463,TNF receptor associated factor 5,Signaling,36,0.659,0.654,1.67E-12,0.01,,1,1,0,2013,2013
+Crohn Disease,C0010346,TRAF6,7189,Q9Y4K3,TNF receptor associated factor 6,Signaling,254,0.472,0.808,0.99739,0.01,,1,1,0,2007,2007
+Crohn Disease,C0010346,HSP90B2P,7190,Q58FF3,"heat shock protein 90 beta family member 2, pseudogene",Chaperone,110,0.558,0.846,,0.01,,1,1,0,1991,1991
+Crohn Disease,C0010346,C4A,720,P0C0L4;P0C0L5,complement C4A (Rodgers blood group),Enzyme modulator,145,0.563,0.769,1.54E-11,0.01,,1,1,0,2016,2016
+Crohn Disease,C0010346,TRPC6,7225,Q9Y210,transient receptor potential cation channel subfamily C member 6,Ion channel,166,0.514,0.692,3.03E-07,0.01,,1,1,0,2015,2015
+Crohn Disease,C0010346,MUC5B,727897,Q9HC84,"mucin 5B, oligomeric mucus/gel-forming",,141,0.532,0.808,0.99999,0.01,,1,1,0,1999,1999
+Crohn Disease,C0010346,OPN1MW2,728458,P04001;P0DN77;P0DN78,"opsin 1, medium wave sensitive 2",,80,0.601,0.769,0.24464,0.01,,0,1,0,2002,2002
+Crohn Disease,C0010346,TWIST1,7291,Q15672,twist family bHLH transcription factor 1,Transcription factor,559,0.397,0.846,0.34491,0.01,,1,1,0,2008,2008
+Crohn Disease,C0010346,TYMS,7298,P04818,thymidylate synthetase,Enzyme,406,0.425,0.846,0.72247,0.01,,1,1,0,2006,2006
+Crohn Disease,C0010346,UBE2I,7329,P63279,ubiquitin conjugating enzyme E2 I,,131,0.544,0.769,0.96496,0.01,,1,1,0,2017,2017
+Crohn Disease,C0010346,VDAC1,7416,P21796,voltage dependent anion channel 1,,116,0.556,0.654,0.97266,0.01,,1,1,0,2004,2004
+Crohn Disease,C0010346,VIPR1,7433,P32241,vasoactive intestinal peptide receptor 1,G-protein coupled receptor,102,0.573,0.654,7.44E-27,0.01,,1,1,0,2007,2007
+Crohn Disease,C0010346,VWF,7450,P04275,von Willebrand factor,Enzyme modulator,498,0.408,0.885,3.22E-25,0.01,,1,1,0,2017,2017
+Crohn Disease,C0010346,WNT2B,7482,Q93097,Wnt family member 2B,Signaling,65,0.644,0.615,0.038333,0.01,,1,1,0,2020,2020
+Crohn Disease,C0010346,XBP1P1,7495,,X-box binding protein 1 pseudogene 1,,42,0.653,0.692,,0.01,,1,1,0,2019,2019
+Crohn Disease,C0010346,XDH,7498,P47989,xanthine dehydrogenase,Enzyme,165,0.529,0.846,2.59E-22,0.01,,1,1,0,2016,2016
+Crohn Disease,C0010346,XPO1,7514,O14980,exportin 1,Receptor,178,0.504,0.692,1,0.01,,1,1,0,2017,2017
+Crohn Disease,C0010346,YWHAE,7531,P62258,tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein epsilon,Chaperone,176,0.53,0.692,0.98479,0.01,,1,1,0,2019,2019
+Crohn Disease,C0010346,ZAP70,7535,P43403,zeta chain of T cell receptor associated protein kinase 70,Kinase,212,0.497,0.769,0.87696,0.01,,1,1,1,2013,2013
+Crohn Disease,C0010346,CA2,760,P00918,carbonic anhydrase 2,,210,0.506,0.808,1.69E-06,0.01,,1,1,0,2016,2016
+Crohn Disease,C0010346,ZNF148,7707,Q9UQR1,zinc finger protein 148,Transcription factor,81,0.615,0.654,0.99997,0.01,,1,1,0,2011,2011
+Crohn Disease,C0010346,CACNA1E,777,Q15878,calcium voltage-gated channel subunit alpha1 E,Ion channel,63,0.65,0.577,1,0.01,,1,1,0,2018,2018
+Crohn Disease,C0010346,SLC25A20,788,O43772,solute carrier family 25 member 20,Transporter,130,0.563,0.769,1.20E-07,0.01,,1,1,0,2016,2016
+Crohn Disease,C0010346,SLC52A2,79581,Q9HAB3,solute carrier family 52 member 2,Transporter,261,0.483,0.808,0.0024777,0.01,,1,1,0,2017,2017
+Crohn Disease,C0010346,CORO7,79585,P57737,coronin 7,Cellular structure,70,0.628,0.692,1.83E-25,0.01,,1,1,0,2018,2018
+Crohn Disease,C0010346,SAP130,79595,Q9H0E3,Sin3A associated protein 130,,9,0.805,0.154,1,0.01,,1,1,0,2020,2020
+Crohn Disease,C0010346,MORC4,79710,Q8TE76,MORC family CW-type zinc finger 4,,14,0.751,0.269,0.99783,0.01,,1,1,2,2013,2013
+Crohn Disease,C0010346,EHMT1,79813,Q9H9B1,euchromatic histone lysine methyltransferase 1,Epigenetic regulator,371,0.46,0.808,1,0.01,,1,1,0,2018,2018
+Crohn Disease,C0010346,CAMKMT,79823,Q7Z624,calmodulin-lysine N-methyltransferase,,185,0.51,0.808,1.38E-15,0.01,,1,1,0,2009,2009
+Crohn Disease,C0010346,HDAC11,79885,Q96DB2,histone deacetylase 11,Epigenetic regulator,54,0.636,0.654,0.0069318,0.01,,1,1,0,2015,2015
+Crohn Disease,C0010346,CALCR,799,P30988,calcitonin receptor,G-protein coupled receptor,282,0.464,0.846,3.12E-09,0.01,,1,1,0,2019,2019
+Crohn Disease,C0010346,DHDDS,79947,Q86SQ9,dehydrodolichyl diphosphate synthase subunit,Enzyme,308,0.468,0.885,0.24533,0.01,,0,1,0,2018,2018
+Crohn Disease,C0010346,CALM1,801,P0DP23;P0DP24;P0DP25,calmodulin 1,Calcium-binding protein,253,0.472,0.808,0.94473,0.01,,1,1,0,2009,2009
+Crohn Disease,C0010346,PROSER1,80209,Q86XN7,proline and serine rich 1,,2,0.931,0.038,0.71143,0.01,,1,1,0,2008,2008
+Crohn Disease,C0010346,ULBP1,80329,Q9BZM6,UL16 binding protein 1,,34,0.674,0.346,6.89E-07,0.01,,1,1,0,2017,2017
+Crohn Disease,C0010346,CALM2,805,P0DP23;P0DP24;P0DP25,calmodulin 2,Calcium-binding protein,252,0.472,0.808,0.92086,0.01,,1,1,0,2009,2009
+Crohn Disease,C0010346,ANC,8066,,Anal canal carcinoma,,17,0.736,0.385,,0.01,,1,1,0,2020,2020
+Crohn Disease,C0010346,FGF23,8074,Q9GZV9,fibroblast growth factor 23,Signaling,305,0.46,0.731,0.031014,0.01,,1,1,0,2018,2018
+Crohn Disease,C0010346,CALM3,808,P0DP23;P0DP24;P0DP25,calmodulin 3,Calcium-binding protein,215,0.485,0.846,0.92749,0.01,,1,1,0,2009,2009
+Crohn Disease,C0010346,NPL,80896,Q9BXD5,N-acetylneuraminate pyruvate lyase,Enzyme,34,0.663,0.577,1.57E-07,0.01,,1,1,0,1999,1999
+Crohn Disease,C0010346,GPR68,8111,Q15743,G protein-coupled receptor 68,G-protein coupled receptor,48,0.65,0.462,0.00049976,0.01,,1,1,0,2018,2018
+Crohn Disease,C0010346,SLC14A2,8170,Q15849,solute carrier family 14 member 2,Transporter,71,0.606,0.692,1.06E-17,0.01,,1,1,0,2010,2010
+Crohn Disease,C0010346,TAM,8205,,"Myeloproliferative syndrome, transient (transient abnormal",,141,0.528,0.731,,0.01,,1,1,0,2017,2017
+Crohn Disease,C0010346,FZD4,8322,Q9ULV1,frizzled class receptor 4,G-protein coupled receptor,239,0.49,0.923,0.96962,0.01,,1,1,0,2020,2020
+Crohn Disease,C0010346,FCRL4,83417,Q96PJ5,Fc receptor like 4,Cell adhesion,35,0.67,0.5,7.91E-10,0.01,,1,1,0,2010,2010
+Crohn Disease,C0010346,EIF2A,83939,Q9BY44,eukaryotic translation initiation factor 2A,Enzyme,16,0.78,0.346,6.04E-09,0.01,,1,1,0,2018,2018
+Crohn Disease,C0010346,PLA2G6,8398,O60733,phospholipase A2 group VI,Enzyme modulator,350,0.476,0.846,2.48E-10,0.01,,1,1,0,2014,2014
+Crohn Disease,C0010346,PLA2G10,8399,O15496,phospholipase A2 group X,Enzyme,86,0.581,0.692,0.069507,0.01,,1,1,0,2006,2006
+Crohn Disease,C0010346,MAGT1,84061,Q9H0U3,magnesium transporter 1,Transporter,120,0.548,0.769,0.96138,0.01,,1,1,0,2012,2012
+Crohn Disease,C0010346,CASR,846,P41180,calcium sensing receptor,G-protein coupled receptor,517,0.41,0.846,0.046698,0.01,,1,1,0,2017,2017
+Crohn Disease,C0010346,IL1F10,84639,Q8WWZ1,interleukin 1 family member 10,,57,0.636,0.462,0.000002023,0.01,,1,1,0,2017,2017
+Crohn Disease,C0010346,HAVCR2,84868,Q8TDQ0,hepatitis A virus cellular receptor 2,,299,0.45,0.808,0.03866,0.01,,1,1,0,2011,2011
+Crohn Disease,C0010346,PIK3R3,8503,Q92569,phosphoinositide-3-kinase regulatory subunit 3,Enzyme modulator,101,0.556,0.692,3.36E-10,0.01,,1,1,0,2019,2019
+Crohn Disease,C0010346,HAT1,8520,O14929,histone acetyltransferase 1,Enzyme,42,0.656,0.5,0.83507,0.01,,1,1,0,2019,2019
+Crohn Disease,C0010346,CYP4F2,8529,P78329,cytochrome P450 family 4 subfamily F member 2,Enzyme,44,0.674,0.308,7.58E-17,0.01,,1,1,4,2010,2010
+Crohn Disease,C0010346,SHANK3,85358,Q9BYB0,SH3 and multiple ankyrin repeat domains 3,,169,0.55,0.731,1,0.01,,1,1,0,2017,2017
+Crohn Disease,C0010346,MYLK2,85366,Q9H1R3,myosin light chain kinase 2,Kinase,35,0.705,0.269,0.23336,0.01,,1,1,0,2019,2019
+Crohn Disease,C0010346,FCN3,8547,O75636,ficolin 3,Signaling,39,0.678,0.5,0.0038008,0.01,,1,1,0,2007,2007
+Crohn Disease,C0010346,RUNX1,861,Q01196,RUNX family transcription factor 1,Transcription factor,412,0.425,0.808,0.65377,0.01,,1,1,0,2018,2018
+Crohn Disease,C0010346,PSMG1,8624,O95456,proteasome assembly chaperone 1,,97,0.579,0.731,0.00034234,0.01,,1,1,0,2011,2011
+Crohn Disease,C0010346,RNASET2,8635,O00584,ribonuclease T2,,46,0.682,0.615,0.00026891,0.01,,1,1,1,2017,2017
+Crohn Disease,C0010346,SOCS1,8651,O15524,suppressor of cytokine signaling 1,Enzyme modulator,315,0.445,0.808,0.58544,0.01,,1,1,1,2016,2016
+Crohn Disease,C0010346,MARCO,8685,Q9UEW3,macrophage receptor with collagenous structure,,42,0.659,0.5,7.77E-21,0.01,,1,1,0,2020,2020
+Crohn Disease,C0010346,TNFRSF25,8718,Q93038,TNF receptor superfamily member 25,,96,0.573,0.769,0.0086475,0.01,,1,1,0,2018,2018
+Crohn Disease,C0010346,CBR1,873,P16152,carbonyl reductase 1,,100,0.572,0.654,0.000062783,0.01,,1,1,0,2013,2013
+Crohn Disease,C0010346,RIPK1,8737,Q13546,receptor interacting serine/threonine kinase 1,Kinase,250,0.479,0.769,0.0079441,0.01,,1,1,0,2019,2019
+Crohn Disease,C0010346,TNFSF14,8740,O43557,TNF superfamily member 14,Signaling,143,0.529,0.769,0.051663,0.01,,1,1,0,2005,2005
+Crohn Disease,C0010346,TNFSF10,8743,P50591,TNF superfamily member 10,Signaling,445,0.413,0.885,0.13495,0.01,,1,1,0,2008,2008
+Crohn Disease,C0010346,TNFSF9,8744,P41273,TNF superfamily member 9,,90,0.579,0.692,0.31823,0.01,,1,1,0,2004,2004
+Crohn Disease,C0010346,TNFRSF10C,8794,O14798,TNF receptor superfamily member 10c,,89,0.578,0.731,3.16E-06,0.01,,1,1,0,2008,2008
+Crohn Disease,C0010346,SUCLA2,8803,Q9P2R7,succinate-CoA ligase ADP-forming subunit beta,Enzyme,136,0.566,0.654,0.0023488,0.01,,1,1,0,2016,2016
+Crohn Disease,C0010346,KYAT1,883,Q16773,kynurenine aminotransferase 1,Enzyme,24,0.736,0.308,1.87E-12,0.01,,1,1,0,2019,2019
+Crohn Disease,C0010346,CFLAR,8837,O15519,CASP8 and FADD like apoptosis regulator,Enzyme,215,0.485,0.846,0.99967,0.01,,1,1,0,2001,2001
+Crohn Disease,C0010346,PROM1,8842,O43490,prominin 1,Transporter,477,0.41,0.846,1.95E-22,0.01,,1,1,0,2017,2017
+Crohn Disease,C0010346,APLN,8862,Q9ULZ1,apelin,,226,0.497,0.769,0.45897,0.01,,1,1,0,2018,2018
+Crohn Disease,C0010346,PER2,8864,O15055,period circadian regulator 2,Transcription factor,238,0.488,0.846,0.7148,0.01,,1,1,0,2018,2018
+Crohn Disease,C0010346,IER3,8870,P46695,immediate early response 3,,78,0.593,0.769,0.63122,0.01,,1,1,0,2011,2011
+Crohn Disease,C0010346,ARHGEF7,8874,Q14155,Rho guanine nucleotide exchange factor 7,,215,0.486,0.846,0.99995,0.01,,1,1,1,1998,1998
+Crohn Disease,C0010346,KRIT1,889,O00522,KRIT1 ankyrin repeat containing,,201,0.5,0.808,0.00069333,0.01,,1,1,0,2009,2009
+Crohn Disease,C0010346,EIF2B5,8893,Q13144,eukaryotic translation initiation factor 2B subunit epsilon,,84,0.615,0.769,0.064171,0.01,,1,1,0,2019,2019
+Crohn Disease,C0010346,MTMR3,8897,Q13615,myotubularin related protein 3,Enzyme,41,0.682,0.462,0.99937,0.01,,1,1,0,2013,2013
+Crohn Disease,C0010346,SELENBP1,8991,Q13228,selenium binding protein 1,Immune response,214,0.493,0.846,3.23E-16,0.01,,1,1,0,2019,2019
+Crohn Disease,C0010346,PGLYRP1,8993,O75594,peptidoglycan recognition protein 1,,20,0.78,0.346,0.000017919,0.01,,1,1,0,2013,2013
+Crohn Disease,C0010346,MAP3K14,9020,Q99558,mitogen-activated protein kinase kinase kinase 14,Kinase,67,0.608,0.769,,0.01,,1,1,1,2014,2014
+Crohn Disease,C0010346,CCRL2,9034,O00421,C-C motif chemokine receptor like 2,G-protein coupled receptor,59,0.621,0.654,0.36861,0.01,,1,1,0,2010,2010
+Crohn Disease,C0010346,CD1C,911,P29017,CD1c molecule,,49,0.633,0.692,1.60E-08,0.01,,1,1,0,2013,2013
+Crohn Disease,C0010346,LATS1,9113,O95835,large tumor suppressor kinase 1,Kinase,99,0.563,0.731,0.99987,0.01,,1,1,0,2019,2019
+Crohn Disease,C0010346,ISX,91464,Q2M1V0,intestine specific homeobox,,16,0.805,0.115,0.000035552,0.01,,1,1,0,2012,2012
+Crohn Disease,C0010346,NEURL1,9148,O76050,neuralized E3 ubiquitin protein ligase 1,Enzyme,103,0.556,0.538,0.011091,0.01,,1,1,0,2017,2017
+Crohn Disease,C0010346,CD3D,915,P04234,CD3d molecule,,67,0.626,0.577,0.000085898,0.01,,1,1,0,2010,2010
+Crohn Disease,C0010346,MYLK3,91807,Q32MK0,myosin light chain kinase 3,Kinase,27,0.7,0.385,5.88E-07,0.01,,1,1,0,2019,2019
+Crohn Disease,C0010346,IL32,9235,P24001,interleukin 32,,200,0.495,0.731,3.75E-09,0.01,,1,1,0,2012,2012
+Crohn Disease,C0010346,G6PC3,92579,Q9BUM1,glucose-6-phosphatase catalytic subunit 3,,79,0.606,0.731,4.72E-06,0.01,,1,1,0,2020,2020
+Crohn Disease,C0010346,TMEM183A,92703,Q8IXX5,transmembrane protein 183A,,1,1,0.038,0.70022,0.01,,1,1,0,2012,2012
+Crohn Disease,C0010346,HELB,92797,Q8NG08,DNA helicase B,Enzyme,6,0.861,0.192,9.59E-26,0.01,,1,1,0,2014,2014
+Crohn Disease,C0010346,REEP6,92840,Q96HR9,receptor accessory protein 6,Transporter,46,0.67,0.385,0.000016861,0.01,,1,1,0,2010,2010
+Crohn Disease,C0010346,GPR55,9290,Q9Y2T6,G protein-coupled receptor 55,G-protein coupled receptor,68,0.619,0.615,0.000028503,0.01,,1,1,0,2017,2017
+Crohn Disease,C0010346,CD83,9308,Q01151,CD83 molecule,,96,0.566,0.731,0.0052136,0.01,,1,1,0,2003,2003
+Crohn Disease,C0010346,MS4A1,931,P11836,membrane spanning 4-domains A1,Receptor,451,0.411,0.846,0.000050781,0.01,,1,1,0,1999,1999
+Crohn Disease,C0010346,PGAP3,93210,Q96FM1,post-GPI attachment to proteins phospholipase 3,,102,0.628,0.731,0.00194,0.01,,1,1,0,2015,2015
+Crohn Disease,C0010346,GLP2R,9340,O95838,glucagon like peptide 2 receptor,G-protein coupled receptor,28,0.705,0.269,2.64E-11,0.01,,1,1,0,2012,2012
+Crohn Disease,C0010346,VAMP3,9341,Q15836,vesicle associated membrane protein 3,,26,0.695,0.385,0.0025882,0.01,,1,1,0,2013,2013
+Crohn Disease,C0010346,UBE4A,9354,Q14139,ubiquitination factor E4A,Enzyme modulator,22,0.729,0.308,0.10902,0.01,,1,1,0,2008,2008
+Crohn Disease,C0010346,SLC9A3R1,9368,O14745,SLC9A3 regulator 1,,116,0.547,0.577,0.000088416,0.01,,1,1,0,2009,2009
+Crohn Disease,C0010346,FOXP2,93986,O15409,forkhead box P2,,165,0.545,0.808,0.99994,0.01,,1,1,0,2013,2013
+Crohn Disease,C0010346,SFXN1,94081,Q9H9B4,sideroflexin 1,Transporter,73,0.597,0.731,0.00097212,0.01,,1,1,0,2002,2002
+Crohn Disease,C0010346,CD80,941,P33681,CD80 molecule,,233,0.475,0.769,0.010898,0.01,,1,1,0,2015,2015
+Crohn Disease,C0010346,NCR2,9436,O95944,natural cytotoxicity triggering receptor 2,,40,0.656,0.538,2.47E-07,0.01,,1,1,0,2019,2019
+Crohn Disease,C0010346,CD33,945,P20138,CD33 molecule,Receptor,142,0.524,0.769,5.69E-07,0.01,,1,1,0,2001,2001
+Crohn Disease,C0010346,ARHGEF6,9459,Q15052,Rac/Cdc42 guanine nucleotide exchange factor 6,,52,0.678,0.462,0.99998,0.01,,1,1,0,2014,2014
+Crohn Disease,C0010346,TBPL1,9519,P62380,TATA-box binding protein like 1,Transcription factor,198,0.506,0.846,0.37902,0.01,,1,1,0,2010,2010
+Crohn Disease,C0010346,CD38,952,P28907,CD38 molecule,Enzyme,473,0.407,0.885,2.31E-06,0.01,,1,1,0,2019,2019
+Crohn Disease,C0010346,VPS4B,9525,O75351,vacuolar protein sorting 4 homolog B,Cellular structure,13,0.76,0.538,0.23026,0.01,,1,1,0,2015,2015
+Crohn Disease,C0010346,CCL4L2,9560,P13236;Q8NHW4,C-C motif chemokine ligand 4 like 2,,133,0.535,0.885,0.088586,0.01,,1,1,0,2013,2013
+Crohn Disease,C0010346,PRDX6,9588,P30041,peroxiredoxin 6,Enzyme,93,0.572,0.731,0.000048237,0.01,,1,1,0,2012,2012
+Crohn Disease,C0010346,CD44,960,P16070,CD44 molecule (Indian blood group),,711,0.363,0.962,2.45E-07,0.01,,1,1,0,2007,2007
+Crohn Disease,C0010346,CD47,961,Q08722,CD47 molecule,,253,0.468,0.769,0.91924,0.01,,1,1,0,2012,2012
+Crohn Disease,C0010346,LPIN2,9663,Q92539,lipin 2,,81,0.628,0.615,0.00005026,0.01,,1,1,0,2010,2010
+Crohn Disease,C0010346,CD69,969,Q07108,CD69 molecule,,206,0.488,0.923,0.029691,0.01,,1,1,0,2015,2015
+Crohn Disease,C0010346,ELMO1,9844,Q92556,engulfment and cell motility 1,Signaling,72,0.608,0.615,0.89997,0.01,,1,1,1,2012,2012
+Crohn Disease,C0010346,P2RY14,9934,Q15391,purinergic receptor P2Y14,G-protein coupled receptor,13,0.78,0.154,0.00054873,0.01,,1,1,0,2009,2009
+Crohn Disease,C0010346,SLC23A1,9963,Q9UHI7,solute carrier family 23 member 1,Transporter,22,0.743,0.346,0.023504,0.01,,1,1,3,2014,2014
+Crohn Disease,C0010346,NR1I3,9970,Q14994,nuclear receptor subfamily 1 group I member 3,Nuclear receptor,318,0.448,0.846,3.53E-08,0.01,,1,1,0,2017,2017
+Crohn Disease,C0010346,RBX1,9978,P62877,ring-box 1,Enzyme,63,0.601,0.615,0.94689,0.01,,1,1,0,2013,2013
+Crohn Disease,C0010346,CDC42,998,P60953,cell division cycle 42,Enzyme modulator,327,0.458,0.846,0.78728,0.01,,1,1,0,2018,2018
+Crohn Disease,C0010346,CDH1,999,P12830,cadherin 1,,508,0.401,0.808,0.14631,0.01,,1,1,3,2009,2009

@@ -1,0 +1,1072 @@
+﻿Disease,Disease_id,Gene,Gene_id,UniProt,Gene_Full_Name,Protein_Class,N_diseases_g,DSI_g,DPI_g,pLI,Score_gda,EL_gda,EI_gda,N_PMIDs,N_SNPs_gda,First_Ref,Last_Ref
+Autism Spectrum Disorders,C1510586,CHD8,57680,Q9HCK8,chromodomain helicase DNA binding protein 8,,66,0.656,0.577,1,0.8,definitive,0.974,38,0,2012,2020
+Autism Spectrum Disorders,C1510586,NRXN2,9379,P58401;Q9P2S2,neurexin 2,,18,0.769,0.308,0.99934,0.74,moderate,1,5,0,2011,2018
+Autism Spectrum Disorders,C1510586,CNTNAP2,26047,Q9UHC6,contactin associated protein 2,,203,0.53,0.846,2.8673E-09,0.7,,0.976,42,5,2008,2020
+Autism Spectrum Disorders,C1510586,SHANK3,85358,Q9BYB0,SH3 and multiple ankyrin repeat domains 3,,169,0.55,0.731,1,0.7,,0.976,84,8,2007,2020
+Autism Spectrum Disorders,C1510586,NLGN3,54413,Q9NZ94,neuroligin 3,,63,0.653,0.462,0.97641,0.6,strong,0.96,25,5,2003,2019
+Autism Spectrum Disorders,C1510586,NRXN1,9378,P58400;Q9ULB1,neurexin 1,,139,0.581,0.692,0.99964,0.6,,1,31,2,2008,2019
+Autism Spectrum Disorders,C1510586,EN2,2020,P19622,engrailed homeobox 2,Transcription factor,41,0.674,0.462,0.63448,0.59,,1,10,5,2004,2019
+Autism Spectrum Disorders,C1510586,DLG4,1742,P78352,discs large MAGUK scaffold protein 4,Receptor,91,0.595,0.654,0.99954,0.55,,1,5,0,2010,2019
+Autism Spectrum Disorders,C1510586,GABRB3,2562,P28472,gamma-aminobutyric acid type A receptor subunit beta3,Ion channel,139,0.546,0.615,0.95138,0.54,,1,5,2,2005,2018
+Autism Spectrum Disorders,C1510586,SCN1A,6323,P35498,sodium voltage-gated channel alpha subunit 1,Ion channel,287,0.477,0.808,1,0.53,,1,4,1,2011,2018
+Autism Spectrum Disorders,C1510586,MEF2C,4208,Q06413,myocyte enhancer factor 2C,Transcription factor,206,0.517,0.769,0.017256,0.41,,1,3,2,2010,2019
+Autism Spectrum Disorders,C1510586,PTCHD1,139411,Q96NR3,patched domain containing 1,Receptor,62,0.678,0.385,0.98224,0.4,,1,10,1,2008,2020
+Autism Spectrum Disorders,C1510586,SHANK2,22941,Q9UPX8,SH3 and multiple ankyrin repeat domains 2,,49,0.663,0.385,8.4299E-07,0.4,,0.974,39,6,2010,2019
+Autism Spectrum Disorders,C1510586,OXTR,5021,P30559,oxytocin receptor,G-protein coupled receptor,144,0.541,0.769,0.00071066,0.4,,0.941,34,11,2008,2019
+Autism Spectrum Disorders,C1510586,AVPR1A,552,P37288,arginine vasopressin receptor 1A,G-protein coupled receptor,51,0.663,0.5,6.8987E-07,0.4,,1,10,3,2006,2019
+Autism Spectrum Disorders,C1510586,RELN,5649,P78509,reelin,,178,0.515,0.731,1,0.4,,0.929,14,4,2002,2019
+Autism Spectrum Disorders,C1510586,PTEN,5728,P60484,phosphatase and tensin homolog,Enzyme,1349,0.305,0.923,0.25651,0.4,,1,37,6,2005,2019
+Autism Spectrum Disorders,C1510586,NLGN4X,57502,Q8N0W4,neuroligin 4 X-linked,,45,0.686,0.423,0.99267,0.4,,0.889,18,3,2003,2018
+Autism Spectrum Disorders,C1510586,BDNF,627,P23560,brain derived neurotrophic factor,Signaling,992,0.345,0.923,0.65626,0.4,,0.957,23,3,2009,2020
+Autism Spectrum Disorders,C1510586,GRIN2B,2904,Q13224,glutamate ionotropic receptor NMDA type subunit 2B,Ion channel,249,0.51,0.692,1,0.38,,1,9,0,2011,2019
+Autism Spectrum Disorders,C1510586,TSC2,7249,P49815,TSC complex subunit 2,Enzyme modulator,410,0.439,0.808,1,0.38,,1,10,2,2011,2019
+Autism Spectrum Disorders,C1510586,FOXP1,27086,Q9H334,forkhead box P1,,317,0.46,0.808,0.99998,0.37,,1,8,1,2010,2019
+Autism Spectrum Disorders,C1510586,ITGB3,3690,P05106,integrin subunit beta 3,Receptor,260,0.485,0.846,0.0017189,0.37,,1,7,4,2011,2019
+Autism Spectrum Disorders,C1510586,IL1RAPL1,11141,Q9NZN1,interleukin 1 receptor accessory protein like 1,Receptor,103,0.617,0.692,0.99886,0.36,,0.857,7,0,2010,2019
+Autism Spectrum Disorders,C1510586,DPP6,1804,P42658,dipeptidyl peptidase like 6,Enzyme,71,0.603,0.692,0.33997,0.35,,1,5,1,2008,2016
+Autism Spectrum Disorders,C1510586,RAI1,10743,Q7Z5J4,retinoic acid induced 1,Transcription factor,205,0.545,0.731,1,0.34,,1,4,0,2010,2018
+Autism Spectrum Disorders,C1510586,DPYD,1806,Q12882,dihydropyrimidine dehydrogenase,Enzyme,249,0.493,0.846,3.3686E-22,0.34,,1,4,0,2008,2011
+Autism Spectrum Disorders,C1510586,CHD2,1106,O14647,chromodomain helicase DNA binding protein 2,,99,0.585,0.577,1,0.33,,1,4,0,2014,2017
+Autism Spectrum Disorders,C1510586,ANKRD11,29123,Q6UB99,ankyrin repeat domain 11,,177,0.556,0.808,1,0.33,,1,3,0,2008,2013
+Autism Spectrum Disorders,C1510586,NRXN3,9369,Q9HDB5;Q9Y4C0,neurexin 3,,64,0.656,0.615,1,0.33,limited,1,4,0,2012,2018
+Autism Spectrum Disorders,C1510586,CDH10,1008,Q9Y6N8,cadherin 10,,16,0.76,0.385,0.29379,0.32,,1,3,0,2016,2017
+Autism Spectrum Disorders,C1510586,JARID2,3720,Q92833,jumonji and AT-rich interaction domain containing 2,Transcription factor,63,0.615,0.577,0.99999,0.32,,1,2,0,2011,2018
+Autism Spectrum Disorders,C1510586,MTNR1A,4543,P48039,melatonin receptor 1A,G-protein coupled receptor,79,0.59,0.808,7.2327E-07,0.32,,0.5,2,0,2010,2010
+Autism Spectrum Disorders,C1510586,TSHZ3,57616,Q63HK5,teashirt zinc finger homeobox 3,Transcription factor,26,0.711,0.423,0.99053,0.32,,1,2,0,2016,2019
+Autism Spectrum Disorders,C1510586,RYR2,6262,Q92736,ryanodine receptor 2,Ion channel,160,0.539,0.615,0.99999,0.32,,1,3,0,2012,2017
+Autism Spectrum Disorders,C1510586,SLC1A1,6505,P43005,solute carrier family 1 member 1,Transporter,122,0.561,0.654,8.6876E-06,0.32,,1,3,1,2008,2019
+Autism Spectrum Disorders,C1510586,GPR50,9248,Q13585,G protein-coupled receptor 50,G-protein coupled receptor,31,0.686,0.462,0.64639,0.32,,1,2,1,2010,2010
+Autism Spectrum Disorders,C1510586,TRIP12,9320,Q14669,thyroid hormone receptor interactor 12,,81,0.678,0.462,1,0.32,strong,1,3,0,2014,2017
+Autism Spectrum Disorders,C1510586,CEP41,95681,Q9BYV8,centrosomal protein 41,,69,0.636,0.5,3.5915E-06,0.32,,1,2,0,2011,2019
+Autism Spectrum Disorders,C1510586,UPP2,151531,O95045,uridine phosphorylase 2,Enzyme,16,0.792,0.231,0.0012599,0.31,,1,2,0,2012,2017
+Autism Spectrum Disorders,C1510586,DLX1,1745,P56177,distal-less homeobox 1,Transcription factor,30,0.695,0.462,0.96232,0.31,,1,1,0,2011,2011
+Autism Spectrum Disorders,C1510586,DNMT3A,1788,Q9Y6K1,DNA methyltransferase 3 alpha,,350,0.445,0.846,7.3538E-39,0.31,,1,2,1,2014,2019
+Autism Spectrum Disorders,C1510586,DIPK2A,205428,Q8NDZ4,divergent protein kinase domain 2A,,15,0.78,0.385,0.00051408,0.31,,1,1,0,2011,2011
+Autism Spectrum Disorders,C1510586,DIP2A,23181,Q14689,disco interacting protein 2 homolog A,,18,0.76,0.231,0.11301,0.31,,1,2,0,2017,2019
+Autism Spectrum Disorders,C1510586,SIN3A,25942,Q96ST3,SIN3 transcription regulator family member A,Enzyme,184,0.551,0.692,1,0.31,,1,1,0,2016,2016
+Autism Spectrum Disorders,C1510586,GLRA2,2742,P23416,glycine receptor alpha 2,Ion channel,15,0.751,0.423,0.97334,0.31,limited,1,2,1,2016,2017
+Autism Spectrum Disorders,C1510586,GTF2I,2969,P78347,general transcription factor IIi,,249,0.5,0.808,0.99592,0.31,,1,1,0,2012,2012
+Autism Spectrum Disorders,C1510586,HFE,3077,Q30201,homeostatic iron regulator,,415,0.436,0.846,2.5587E-08,0.31,,1,2,0,2009,2010
+Autism Spectrum Disorders,C1510586,MTNR1B,4544,P49286,melatonin receptor 1B,G-protein coupled receptor,93,0.588,0.731,0.00064771,0.31,,0,1,0,2010,2010
+Autism Spectrum Disorders,C1510586,PAH,5053,P00439,phenylalanine hydroxylase,,219,0.516,0.769,6.4046E-23,0.31,,1,2,0,2013,2019
+Autism Spectrum Disorders,C1510586,PCDH9,5101,Q9HC56,protocadherin 9,,35,0.682,0.5,0.80865,0.31,,1,1,0,2008,2008
+Autism Spectrum Disorders,C1510586,FEV,54738,Q99581,"FEV transcription factor, ETS family member",Transcription factor,86,0.593,0.692,0.0081114,0.31,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,DPP10,57628,Q8N608,dipeptidyl peptidase like 10,Enzyme,32,0.695,0.577,0.99999,0.31,,1,1,0,2008,2008
+Autism Spectrum Disorders,C1510586,RARB,5915,P10826,retinoic acid receptor beta,Nuclear receptor,254,0.478,0.846,0.99983,0.31,,1,2,0,2017,2019
+Autism Spectrum Disorders,C1510586,USH2A,7399,O75445,usherin,Enzyme modulator,119,0.579,0.692,1.5692E-94,0.31,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,DIPK2B,79742,Q9H7Y0,divergent protein kinase domain 2B,,5,0.861,0.269,0.000032801,0.31,,1,2,0,2011,2011
+Autism Spectrum Disorders,C1510586,TET1,80312,Q8NFU7,tet methylcytosine dioxygenase 1,,156,0.523,0.808,1,0.31,,1,2,0,2014,2014
+Autism Spectrum Disorders,C1510586,LAMC3,10319,Q9Y6N6,laminin subunit gamma 3,Enzyme modulator,30,0.722,0.308,1.3704E-23,0.3,,1,2,0,2011,2017
+Autism Spectrum Disorders,C1510586,CIRBP,1153,Q14011,cold inducible RNA binding protein,Nucleic acid binding,72,0.592,0.731,0.33636,0.3,,1,1,0,2014,2014
+Autism Spectrum Disorders,C1510586,IQGAP3,128239,Q86VI3,IQ motif containing GTPase activating protein 3,Enzyme modulator,26,0.729,0.308,2.3959E-33,0.3,,1,1,0,2017,2017
+Autism Spectrum Disorders,C1510586,DHCR24,1718,Q15392,24-dehydrocholesterol reductase,Enzyme,216,0.498,0.769,0.031029,0.3,,1,1,0,2014,2014
+Autism Spectrum Disorders,C1510586,DIO2,1734,Q92813,iodothyronine deiodinase 2,,79,0.59,0.731,0.6196,0.3,,1,1,0,2014,2014
+Autism Spectrum Disorders,C1510586,DIO3,1735,P55073,iodothyronine deiodinase 3,,80,0.593,0.731,0.62331,0.3,,1,1,0,2014,2014
+Autism Spectrum Disorders,C1510586,DNMT3B,1789,Q9UBC3,DNA methyltransferase 3 beta,,315,0.453,0.846,0.19964,0.3,,1,1,0,2014,2014
+Autism Spectrum Disorders,C1510586,TET3,200424,O43151,tet methylcytosine dioxygenase 3,,59,0.633,0.615,1,0.3,,1,1,0,2014,2014
+Autism Spectrum Disorders,C1510586,EPHX2,2053,P34913,epoxide hydrolase 2,Enzyme,97,0.568,0.654,1.7936E-21,0.3,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,MYT1L,23040,Q9UL68,myelin transcription factor 1 like,Transcription factor,46,0.659,0.462,1,0.3,strong,1,1,0,2014,2014
+Autism Spectrum Disorders,C1510586,CIC,23152,Q96RK0,capicua transcriptional repressor,,141,0.523,0.692,0.99999,0.3,,1,1,0,2017,2017
+Autism Spectrum Disorders,C1510586,FMR1,2332,Q06787,FMRP translational regulator 1,Nucleic acid binding,346,0.473,0.769,0.64718,0.3,,0.98,51,0,2004,2019
+Autism Spectrum Disorders,C1510586,HEY1,23462,Q9Y5J3,hes related family bHLH transcription factor with YRPW motif 1,Transcription factor,110,0.551,0.692,0.050181,0.3,,1,1,0,2011,2011
+Autism Spectrum Disorders,C1510586,GABRA5,2558,P31644,gamma-aminobutyric acid type A receptor subunit alpha5,Ion channel,73,0.621,0.385,0.90535,0.3,,1,1,0,2016,2016
+Autism Spectrum Disorders,C1510586,UNC80,285175,Q8N2C7,"unc-80 homolog, NALCN channel complex subunit",,111,0.626,0.462,0.052307,0.3,,1,1,0,2017,2017
+Autism Spectrum Disorders,C1510586,LRRTM3,347731,Q86VH5,leucine rich repeat transmembrane neuronal 3,,7,0.805,0.154,0.97519,0.3,,1,1,0,2010,2010
+Autism Spectrum Disorders,C1510586,MET,4233,P08581,"MET proto-oncogene, receptor tyrosine kinase",Kinase,594,0.38,0.846,0.96998,0.3,,1,18,1,2007,2019
+Autism Spectrum Disorders,C1510586,NTSR1,4923,P30989,neurotensin receptor 1,G-protein coupled receptor,124,0.563,0.692,1.928E-08,0.3,,1,1,0,2014,2014
+Autism Spectrum Disorders,C1510586,SNTG2,54221,Q9NY99,syntrophin gamma 2,,5,0.89,0.077,1.3092E-14,0.3,,1,1,0,2010,2010
+Autism Spectrum Disorders,C1510586,LRRN3,54674,Q9H3W5,leucine rich repeat neuronal 3,Receptor,6,0.821,0.115,0.032413,0.3,,1,1,0,2010,2010
+Autism Spectrum Disorders,C1510586,NSUN2,54888,Q08J23,NOP2/Sun RNA methyltransferase 2,Enzyme,173,0.559,0.846,0.00025826,0.3,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,GABRQ,55879,Q9UN88,gamma-aminobutyric acid type A receptor subunit theta,Ion channel,21,0.722,0.5,0.0042977,0.3,limited,1,1,0,2015,2015
+Autism Spectrum Disorders,C1510586,MIR486-1,619554,,microRNA 486-1,,142,0.521,0.808,,0.3,,1,1,0,2011,2011
+Autism Spectrum Disorders,C1510586,SFSWAP,6433,Q12872,splicing factor SWAP,Nucleic acid binding,17,0.78,0.269,0.99999,0.3,,1,1,0,2014,2014
+Autism Spectrum Disorders,C1510586,SLC6A4,6532,P31645,solute carrier family 6 member 4,Transporter,440,0.429,0.808,0.24602,0.3,,0.885,26,1,2004,2019
+Autism Spectrum Disorders,C1510586,SLC16A2,6567,P36021,solute carrier family 16 member 2,Transporter,108,0.592,0.577,0.98828,0.3,,1,1,0,2014,2014
+Autism Spectrum Disorders,C1510586,SOX5,6660,P35711,SRY-box transcription factor 5,,150,0.545,0.769,0.99995,0.3,,1,1,0,2010,2010
+Autism Spectrum Disorders,C1510586,SOX9,6662,P48436,SRY-box transcription factor 9,,466,0.419,0.846,0.99772,0.3,,1,1,0,2011,2011
+Autism Spectrum Disorders,C1510586,TBL1X,6907,O60907,transducin beta like 1 X-linked,,34,0.674,0.538,0.97946,0.3,,1,1,0,2011,2011
+Autism Spectrum Disorders,C1510586,CA2,760,P00918,carbonic anhydrase 2,,210,0.506,0.808,1.6946E-06,0.3,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,ROGDI,79641,Q9GZN7,rogdi atypical leucine zipper,,61,0.663,0.462,2.5516E-09,0.3,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,DDHD1,80821,Q8NEL9,DDHD domain containing 1,Enzyme,38,0.716,0.423,0.902,0.3,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,CTTNBP2,83992,Q8WZ74,cortactin binding protein 2,,19,0.722,0.5,1.7221E-11,0.3,,1,1,0,2017,2017
+Autism Spectrum Disorders,C1510586,NEMF,9147,O60524,nuclear export mediator factor,,8,0.805,0.154,0.00035788,0.3,,1,1,0,2017,2017
+Autism Spectrum Disorders,C1510586,TBR1,10716,Q16650,T-box brain transcription factor 1,Transcription factor,65,0.666,0.385,0.99901,0.28,,1,8,0,2016,2019
+Autism Spectrum Disorders,C1510586,CADPS2,93664,Q86UW7,calcium dependent secretion activator 2,Calcium-binding protein,40,0.716,0.231,0.36785,0.27,,1,7,0,2011,2019
+Autism Spectrum Disorders,C1510586,TSC1,7248,Q92574,TSC complex subunit 1,,391,0.44,0.808,1,0.26,,1,6,0,2011,2019
+Autism Spectrum Disorders,C1510586,EIF4E,1977,P06730,eukaryotic translation initiation factor 4E,Nucleic acid binding,317,0.448,0.846,0.94133,0.25,,1,5,0,2014,2019
+Autism Spectrum Disorders,C1510586,SYN1,6853,P17600,synapsin I,Cellular structure,80,0.597,0.462,0.99216,0.25,,1,5,1,2011,2017
+Autism Spectrum Disorders,C1510586,NBEA,26960,Q8NFP9,neurobeachin,,26,0.76,0.538,1,0.24,,1,4,0,2013,2019
+Autism Spectrum Disorders,C1510586,OPRM1,4988,P35372,opioid receptor mu 1,G-protein coupled receptor,370,0.457,0.808,7.8882E-11,0.24,,0.75,4,1,2015,2018
+Autism Spectrum Disorders,C1510586,MAPK1,5594,P28482,mitogen-activated protein kinase 1,Kinase,1059,0.33,0.923,0.99698,0.23,,1,3,0,2018,2018
+Autism Spectrum Disorders,C1510586,CTNNB1,1499,P35222,catenin beta 1,,1368,0.303,0.885,0.99999,0.22,,1,2,0,2010,2017
+Autism Spectrum Disorders,C1510586,JAKMIP1,152789,Q96N16,janus kinase and microtubule interacting protein 1,,6,0.839,0.269,0.99986,0.22,,1,2,0,2007,2016
+Autism Spectrum Disorders,C1510586,SLC9A9,285195,Q8IVB4,solute carrier family 9 member A9,Transporter,44,0.656,0.577,5.3311E-12,0.22,,1,2,0,2017,2018
+Autism Spectrum Disorders,C1510586,NRCAM,4897,Q92823,neuronal cell adhesion molecule,,49,0.666,0.423,0.015254,0.22,,1,2,0,2015,2019
+Autism Spectrum Disorders,C1510586,ARID1B,57492,Q8NFD5,AT-rich interaction domain 1B,,270,0.503,0.846,1,0.22,,1,2,0,2017,2019
+Autism Spectrum Disorders,C1510586,SYN2,6854,Q92777,synapsin II,Cellular structure,73,0.653,0.577,,0.22,,1,2,2,2014,2017
+Autism Spectrum Disorders,C1510586,TBX1,6899,O43435,T-box transcription factor 1,Transcription factor,417,0.433,0.808,0.83661,0.22,,1,2,0,2011,2014
+Autism Spectrum Disorders,C1510586,NRP2,8828,O60462,neuropilin 2,,144,0.539,0.615,0.00080686,0.22,,1,2,0,2019,2019
+Autism Spectrum Disorders,C1510586,CREBBP,1387,Q92793,CREB binding protein,,438,0.428,0.808,1,0.21,,1,1,0,2016,2016
+Autism Spectrum Disorders,C1510586,BRINP1,1620,O60477,BMP/retinoic acid inducible neural specific 1,,64,0.615,0.615,0.99251,0.21,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,DLGAP4,22839,Q9Y2H0,DLG associated protein 4,Receptor,19,0.769,0.269,0.99248,0.21,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,ITPR3,3710,Q14573,"inositol 1,4,5-trisphosphate receptor type 3",Ion channel,112,0.555,0.808,2.5541E-22,0.21,,1,1,0,2015,2015
+Autism Spectrum Disorders,C1510586,PAK2,5062,Q13177,p21 (RAC1) activated kinase 2,Kinase,62,0.653,0.538,0.97169,0.21,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,SLC7A5,8140,Q01650,solute carrier family 7 member 5,Transporter,173,0.513,0.808,0.23505,0.21,,1,1,0,2020,2020
+Autism Spectrum Disorders,C1510586,CAMK2A,815,Q9UQM7,calcium/calmodulin dependent protein kinase II alpha,Kinase,87,0.612,0.538,0.99845,0.21,,1,1,1,2018,2018
+Autism Spectrum Disorders,C1510586,ARHGEF10,9639,O15013,Rho guanine nucleotide exchange factor 10,Enzyme,29,0.729,0.577,6.7739E-30,0.21,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,ARHGAP32,9743,A7KAX9,Rho GTPase activating protein 32,,11,0.839,0.115,0.99978,0.21,,1,1,0,2016,2016
+Autism Spectrum Disorders,C1510586,BCKDK,10295,O14874,branched chain keto acid dehydrogenase kinase,Kinase,12,0.769,0.154,0.000056598,0.2,,,0,0,,
+Autism Spectrum Disorders,C1510586,CHRNB2,1141,P17787,cholinergic receptor nicotinic beta 2 subunit,Ion channel,96,0.617,0.308,0.00072964,0.2,,,0,0,,
+Autism Spectrum Disorders,C1510586,EIF4EBP2,1979,Q13542,eukaryotic translation initiation factor 4E binding protein 2,Nucleic acid binding,25,0.716,0.423,0.30552,0.2,,,0,0,,
+Autism Spectrum Disorders,C1510586,EXT1,2131,Q16394,exostosin glycosyltransferase 1,Enzyme,205,0.522,0.769,0.99732,0.2,,,0,0,,
+Autism Spectrum Disorders,C1510586,WDFY3,23001,Q8IZQ1,WD repeat and FYVE domain containing 3,,22,0.711,0.423,1,0.2,,,0,0,,
+Autism Spectrum Disorders,C1510586,TAFA3,284467,Q7Z5A8,TAFA chemokine like family member 3,,1,1,0.038,0.000036668,0.2,,,0,0,,
+Autism Spectrum Disorders,C1510586,GRIN1,2902,Q05586,glutamate ionotropic receptor NMDA type subunit 1,Ion channel,150,0.561,0.692,0.97629,0.2,,,0,0,,
+Autism Spectrum Disorders,C1510586,GSTM5,2949,P46439,glutathione S-transferase mu 5,,19,0.78,0.231,1.1942E-07,0.2,,,0,0,,
+Autism Spectrum Disorders,C1510586,VRK3,51231,Q8IV63,VRK serine/threonine kinase 3,Kinase,8,0.821,0.154,3.2374E-11,0.2,,,0,0,,
+Autism Spectrum Disorders,C1510586,LRFN2,57497,Q9ULH4,leucine rich repeat and fibronectin type III domain containing 2,,14,0.769,0.308,0.013743,0.2,,,0,0,,
+Autism Spectrum Disorders,C1510586,PREX1,57580,Q8TCU6,"phosphatidylinositol-3,4,5-trisphosphate dependent Rac exchange factor 1",Enzyme modulator,52,0.644,0.615,1,0.2,,,0,0,,
+Autism Spectrum Disorders,C1510586,SYN3,8224,O14994,synapsin III,Cellular structure,38,0.686,0.462,0.0018871,0.2,,,0,0,,
+Autism Spectrum Disorders,C1510586,POGZ,23126,Q7Z3K3,pogo transposable element derived with ZNF domain,Transcription factor,117,0.599,0.577,1,0.15,,1,5,42,2016,2019
+Autism Spectrum Disorders,C1510586,DEAF1,10522,O75398,DEAF1 transcription factor,,156,0.575,0.615,0.00034113,0.13,,1,4,1,2018,2020
+Autism Spectrum Disorders,C1510586,EHMT1,79813,Q9H9B1,euchromatic histone lysine methyltransferase 1,Epigenetic regulator,371,0.46,0.808,1,0.13,,1,4,1,2012,2017
+Autism Spectrum Disorders,C1510586,HEPACAM,220296,Q14CZ8,hepatic and glial cell adhesion molecule,,70,0.621,0.5,0.86791,0.11,,1,2,1,2014,2019
+Autism Spectrum Disorders,C1510586,PPP2R5D,5528,Q14738,protein phosphatase 2 regulatory subunit B'delta,Enzyme,33,0.722,0.462,0.99993,0.11,,1,1,1,2016,2016
+Autism Spectrum Disorders,C1510586,RSS,140821,,Russell Silver syndrome,,103,0.578,0.692,,0.1,,1,14,0,2016,2020
+Autism Spectrum Disorders,C1510586,IQSEC2,23096,Q5JU85,IQ motif and Sec7 domain ArfGEF 2,,155,0.573,0.577,0.99998,0.1,,1,1,1,2019,2019
+Autism Spectrum Disorders,C1510586,MTOR,2475,P42345,mechanistic target of rapamycin kinase,Kinase,960,0.343,0.885,1,0.1,,1,11,0,2015,2020
+Autism Spectrum Disorders,C1510586,GRM5,2915,P41594,glutamate metabotropic receptor 5,G-protein coupled receptor,189,0.525,0.846,0.99872,0.1,,1,13,0,2012,2019
+Autism Spectrum Disorders,C1510586,IL1B,3553,P01584,interleukin 1 beta,,1801,0.276,0.962,0.13005,0.1,,1,13,0,2013,2019
+Autism Spectrum Disorders,C1510586,IL6,3569,P05231,interleukin 6,,2367,0.248,0.962,0.31536,0.1,,1,15,0,2017,2020
+Autism Spectrum Disorders,C1510586,IL10,3586,P22301,interleukin 10,,1679,0.281,0.923,0.0058874,0.1,,1,10,0,2017,2019
+Autism Spectrum Disorders,C1510586,IL17A,3605,Q16552,interleukin 17A,,1074,0.324,0.923,0.043049,0.1,,1,11,0,2017,2020
+Autism Spectrum Disorders,C1510586,ARSD,414,P51689,arylsulfatase D,Enzyme,163,0.535,0.808,0.0016285,0.1,,0.986,71,0,2007,2020
+Autism Spectrum Disorders,C1510586,MECP2,4204,P51608,methyl-CpG binding protein 2,Epigenetic regulator,664,0.414,0.846,0.89382,0.1,,0.974,38,2,2002,2020
+Autism Spectrum Disorders,C1510586,MTHFR,4524,P42898,methylenetetrahydrofolate reductase,,985,0.337,0.885,3.2068E-10,0.1,,0.9,10,3,2009,2019
+Autism Spectrum Disorders,C1510586,NF1,4763,P21359,neurofibromin 1,Enzyme modulator,380,0.44,0.885,0.90175,0.1,,1,1,1,2019,2019
+Autism Spectrum Disorders,C1510586,SHANK1,50944,Q9Y566,SH3 and multiple ankyrin repeat domains 1,,35,0.678,0.385,1,0.1,,1,13,0,2012,2019
+Autism Spectrum Disorders,C1510586,PHB,5245,P35232,prohibitin,,177,0.511,0.846,0.7588,0.1,,1,1,1,2018,2018
+Autism Spectrum Disorders,C1510586,RBFOX1,54715,Q9NWB1,RNA binding fox-1 homolog 1,Nucleic acid binding,103,0.584,0.692,0.95263,0.1,,1,11,0,2012,2020
+Autism Spectrum Disorders,C1510586,AVP,551,P01185,arginine vasopressin,Signaling,454,0.437,0.846,0.074413,0.1,,1,12,0,2006,2019
+Autism Spectrum Disorders,C1510586,MAP2K1,5604,Q02750,mitogen-activated protein kinase kinase 1,Kinase,389,0.439,0.846,0.89669,0.1,,1,1,1,2019,2019
+Autism Spectrum Disorders,C1510586,ACTB,60,P60709,actin beta,Cellular structure,1110,0.325,0.923,0.98564,0.1,,1,10,0,2013,2019
+Autism Spectrum Disorders,C1510586,SBF1,6305,O95248,SET binding factor 1,Enzyme,34,0.7,0.5,0.99933,0.1,,1,1,1,2019,2019
+Autism Spectrum Disorders,C1510586,SCN2A,6326,Q99250,sodium voltage-gated channel alpha subunit 2,Ion channel,232,0.518,0.731,1,0.1,,1,13,0,2013,2019
+Autism Spectrum Disorders,C1510586,SLC2A1,6513,P11166,solute carrier family 2 member 1,Transporter,687,0.388,0.808,0.9941,0.1,,,0,1,,
+Autism Spectrum Disorders,C1510586,SLC6A3,6531,Q01959,solute carrier family 6 member 3,Transporter,373,0.453,0.885,0.99758,0.1,,1,10,2,2013,2019
+Autism Spectrum Disorders,C1510586,SMS,6611,P52788,spermine synthase,,263,0.491,0.846,0.97297,0.1,,1,14,0,2016,2020
+Autism Spectrum Disorders,C1510586,TNF,7124,P01375,tumor necrosis factor,Signaling,2724,0.231,0.962,0.8033,0.1,,1,14,0,2001,2019
+Autism Spectrum Disorders,C1510586,TOP2B,7155,Q02880,DNA topoisomerase II beta,,58,0.612,0.615,0.99989,0.1,,,0,1,,
+Autism Spectrum Disorders,C1510586,UBE3A,7337,Q05086,ubiquitin protein ligase E3A,,155,0.561,0.692,0.9998,0.1,,1,17,0,2006,2019
+Autism Spectrum Disorders,C1510586,RNF135,84282,Q8IUD6,ring finger protein 135,,41,0.686,0.5,2.1992E-09,0.1,,1,1,1,2019,2019
+Autism Spectrum Disorders,C1510586,CADPS,8618,Q9ULU8,calcium dependent secretion activator,Calcium-binding protein,19,0.805,0.154,0.000014707,0.1,,1,1,1,2019,2019
+Autism Spectrum Disorders,C1510586,UBE4A,9354,Q14139,ubiquitination factor E4A,Enzyme modulator,22,0.729,0.308,0.10902,0.1,,,0,1,,
+Autism Spectrum Disorders,C1510586,CD38,952,P28907,CD38 molecule,Enzyme,473,0.407,0.885,2.3129E-06,0.1,,1,15,4,2010,2019
+Autism Spectrum Disorders,C1510586,ADNP,23394,Q9H2P0,activity dependent neuroprotector homeobox,,171,0.561,0.808,1,0.09,,1,9,0,2014,2019
+Autism Spectrum Disorders,C1510586,CYFIP1,23191,Q7L576,cytoplasmic FMR1 interacting protein 1,Enzyme modulator,40,0.674,0.538,0.96816,0.08,,1,8,1,2014,2019
+Autism Spectrum Disorders,C1510586,HTR2A,3356,P28223,5-hydroxytryptamine receptor 2A,G-protein coupled receptor,289,0.473,0.846,0.51124,0.08,,1,8,2,2007,2016
+Autism Spectrum Disorders,C1510586,ASMT,438,P46597,acetylserotonin O-methyltransferase,,27,0.691,0.346,1.2722E-20,0.08,,1,8,2,2008,2017
+Autism Spectrum Disorders,C1510586,NUFIP2,57532,Q7Z417,nuclear FMR1 interacting protein 2,,58,0.641,0.577,0.99891,0.08,,1,8,0,2006,2019
+Autism Spectrum Disorders,C1510586,CHAT,1103,P28329,choline O-acetyltransferase,Enzyme,230,0.52,0.808,5.6328E-11,0.07,,1,7,0,2017,2019
+Autism Spectrum Disorders,C1510586,CNTN4,152330,Q8IWV2,contactin 4,Receptor,58,0.653,0.577,3.3013E-06,0.07,,1,7,1,2008,2020
+Autism Spectrum Disorders,C1510586,IL4,3565,P05112,interleukin 4,,996,0.332,0.962,0.0047372,0.07,,1,7,0,2001,2019
+Autism Spectrum Disorders,C1510586,MAOA,4128,P21397,monoamine oxidase A,,300,0.465,0.769,0.99928,0.07,,1,7,4,2009,2018
+Autism Spectrum Disorders,C1510586,MBD5,55777,Q9P267,methyl-CpG binding domain protein 5,,120,0.581,0.808,1,0.07,,1,7,1,2011,2017
+Autism Spectrum Disorders,C1510586,VDR,7421,P11473,vitamin D receptor,Nuclear receptor,852,0.352,0.885,0.000016787,0.07,,1,7,2,2015,2020
+Autism Spectrum Disorders,C1510586,TPH2,121278,Q8IWU9,tryptophan hydroxylase 2,,137,0.546,0.654,2.5364E-07,0.06,,1,6,3,2010,2019
+Autism Spectrum Disorders,C1510586,DRD3,1814,P35462,dopamine receptor D3,G-protein coupled receptor,199,0.529,0.692,0.0023694,0.06,,1,6,1,2009,2015
+Autism Spectrum Disorders,C1510586,ELK3,2004,P41970,ETS transcription factor ELK3,Transcription factor,220,0.49,0.846,0.083508,0.06,,1,6,0,2018,2019
+Autism Spectrum Disorders,C1510586,FOXC1,2296,Q12948,forkhead box C1,Transcription factor,242,0.483,0.846,0.95337,0.06,,0.833,6,0,2008,2019
+Autism Spectrum Disorders,C1510586,CXCL8,3576,P10145,C-X-C motif chemokine ligand 8,Signaling,1254,0.31,0.962,0.00027377,0.06,,1,6,0,2001,2019
+Autism Spectrum Disorders,C1510586,IL18,3606,Q14116,interleukin 18,,750,0.365,0.923,0.030717,0.06,,1,6,0,2001,2019
+Autism Spectrum Disorders,C1510586,PIK3CA,5290,P42336,"phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha",Kinase,1511,0.292,0.923,1,0.06,,1,6,0,2009,2019
+Autism Spectrum Disorders,C1510586,PITX2,5308,Q99697,paired like homeodomain 2,,248,0.489,0.808,0.97618,0.06,,0.833,6,0,2004,2018
+Autism Spectrum Disorders,C1510586,PSD,5662,A5PKW4,pleckstrin and Sec7 domain containing,,59,0.626,0.654,0.90358,0.06,,1,6,0,2014,2019
+Autism Spectrum Disorders,C1510586,PVALB,5816,P20472,parvalbumin,Calcium-binding protein,148,0.547,0.692,0.086602,0.06,,1,6,0,2017,2019
+Autism Spectrum Disorders,C1510586,KIRREL3,84623,Q8IZU9,kirre like nephrin family adhesion molecule 3,,19,0.821,0.269,0.96992,0.06,,1,6,0,2012,2018
+Autism Spectrum Disorders,C1510586,EBPL,84650,Q9BY08,EBP like,Enzyme,76,0.615,0.577,0.000078199,0.06,,1,6,0,2018,2019
+Autism Spectrum Disorders,C1510586,SLC25A12,8604,O75746,solute carrier family 25 member 12,Transporter,34,0.711,0.462,0.21604,0.06,,1,6,2,2008,2017
+Autism Spectrum Disorders,C1510586,FOXP2,93986,O15409,forkhead box P2,,165,0.545,0.808,0.99994,0.06,,1,6,4,2010,2019
+Autism Spectrum Disorders,C1510586,COMT,1312,P21964,catechol-O-methyltransferase,Enzyme,622,0.4,0.923,1.1377E-06,0.05,,1,5,4,2013,2020
+Autism Spectrum Disorders,C1510586,DYRK1A,1859,Q13627,dual specificity tyrosine phosphorylation regulated kinase 1A,Kinase,212,0.533,0.769,0.99967,0.05,,1,5,0,2012,2018
+Autism Spectrum Disorders,C1510586,NLGN1,22871,Q8N2Q7,neuroligin 1,,32,0.705,0.385,0.85276,0.05,,1,5,2,2005,2019
+Autism Spectrum Disorders,C1510586,CADM1,23705,Q9BY67,cell adhesion molecule 1,,205,0.491,0.769,0.66216,0.05,,1,5,1,2008,2019
+Autism Spectrum Disorders,C1510586,GRM7,2917,Q14831,glutamate metabotropic receptor 7,G-protein coupled receptor,77,0.628,0.538,0.99896,0.05,,1,5,2,2013,2019
+Autism Spectrum Disorders,C1510586,HTC2,3342,,"hypertrichosis 2 (generalized, congenital)",,511,0.392,0.808,,0.05,,1,5,0,2005,2018
+Autism Spectrum Disorders,C1510586,IL1A,3552,P01583,interleukin 1 alpha,,1002,0.333,0.962,0.0001602,0.05,,1,5,0,2016,2019
+Autism Spectrum Disorders,C1510586,PRKN,5071,O60260,parkin RBR E3 ubiquitin protein ligase,Enzyme,409,0.431,0.846,6.9346E-07,0.05,,1,5,0,2011,2019
+Autism Spectrum Disorders,C1510586,PIK3CB,5291,P42338,"phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta",Kinase,1083,0.322,0.885,0.99964,0.05,,1,5,0,2009,2019
+Autism Spectrum Disorders,C1510586,PIK3CD,5293,O00329,"phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta",Kinase,1119,0.319,0.885,0.99999,0.05,,1,5,0,2009,2019
+Autism Spectrum Disorders,C1510586,PIK3CG,5294,P48736,"phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit gamma",Kinase,1101,0.32,0.885,1.4076E-06,0.05,,1,5,0,2009,2019
+Autism Spectrum Disorders,C1510586,TGFB1,7040,P01137,transforming growth factor beta 1,Signaling,1558,0.287,0.962,0.03685,0.05,,1,5,0,2018,2019
+Autism Spectrum Disorders,C1510586,CACNA1C,775,Q13936,calcium voltage-gated channel subunit alpha1 C,Ion channel,225,0.51,0.846,1,0.05,,1,5,1,2011,2019
+Autism Spectrum Disorders,C1510586,CACNA1D,776,Q01668,calcium voltage-gated channel subunit alpha1 D,Ion channel,116,0.582,0.577,1,0.05,,1,5,1,2015,2018
+Autism Spectrum Disorders,C1510586,TBL1XR1,79718,Q9BZK7,TBL1X receptor 1,,195,0.534,0.808,0.99995,0.05,,1,5,0,2012,2017
+Autism Spectrum Disorders,C1510586,CARS1,833,P49589,cysteinyl-tRNA synthetase 1,Enzyme,28,0.722,0.538,0.00040314,0.05,,0.8,5,1,2015,2020
+Autism Spectrum Disorders,C1510586,GPHN,10243,Q9NQX3,gephyrin,,104,0.608,0.538,0.99998,0.04,,1,4,1,2013,2019
+Autism Spectrum Disorders,C1510586,PHB2,11331,Q99623,prohibitin 2,,107,0.558,0.769,0.0039339,0.04,,0.75,4,0,2015,2019
+Autism Spectrum Disorders,C1510586,CHRNA4,1137,P43681,cholinergic receptor nicotinic alpha 4 subunit,Ion channel,248,0.492,0.808,0.000085474,0.04,,1,4,0,2012,2019
+Autism Spectrum Disorders,C1510586,CHRNA7,1139,P36544;Q494W8,cholinergic receptor nicotinic alpha 7 subunit,Ion channel,172,0.532,0.654,0.00041549,0.04,,0.75,4,0,2012,2016
+Autism Spectrum Disorders,C1510586,CRP,1401,P02741,C-reactive protein,,1483,0.299,0.962,0.0036969,0.04,,1,4,0,2001,2019
+Autism Spectrum Disorders,C1510586,CYP1B1,1545,Q16678,cytochrome P450 family 1 subfamily B member 1,Enzyme,304,0.457,0.769,0.000022024,0.04,,1,4,1,2006,2019
+Autism Spectrum Disorders,C1510586,CYP2D6,1565,P10635,cytochrome P450 family 2 subfamily D member 6,,432,0.437,0.885,1.0793E-25,0.04,,1,4,0,2007,2017
+Autism Spectrum Disorders,C1510586,ESCO2,157570,Q56NI9,establishment of sister chromatid cohesion N-acetyltransferase 2,,124,0.581,0.615,3.1642E-07,0.04,,1,4,0,2018,2019
+Autism Spectrum Disorders,C1510586,CYP11B2,1585,P19099,cytochrome P450 family 11 subfamily B member 2,,142,0.553,0.615,7.1321E-19,0.04,,1,4,0,2004,2019
+Autism Spectrum Disorders,C1510586,DRD2,1813,P14416,dopamine receptor D2,G-protein coupled receptor,437,0.436,0.846,0.74709,0.04,,1,4,0,2010,2016
+Autism Spectrum Disorders,C1510586,DRD4,1815,P21917,dopamine receptor D4,G-protein coupled receptor,189,0.517,0.577,9.3362E-09,0.04,,1,4,0,2010,2019
+Autism Spectrum Disorders,C1510586,ELAVL2,1993,Q12926,ELAV like RNA binding protein 2,,199,0.486,0.808,0.99514,0.04,,1,4,0,2015,2020
+Autism Spectrum Disorders,C1510586,AKT1,207,P31749,AKT serine/threonine kinase 1,Kinase,1250,0.311,0.962,0.9759,0.04,,1,4,0,2017,2019
+Autism Spectrum Disorders,C1510586,ESR2,2100,Q92731,estrogen receptor 2,Nuclear receptor,528,0.4,0.923,4.4516E-08,0.04,,0.75,4,1,2017,2018
+Autism Spectrum Disorders,C1510586,AFF2,2334,P51816,AF4/FMR2 family member 2,Transcription factor,66,0.636,0.538,0.99577,0.04,,1,4,0,2012,2015
+Autism Spectrum Disorders,C1510586,GREM1,26585,O60565,"gremlin 1, DAN family BMP antagonist",,179,0.508,0.808,0.47436,0.04,,1,4,0,2016,2019
+Autism Spectrum Disorders,C1510586,GRIN2A,2903,Q12879,glutamate ionotropic receptor NMDA type subunit 2A,Ion channel,212,0.522,0.808,0.99998,0.04,,1,4,0,2011,2019
+Autism Spectrum Disorders,C1510586,NRG1,3084,Q02297,neuregulin 1,Signaling,304,0.464,0.885,0.99665,0.04,,1,4,1,2015,2018
+Autism Spectrum Disorders,C1510586,HOXA1,3198,P49639,homeobox A1,,95,0.575,0.769,0.28514,0.04,,1,4,1,2000,2012
+Autism Spectrum Disorders,C1510586,IFNG,3458,P01579,interferon gamma,,1519,0.288,0.962,0.47156,0.04,,1,4,0,2009,2020
+Autism Spectrum Disorders,C1510586,PAX6,5080,P26367,paired box 6,,340,0.45,0.769,0.99975,0.04,,1,4,0,2006,2019
+Autism Spectrum Disorders,C1510586,CNTN5,53942,O94779,contactin 5,,34,0.695,0.462,0.000061963,0.04,,1,4,0,2011,2018
+Autism Spectrum Disorders,C1510586,CHD7,55636,Q9P2D1,chromodomain helicase DNA binding protein 7,,419,0.441,0.846,1,0.04,,1,4,0,2012,2019
+Autism Spectrum Disorders,C1510586,PRL,5617,P01236,prolactin,Signaling,506,0.406,0.885,2.9015E-07,0.04,,1,4,0,2008,2018
+Autism Spectrum Disorders,C1510586,PTGS2,5743,P35354,prostaglandin-endoperoxide synthase 2,Enzyme,1234,0.314,0.962,0.99597,0.04,,1,4,1,2008,2019
+Autism Spectrum Disorders,C1510586,SLC12A5,57468,Q9H2X9,solute carrier family 12 member 5,Transporter,135,0.57,0.654,1,0.04,,1,4,0,2017,2019
+Autism Spectrum Disorders,C1510586,CCL2,6347,P13500,C-C motif chemokine ligand 2,Signaling,1157,0.321,0.962,0.60786,0.04,,1,4,0,2011,2019
+Autism Spectrum Disorders,C1510586,SIL1,64374,Q9H173,SIL1 nucleotide exchange factor,,115,0.584,0.731,0.012265,0.04,,0.75,4,0,2015,2019
+Autism Spectrum Disorders,C1510586,CAPS2,84698,Q9BXY5,calcyphosine 2,,11,0.839,0.077,6.0736E-24,0.04,,1,4,0,2013,2017
+Autism Spectrum Disorders,C1510586,CASK,8573,O14936,calcium/calmodulin dependent serine protein kinase,Kinase,193,0.538,0.808,1,0.04,,1,4,0,2014,2018
+Autism Spectrum Disorders,C1510586,SYNGAP1,8831,Q96PV0,synaptic Ras GTPase activating protein 1,Enzyme modulator,145,0.584,0.577,1,0.04,,1,4,0,2009,2019
+Autism Spectrum Disorders,C1510586,SEMA5A,9037,Q13591,semaphorin 5A,,85,0.61,0.731,0.000015403,0.04,,1,4,0,2013,2019
+Autism Spectrum Disorders,C1510586,CLOCK,9575,O15516,clock circadian regulator,,309,0.463,0.885,0.99957,0.04,,1,4,0,2017,2019
+Autism Spectrum Disorders,C1510586,CDH13,1012,P55290,cadherin 13,,205,0.501,0.846,0.0007058,0.03,,1,3,1,2010,2018
+Autism Spectrum Disorders,C1510586,ERICD,104355217,,E2F1-regulated inhibitor of cell death,,36,0.691,0.654,,0.03,,1,3,0,2017,2020
+Autism Spectrum Disorders,C1510586,CDX2,1045,Q99626,caudal type homeobox 2,Transcription factor,278,0.458,0.769,0.52887,0.03,,1,3,0,2015,2018
+Autism Spectrum Disorders,C1510586,SLCO6A1,133482,Q86UG4,solute carrier organic anion transporter family member 6A1,Transporter,449,0.412,0.885,2.8807E-11,0.03,,1,3,0,2014,2019
+Autism Spectrum Disorders,C1510586,CPB2,1361,Q96IY4,carboxypeptidase B2,Enzyme,148,0.536,0.846,2.7076E-17,0.03,,1,3,0,2018,2020
+Autism Spectrum Disorders,C1510586,CS,1431,O75390,citrate synthase,Enzyme,87,0.59,0.654,0.98402,0.03,,1,3,0,2017,2017
+Autism Spectrum Disorders,C1510586,DNMT1,1786,P26358,DNA methyltransferase 1,Epigenetic regulator,496,0.406,0.885,1,0.03,,1,3,2,2019,2019
+Autism Spectrum Disorders,C1510586,EGF,1950,P01133,epidermal growth factor,,774,0.357,0.923,8.5294E-17,0.03,,1,3,0,2008,2017
+Autism Spectrum Disorders,C1510586,ESR1,2099,P03372,estrogen receptor 1,Nuclear receptor,1101,0.324,0.962,0.9992,0.03,,1,3,1,2017,2018
+Autism Spectrum Disorders,C1510586,TRIM32,22954,Q13049,tripartite motif containing 32,,113,0.587,0.769,0.0016684,0.03,,1,3,0,2011,2019
+Autism Spectrum Disorders,C1510586,ARHGEF9,23229,O43307,Cdc42 guanine nucleotide exchange factor 9,Enzyme modulator,38,0.691,0.385,0.9989,0.03,,1,3,0,2013,2019
+Autism Spectrum Disorders,C1510586,SYNM,23336,O15061,synemin,,93,0.575,0.731,3.0339E-24,0.03,,1,3,0,2017,2019
+Autism Spectrum Disorders,C1510586,FOLR1,2348,P15328,folate receptor alpha,,174,0.522,0.885,0.12642,0.03,,1,3,0,2016,2017
+Autism Spectrum Disorders,C1510586,GAD1,2571,Q99259,glutamate decarboxylase 1,Enzyme,245,0.486,0.885,0.046164,0.03,,1,3,0,2011,2017
+Autism Spectrum Disorders,C1510586,AUTS2,26053,Q8WXX7,activator of transcription and developmental regulator AUTS2,,149,0.569,0.846,0.99934,0.03,,1,3,0,2014,2019
+Autism Spectrum Disorders,C1510586,GFAP,2670,P14136,glial fibrillary acidic protein,,447,0.421,0.885,1.4601E-06,0.03,,1,3,0,2015,2018
+Autism Spectrum Disorders,C1510586,CNTN6,27255,Q9UQ52,contactin 6,Receptor,36,0.678,0.462,9.0232E-31,0.03,,1,3,0,2017,2020
+Autism Spectrum Disorders,C1510586,GLO1,2739,Q04760,glyoxalase I,,137,0.537,0.769,9.6718E-07,0.03,,1,3,4,2008,2015
+Autism Spectrum Disorders,C1510586,ANK3,288,Q12955,ankyrin 3,,106,0.578,0.654,1,0.03,,1,3,0,2012,2017
+Autism Spectrum Disorders,C1510586,GRIA2,2891,P42262,glutamate ionotropic receptor AMPA type subunit 2,Ion channel,110,0.573,0.692,0.99916,0.03,,1,3,0,2018,2019
+Autism Spectrum Disorders,C1510586,GRIK2,2898,Q13002,glutamate ionotropic receptor kainate type subunit 2,Ion channel,130,0.561,0.769,0.99841,0.03,,1,3,1,2007,2019
+Autism Spectrum Disorders,C1510586,SETD2,29072,Q9BYW2,"SET domain containing 2, histone lysine methyltransferase",Epigenetic regulator,447,0.424,0.846,1,0.03,,1,3,0,2015,2018
+Autism Spectrum Disorders,C1510586,GSTP1,2950,P09211,glutathione S-transferase pi 1,,610,0.383,0.923,0.014155,0.03,,1,3,1,2014,2019
+Autism Spectrum Disorders,C1510586,HGF,3082,P14210,hepatocyte growth factor,Enzyme,671,0.374,0.885,0.99947,0.03,,1,3,0,2007,2019
+Autism Spectrum Disorders,C1510586,HLA-DRB1,3123,P01911,"major histocompatibility complex, class II, DR beta 1",Immune response,1018,0.333,0.923,0.0010997,0.03,,1,3,0,2001,2018
+Autism Spectrum Disorders,C1510586,APBA2,321,Q99767,amyloid beta precursor protein binding family A member 2,Transporter,31,0.7,0.385,0.74272,0.03,,1,3,1,2009,2019
+Autism Spectrum Disorders,C1510586,HP,3240,P00738,haptoglobin,Enzyme,464,0.412,0.885,0.00001736,0.03,,0.667,3,0,2017,2018
+Autism Spectrum Disorders,C1510586,IGF1,3479,P05019,insulin like growth factor 1,,1206,0.318,0.885,0.2716,0.03,,1,3,0,2017,2017
+Autism Spectrum Disorders,C1510586,IL5,3567,P05113,interleukin 5,,359,0.437,0.846,0.0056529,0.03,,1,3,0,2018,2019
+Autism Spectrum Disorders,C1510586,AR,367,P10275,androgen receptor,Nuclear receptor,854,0.351,0.846,0.98837,0.03,,1,3,0,2009,2017
+Autism Spectrum Disorders,C1510586,GSTK1,373156,Q9Y2Q3,glutathione S-transferase kappa 1,,445,0.412,0.885,1.9374E-06,0.03,,1,3,0,2014,2019
+Autism Spectrum Disorders,C1510586,KCNJ10,3766,P78508,potassium inwardly rectifying channel subfamily J member 10,Ion channel,95,0.599,0.654,0.1502,0.03,,1,3,1,2011,2019
+Autism Spectrum Disorders,C1510586,MAOB,4129,P27338,monoamine oxidase B,,152,0.533,0.808,0.99903,0.03,,1,3,2,2011,2019
+Autism Spectrum Disorders,C1510586,NGF,4803,P01138,nerve growth factor,Signaling,616,0.391,0.885,0.82026,0.03,,1,3,0,2013,2018
+Autism Spectrum Disorders,C1510586,OXT,5020,P01178,oxytocin/neurophysin I prepropeptide,Signaling,135,0.615,0.423,0.71197,0.03,,1,3,0,2016,2018
+Autism Spectrum Disorders,C1510586,PAFAH1B1,5048,P43034,platelet activating factor acetylhydrolase 1b regulatory subunit 1,,219,0.504,0.769,0.99995,0.03,,1,3,0,2011,2013
+Autism Spectrum Disorders,C1510586,WWOX,51741,Q9NZC7,WW domain containing oxidoreductase,Enzyme,356,0.453,0.808,1.2376E-15,0.03,,1,3,0,2016,2019
+Autism Spectrum Disorders,C1510586,MAGEL2,54551,Q9UJ55,MAGE family member L2,Cell adhesion,184,0.56,0.654,0.97506,0.03,,1,3,0,2013,2018
+Autism Spectrum Disorders,C1510586,CC2D1A,54862,Q6P1N0,coiled-coil and C2 domain containing 1A,,72,0.628,0.462,0.0084599,0.03,,1,3,0,2016,2019
+Autism Spectrum Disorders,C1510586,SETD5,55209,Q9C0A6,SET domain containing 5,,161,0.56,0.731,0.99997,0.03,,1,3,0,2018,2019
+Autism Spectrum Disorders,C1510586,PCDH19,57526,Q8TAB3,protocadherin 19,,93,0.599,0.462,0.99975,0.03,,0.667,3,0,2010,2016
+Autism Spectrum Disorders,C1510586,PCDH10,57575,Q9P2E7,protocadherin 10,,87,0.582,0.769,0.89066,0.03,,1,3,0,2016,2017
+Autism Spectrum Disorders,C1510586,BCL2,596,P10415,BCL2 apoptosis regulator,Signaling,1456,0.291,0.885,0.55903,0.03,,1,3,0,2017,2019
+Autism Spectrum Disorders,C1510586,S100B,6285,P04271,S100 calcium binding protein B,Calcium-binding protein,599,0.383,0.923,0.04387,0.03,,0.667,3,0,2017,2018
+Autism Spectrum Disorders,C1510586,SLC12A2,6558,P55011,solute carrier family 12 member 2,Transporter,128,0.552,0.808,0.96153,0.03,,1,3,0,2017,2018
+Autism Spectrum Disorders,C1510586,SNAP25,6616,P60880,synaptosome associated protein 25,Transporter,283,0.489,0.808,0.98653,0.03,,1,3,2,2011,2017
+Autism Spectrum Disorders,C1510586,CDKL5,6792,O76039,cyclin dependent kinase like 5,Kinase,224,0.522,0.692,0.99932,0.03,,1,3,0,2011,2019
+Autism Spectrum Disorders,C1510586,TCF4,6925,P15884,transcription factor 4,Transcription factor,378,0.464,0.846,0.99981,0.03,,1,3,0,2013,2019
+Autism Spectrum Disorders,C1510586,ST8SIA2,8128,Q92186,"ST8 alpha-N-acetyl-neuraminide alpha-2,8-sialyltransferase 2",,39,0.674,0.538,0.058099,0.03,,1,3,2,2014,2016
+Autism Spectrum Disorders,C1510586,IMMP2L,83943,Q96T52,inner mitochondrial membrane peptidase subunit 2,,55,0.628,0.577,0.011165,0.03,,0.667,3,0,2018,2019
+Autism Spectrum Disorders,C1510586,TIMELESS,8914,Q9UNS1,timeless circadian regulator,,140,0.533,0.808,9.8476E-35,0.03,,1,3,1,2016,2019
+Autism Spectrum Disorders,C1510586,ZNF804A,91752,Q7Z570,zinc finger protein 804A,,53,0.647,0.654,0.0055255,0.03,,1,3,2,2011,2019
+Autism Spectrum Disorders,C1510586,CDH2,1000,P19022,cadherin 2,,135,0.535,0.731,0.99171,0.02,,0.5,2,0,2013,2019
+Autism Spectrum Disorders,C1510586,PTLS,100038247,,Potocki-Lupski syndrome,,17,0.78,0.308,,0.02,,1,2,0,2012,2014
+Autism Spectrum Disorders,C1510586,CDH9,1007,Q9ULB4,cadherin 9,,17,0.751,0.308,0.83147,0.02,,1,2,0,2016,2019
+Autism Spectrum Disorders,C1510586,CDH11,1009,P55287,cadherin 11,,203,0.512,0.808,0.9999,0.02,,1,2,0,2014,2019
+Autism Spectrum Disorders,C1510586,KDM5B,10765,Q9UGL1,lysine demethylase 5B,Epigenetic regulator,162,0.532,0.731,7.9102E-15,0.02,,1,2,0,2018,2019
+Autism Spectrum Disorders,C1510586,LOC110806262,110806262,,solute carrier family 6 member 4 gene promoter,,63,0.626,0.423,,0.02,,1,2,0,2009,2014
+Autism Spectrum Disorders,C1510586,DCD,117159,P81605,dermcidin,,64,0.619,0.654,0.00015781,0.02,,1,2,0,2018,2018
+Autism Spectrum Disorders,C1510586,COL9A3,1299,Q14050,collagen type IX alpha 3 chain,,125,0.569,0.769,3.278E-12,0.02,,1,2,0,2018,2018
+Autism Spectrum Disorders,C1510586,OSR1,130497,Q8TAX0,odd-skipped related transcription factor 1,Transcription factor,77,0.603,0.615,0.86296,0.02,,0.5,2,0,2018,2019
+Autism Spectrum Disorders,C1510586,CRH,1392,P06850,corticotropin releasing hormone,Signaling,402,0.439,0.808,0.71614,0.02,,1,2,0,2019,2019
+Autism Spectrum Disorders,C1510586,MACROD2,140733,A1Z1Q3,mono-ADP ribosylhydrolase 2,,57,0.686,0.423,0.43472,0.02,,1,2,1,2011,2019
+Autism Spectrum Disorders,C1510586,PRICKLE1,144165,Q96MT3,prickle planar cell polarity protein 1,Cellular structure,57,0.647,0.615,0.99999,0.02,,1,2,0,2013,2018
+Autism Spectrum Disorders,C1510586,AANAT,15,Q16613,aralkylamine N-acetyltransferase,,36,0.67,0.692,0.002969,0.02,,1,2,0,2010,2017
+Autism Spectrum Disorders,C1510586,CUX1,1523,P39880;Q13948,cut like homeobox 1,Transcription factor,283,0.465,0.846,1,0.02,,1,2,0,2012,2019
+Autism Spectrum Disorders,C1510586,CYBB,1536,P04839,cytochrome b-245 beta chain,Ion channel,343,0.452,0.885,0.99904,0.02,,1,2,0,2017,2019
+Autism Spectrum Disorders,C1510586,ABCA13,154664,Q86UQ4,ATP binding cassette subfamily A member 13,Transporter,26,0.722,0.308,8.7753E-114,0.02,,1,2,0,2018,2018
+Autism Spectrum Disorders,C1510586,CYP2E1,1571,P05181,cytochrome P450 family 2 subfamily E member 1,,306,0.459,0.885,8.0688E-09,0.02,,1,2,0,2018,2019
+Autism Spectrum Disorders,C1510586,VPS13B,157680,Q7Z7G8,vacuolar protein sorting 13 homolog B,,158,0.579,0.769,2.5029E-45,0.02,,1,2,0,2013,2019
+Autism Spectrum Disorders,C1510586,CBLL2,158506,Q8N7E2,Cbl proto-oncogene like 2,Enzyme,235,0.476,0.808,,0.02,,1,2,0,2019,2019
+Autism Spectrum Disorders,C1510586,PRICKLE2,166336,Q7Z3G6,prickle planar cell polarity protein 2,Cellular structure,24,0.711,0.423,0.99544,0.02,,1,2,0,2013,2019
+Autism Spectrum Disorders,C1510586,DMD,1756,P11532,dystrophin,,484,0.423,0.923,1,0.02,,1,2,0,2017,2017
+Autism Spectrum Disorders,C1510586,ACAN,176,P16112,aggrecan,Extracellular structure,187,0.528,0.846,1,0.02,,1,2,0,2010,2011
+Autism Spectrum Disorders,C1510586,DPP4,1803,P27487,dipeptidyl peptidase 4,Enzyme,451,0.42,0.808,7.2797E-09,0.02,,1,2,1,2015,2019
+Autism Spectrum Disorders,C1510586,DPYSL3,1809,Q14195,dihydropyrimidinase like 3,Enzyme,52,0.628,0.462,0.99887,0.02,,1,2,0,2017,2019
+Autism Spectrum Disorders,C1510586,EPHB2,2048,P29323,EPH receptor B2,Kinase,649,0.374,0.846,0.99997,0.02,,1,2,0,2018,2018
+Autism Spectrum Disorders,C1510586,CLN8,2055,Q9UBY8,CLN8 transmembrane ER and ERGIC protein,,50,0.682,0.423,0.0035591,0.02,,0.5,2,1,2015,2015
+Autism Spectrum Disorders,C1510586,ALDH1A3,220,P47895,aldehyde dehydrogenase 1 family member A3,Enzyme,83,0.578,0.654,0.14128,0.02,,1,2,0,2014,2015
+Autism Spectrum Disorders,C1510586,FGA,2243,P02671,fibrinogen alpha chain,,118,0.573,0.769,1.2236E-13,0.02,,1,2,2,2013,2018
+Autism Spectrum Disorders,C1510586,ZNF292,23036,O60281,zinc finger protein 292,Enzyme,53,0.695,0.423,1,0.02,,1,2,0,2016,2020
+Autism Spectrum Disorders,C1510586,ASTN2,23245,O75129,astrotactin 2,,51,0.666,0.462,0.99971,0.02,,1,2,0,2009,2011
+Autism Spectrum Disorders,C1510586,NCS1,23413,P62166,neuronal calcium sensor 1,,48,0.656,0.615,0.66434,0.02,,0.5,2,1,2010,2020
+Autism Spectrum Disorders,C1510586,CHD5,26038,Q8TDI0,chromodomain helicase DNA binding protein 5,,64,0.604,0.5,1,0.02,,1,2,0,2017,2019
+Autism Spectrum Disorders,C1510586,HAVCR1,26762,Q96D42,hepatitis A virus cellular receptor 1,,217,0.489,0.885,8.5105E-07,0.02,,1,2,0,2018,2019
+Autism Spectrum Disorders,C1510586,SH2D6,284948,Q7Z4S9,SH2 domain containing 6,Signaling,4,1,0.038,0.000037712,0.02,,1,2,0,2019,2020
+Autism Spectrum Disorders,C1510586,GPR37,2861,O15354,G protein-coupled receptor 37,G-protein coupled receptor,23,0.716,0.385,0.00033812,0.02,,1,2,1,2012,2015
+Autism Spectrum Disorders,C1510586,GRIA1,2890,P42261,glutamate ionotropic receptor AMPA type subunit 1,Ion channel,126,0.57,0.577,0.99869,0.02,,1,2,0,2020,2020
+Autism Spectrum Disorders,C1510586,GRM1,2911,Q13255,glutamate metabotropic receptor 1,G-protein coupled receptor,172,0.528,0.808,0.14279,0.02,,1,2,1,2019,2019
+Autism Spectrum Disorders,C1510586,GRP,2922,P07492,gastrin releasing peptide,,172,0.524,0.769,0.0025347,0.02,,1,2,0,2016,2018
+Autism Spectrum Disorders,C1510586,HLA-B,3106,P01889,"major histocompatibility complex, class I, B",,706,0.379,0.885,0.000038642,0.02,,1,2,0,2011,2015
+Autism Spectrum Disorders,C1510586,HLA-C,3107,P10321,"major histocompatibility complex, class I, C",,435,0.415,0.846,1.5695E-06,0.02,,1,2,0,2011,2018
+Autism Spectrum Disorders,C1510586,HLA-G,3135,P17693,"major histocompatibility complex, class I, G",,279,0.461,0.769,1.365E-11,0.02,,1,2,0,2018,2019
+Autism Spectrum Disorders,C1510586,HMGB1,3146,P09429,high mobility group box 1,Nucleic acid binding,724,0.368,0.923,0.82035,0.02,,1,2,0,2018,2019
+Autism Spectrum Disorders,C1510586,HNRNPU,3192,Q00839,heterogeneous nuclear ribonucleoprotein U,,116,0.575,0.654,1,0.02,,1,2,0,2017,2018
+Autism Spectrum Disorders,C1510586,HOXB1,3211,P14653,homeobox B1,,59,0.633,0.538,0.081766,0.02,,0.5,2,0,2000,2011
+Autism Spectrum Disorders,C1510586,NEXMIF,340533,Q5QGS0,neurite extension and migration factor,,66,0.659,0.385,0.99968,0.02,,1,2,0,2013,2018
+Autism Spectrum Disorders,C1510586,IFNA1,3439,P01562,interferon alpha 1,,662,0.371,0.923,,0.02,,1,2,0,2018,2018
+Autism Spectrum Disorders,C1510586,IFNA13,3447,P01562,interferon alpha 13,,646,0.374,0.923,,0.02,,1,2,0,2018,2018
+Autism Spectrum Disorders,C1510586,APOE,348,P02649,apolipoprotein E,,1049,0.338,0.962,0.0018685,0.02,,1,2,0,2018,2019
+Autism Spectrum Disorders,C1510586,IGF2,3481,P01344,insulin like growth factor 2,,604,0.39,0.885,0.044127,0.02,,1,2,0,2017,2018
+Autism Spectrum Disorders,C1510586,IL2,3558,P60568,interleukin 2,,950,0.336,0.885,0.47968,0.02,,1,2,0,2018,2019
+Autism Spectrum Disorders,C1510586,IL9,3578,P15248,interleukin 9,,291,0.461,0.846,8.1087E-07,0.02,,1,2,0,2017,2019
+Autism Spectrum Disorders,C1510586,IL13,3596,P35225,interleukin 13,,587,0.386,0.846,0.014426,0.02,,1,2,0,2019,2019
+Autism Spectrum Disorders,C1510586,LEP,3952,P41159,leptin,,931,0.349,0.846,0.46491,0.02,,1,2,0,2018,2018
+Autism Spectrum Disorders,C1510586,LRP1,4035,Q07954,LDL receptor related protein 1,,252,0.482,0.769,1,0.02,,1,2,0,2018,2019
+Autism Spectrum Disorders,C1510586,MIR132,406921,,microRNA 132,,222,0.485,0.846,,0.02,,1,2,0,2015,2017
+Autism Spectrum Disorders,C1510586,MIR137,406928,,microRNA 137,,171,0.513,0.846,,0.02,,1,2,0,2014,2018
+Autism Spectrum Disorders,C1510586,MIR34A,407040,,microRNA 34a,,428,0.421,0.846,,0.02,,1,2,0,2015,2017
+Autism Spectrum Disorders,C1510586,CAPRIN1,4076,Q14444,cell cycle associated protein 1,Transporter,29,0.691,0.5,0.97247,0.02,,1,2,0,2013,2016
+Autism Spectrum Disorders,C1510586,MBNL1,4154,Q9NR56,muscleblind like splicing regulator 1,Nucleic acid binding,52,0.65,0.615,0.70579,0.02,,1,2,0,2017,2018
+Autism Spectrum Disorders,C1510586,MEF2A,4205,Q02078,myocyte enhancer factor 2A,Transcription factor,99,0.585,0.692,0.98706,0.02,,1,2,0,2008,2019
+Autism Spectrum Disorders,C1510586,MIF,4282,P14174,macrophage migration inhibitory factor,,455,0.412,0.885,0.012262,0.02,,1,2,0,2008,2019
+Autism Spectrum Disorders,C1510586,MKI67,4288,P46013,marker of proliferation Ki-67,,351,0.431,0.808,1.2598E-28,0.02,,1,2,0,2009,2011
+Autism Spectrum Disorders,C1510586,MMP9,4318,P14780,matrix metallopeptidase 9,Enzyme,1337,0.305,0.923,1.8869E-17,0.02,,1,2,0,2017,2018
+Autism Spectrum Disorders,C1510586,ASNS,440,P08243,asparagine synthetase (glutamine-hydrolyzing),Enzyme,90,0.595,0.692,9.3611E-06,0.02,,1,2,1,2017,2018
+Autism Spectrum Disorders,C1510586,MSN,4478,P26038,moesin,Cellular structure,140,0.534,0.769,0.99967,0.02,,1,2,0,2012,2016
+Autism Spectrum Disorders,C1510586,NCAM1,4684,P13591,neural cell adhesion molecule 1,,445,0.415,0.885,0.99999,0.02,,1,2,0,2018,2019
+Autism Spectrum Disorders,C1510586,NR4A2,4929,P43354,nuclear receptor subfamily 4 group A member 2,Nuclear receptor,166,0.529,0.846,0.99959,0.02,,1,2,0,2016,2018
+Autism Spectrum Disorders,C1510586,FOXP3,50943,Q9BZS1,forkhead box P3,,688,0.368,0.846,0.99424,0.02,,1,2,2,2017,2019
+Autism Spectrum Disorders,C1510586,PHF21A,51317,Q96BD5,PHD finger protein 21A,,50,0.682,0.5,1,0.02,,1,2,0,2019,2019
+Autism Spectrum Disorders,C1510586,PEX7,5191,O00628,peroxisomal biogenesis factor 7,,100,0.603,0.615,8.1798E-13,0.02,,1,2,0,2012,2013
+Autism Spectrum Disorders,C1510586,POMC,5443,P01189,proopiomelanocortin,,873,0.356,0.846,0.00011658,0.02,,1,2,0,2017,2019
+Autism Spectrum Disorders,C1510586,PON1,5444,P27169,paraoxonase 1,,496,0.409,0.885,9.8142E-11,0.02,,0.5,2,2,2010,2010
+Autism Spectrum Disorders,C1510586,PPARA,5465,Q07869,peroxisome proliferator activated receptor alpha,Nuclear receptor,408,0.432,0.885,0.030182,0.02,,1,2,0,2018,2019
+Autism Spectrum Disorders,C1510586,PPARG,5468,P37231,peroxisome proliferator activated receptor gamma,Nuclear receptor,877,0.358,0.885,0.029194,0.02,,1,2,0,2019,2019
+Autism Spectrum Disorders,C1510586,KIF1A,547,Q12756,kinesin family member 1A,Cellular structure,187,0.559,0.692,1,0.02,,1,2,1,2017,2018
+Autism Spectrum Disorders,C1510586,CHDH,55349,Q8NE62,choline dehydrogenase,Enzyme,158,0.529,0.769,0.000001685,0.02,,1,2,0,2017,2018
+Autism Spectrum Disorders,C1510586,BAG1,573,Q99933,BAG cochaperone 1,,128,0.538,0.769,6.5264E-06,0.02,,1,2,0,2016,2017
+Autism Spectrum Disorders,C1510586,MRTFB,57496,Q9ULH7,myocardin related transcription factor B,,20,0.76,0.308,0.99999,0.02,,1,2,1,2010,2018
+Autism Spectrum Disorders,C1510586,MIB1,57534,Q86YT6,mindbomb E3 ubiquitin protein ligase 1,Enzyme,329,0.438,0.769,3.3574E-88,0.02,,1,2,0,2009,2011
+Autism Spectrum Disorders,C1510586,NLGN2,57555,Q8NFZ4,neuroligin 2,,31,0.722,0.269,0.99974,0.02,,1,2,0,2012,2013
+Autism Spectrum Disorders,C1510586,KMT2C,58508,Q8NEZ4,lysine methyltransferase 2C,,114,0.558,0.692,1,0.02,,1,2,0,2016,2017
+Autism Spectrum Disorders,C1510586,RAC1,5879,P63000,Rac family small GTPase 1,Enzyme modulator,415,0.429,0.962,0.76228,0.02,,1,2,0,2017,2019
+Autism Spectrum Disorders,C1510586,RORA,6095,P35398,RAR related orphan receptor A,Nuclear receptor,158,0.533,0.808,0.40096,0.02,,1,2,2,2016,2017
+Autism Spectrum Disorders,C1510586,ROS1,6098,P08922,"ROS proto-oncogene 1, receptor tyrosine kinase",Kinase,356,0.439,0.885,1.6184E-72,0.02,,1,2,0,2017,2017
+Autism Spectrum Disorders,C1510586,OPN1SW,611,P03999,"opsin 1, short wave sensitive",G-protein coupled receptor,164,0.519,0.769,0.021134,0.02,,1,2,0,2017,2017
+Autism Spectrum Disorders,C1510586,RPL10,6134,P27635,ribosomal protein L10,Nucleic acid binding,116,0.568,0.731,0.90915,0.02,,1,2,2,2009,2014
+Autism Spectrum Disorders,C1510586,SCD,6319,O00767,stearoyl-CoA desaturase,,225,0.49,0.808,0.96968,0.02,,1,2,0,2018,2019
+Autism Spectrum Disorders,C1510586,SCN3A,6328,Q9NY46,sodium voltage-gated channel alpha subunit 3,Ion channel,88,0.617,0.538,1,0.02,,1,2,0,2018,2018
+Autism Spectrum Disorders,C1510586,SCN9A,6335,Q15858,sodium voltage-gated channel alpha subunit 9,Ion channel,213,0.543,0.615,4.7524E-19,0.02,,1,2,0,2018,2019
+Autism Spectrum Disorders,C1510586,SEMA3F,6405,Q13275,semaphorin 3F,Signaling,55,0.653,0.615,0.99989,0.02,,1,2,0,2019,2019
+Autism Spectrum Disorders,C1510586,LRRC4,64101,Q9HBW1,leucine rich repeat containing 4,,57,0.617,0.577,0.99787,0.02,,1,2,0,2018,2019
+Autism Spectrum Disorders,C1510586,CLEC7A,64581,Q9BXN2,C-type lectin domain containing 7A,,126,0.553,0.769,5.5087E-12,0.02,,1,2,1,2015,2019
+Autism Spectrum Disorders,C1510586,NBEAL1,65065,Q6ZS30,neurobeachin like 1,,60,0.638,0.692,5.1093E-33,0.02,,1,2,0,2017,2020
+Autism Spectrum Disorders,C1510586,BMP4,652,P12644,bone morphogenetic protein 4,Signaling,423,0.422,0.808,0.9564,0.02,,1,2,0,2018,2018
+Autism Spectrum Disorders,C1510586,SLC19A1,6573,P41440,solute carrier family 19 member 1,Transporter,155,0.523,0.692,6.4655E-06,0.02,,1,2,2,2016,2017
+Autism Spectrum Disorders,C1510586,SMARCA2,6595,P51531,"SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 2",Epigenetic regulator,189,0.527,0.769,1,0.02,,1,2,0,2014,2017
+Autism Spectrum Disorders,C1510586,SMARCA4,6597,P51532,"SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 4",Epigenetic regulator,347,0.45,0.885,1,0.02,,1,2,0,2017,2017
+Autism Spectrum Disorders,C1510586,SOD1,6647,P00441,superoxide dismutase 1,Enzyme,689,0.379,0.962,0.1773,0.02,,1,2,0,2017,2019
+Autism Spectrum Disorders,C1510586,SOD2,6648,P04179,superoxide dismutase 2,Enzyme,668,0.379,0.923,0.15499,0.02,,1,2,0,2014,2018
+Autism Spectrum Disorders,C1510586,STX1A,6804,Q16623,syntaxin 1A,Transporter,74,0.621,0.654,0.9785,0.02,,1,2,0,2016,2017
+Autism Spectrum Disorders,C1510586,BST1,683,Q10588,bone marrow stromal cell antigen 1,Enzyme,41,0.67,0.423,4.2099E-11,0.02,,1,2,0,2017,2017
+Autism Spectrum Disorders,C1510586,TAC1,6863,P20366,tachykinin precursor 1,,478,0.424,0.923,0.74608,0.02,,1,2,0,2018,2019
+Autism Spectrum Disorders,C1510586,TCF20,6942,Q9UGU0,transcription factor 20,Transcription factor,78,0.644,0.423,1,0.02,,1,2,0,2014,2016
+Autism Spectrum Disorders,C1510586,TERT,7015,O14746,telomerase reverse transcriptase,Enzyme,703,0.374,0.846,0.99046,0.02,,1,2,0,2017,2018
+Autism Spectrum Disorders,C1510586,TLL1,7092,O43897,tolloid like 1,,24,0.716,0.5,0.17306,0.02,,1,2,0,2009,2020
+Autism Spectrum Disorders,C1510586,TPI1,7167,P60174,triosephosphate isomerase 1,Enzyme,184,0.517,0.846,0.030193,0.02,,1,2,0,2018,2019
+Autism Spectrum Disorders,C1510586,PHLDA2,7262,Q53GA4,pleckstrin homology like domain family A member 2,,58,0.636,0.615,0.15046,0.02,,1,2,0,2017,2018
+Autism Spectrum Disorders,C1510586,WNT1,7471,P04628,Wnt family member 1,Signaling,216,0.495,0.769,0.3263,0.02,,1,2,2,2013,2019
+Autism Spectrum Disorders,C1510586,WNT2,7472,P09544,Wnt family member 2,Signaling,96,0.569,0.615,0.017811,0.02,,1,2,2,2011,2017
+Autism Spectrum Disorders,C1510586,USP7,7874,Q93009,ubiquitin specific peptidase 7,Enzyme,153,0.538,0.808,1,0.02,,1,2,0,2015,2019
+Autism Spectrum Disorders,C1510586,MUL1,79594,Q969V5,mitochondrial E3 ubiquitin protein ligase 1,,241,0.473,0.808,1.9108E-06,0.02,,1,2,0,2019,2019
+Autism Spectrum Disorders,C1510586,MCPH1,79648,Q8NEM0,microcephalin 1,Nucleic acid binding,141,0.54,0.846,7.76E-30,0.02,,1,2,0,2009,2011
+Autism Spectrum Disorders,C1510586,ARHGEF5,7984,Q12774,Rho guanine nucleotide exchange factor 5,,140,0.526,0.808,7.5872E-14,0.02,,1,2,0,2018,2019
+Autism Spectrum Disorders,C1510586,CMIP,80790,Q8IY22,c-Maf inducing protein,Transcription factor,54,0.682,0.577,0.99999,0.02,,1,2,0,2012,2017
+Autism Spectrum Disorders,C1510586,CAMK4,814,Q16566,calcium/calmodulin dependent protein kinase IV,Kinase,69,0.621,0.654,0.50957,0.02,,1,2,1,2014,2020
+Autism Spectrum Disorders,C1510586,KDM5C,8242,P41229,lysine demethylase 5C,,119,0.581,0.538,1,0.02,,1,2,0,2008,2019
+Autism Spectrum Disorders,C1510586,ELMOD3,84173,Q96FG2,ELMO domain containing 3,Signaling,11,0.821,0.269,5.0378E-16,0.02,,1,2,0,2019,2020
+Autism Spectrum Disorders,C1510586,ATP13A4,84239,Q4VNC1,ATPase 13A4,,6,0.861,0.077,3.3306E-26,0.02,,1,2,1,2010,2018
+Autism Spectrum Disorders,C1510586,CAT,847,P04040,catalase,Enzyme,794,0.359,0.962,1.6263E-10,0.02,,1,2,0,2018,2019
+Autism Spectrum Disorders,C1510586,IRS2,8660,Q9Y4H2,insulin receptor substrate 2,,152,0.535,0.654,0.99032,0.02,,1,2,0,2013,2016
+Autism Spectrum Disorders,C1510586,CACNA1H,8912,O95180,calcium voltage-gated channel subunit alpha1 H,Ion channel,82,0.628,0.423,4.7778E-10,0.02,,1,2,0,2006,2010
+Autism Spectrum Disorders,C1510586,CD5L,922,O43866,CD5 molecule like,Enzyme,78,0.593,0.846,4.2297E-17,0.02,,1,2,0,2019,2019
+Autism Spectrum Disorders,C1510586,DLGAP1,9229,O14490,DLG associated protein 1,Receptor,35,0.691,0.385,0.99875,0.02,,1,2,0,2018,2019
+Autism Spectrum Disorders,C1510586,TAOK2,9344,Q9UL54,TAO kinase 2,Kinase,26,0.736,0.231,0.99976,0.02,,1,2,0,2012,2019
+Autism Spectrum Disorders,C1510586,NR1D1,9572,P20393,nuclear receptor subfamily 1 group D member 1,Nuclear receptor,60,0.608,0.692,0.81796,0.02,,1,2,0,2016,2017
+Autism Spectrum Disorders,C1510586,CD69,969,Q07108,CD69 molecule,,206,0.488,0.923,0.029691,0.02,,1,2,0,2019,2019
+Autism Spectrum Disorders,C1510586,SETD1A,9739,O15047,"SET domain containing 1A, histone lysine methyltransferase",,68,0.619,0.615,1,0.02,,1,2,0,2016,2019
+Autism Spectrum Disorders,C1510586,PIEZO1,9780,Q92508,piezo type mechanosensitive ion channel component 1,Ion channel,130,0.552,0.769,3.9379E-21,0.02,,1,2,0,2009,2011
+Autism Spectrum Disorders,C1510586,DGCR2,9993,P98153,DiGeorge syndrome critical region gene 2,,77,0.623,0.731,5.1573E-06,0.02,,1,2,0,2018,2018
+Autism Spectrum Disorders,C1510586,ADA,100,P00813,adenosine deaminase,Enzyme,379,0.44,0.885,2.8825E-12,0.01,,1,1,2,2008,2008
+Autism Spectrum Disorders,C1510586,HOTAIR,100124700,,HOX transcript antisense RNA,,234,0.475,0.769,,0.01,,1,1,0,2020,2020
+Autism Spectrum Disorders,C1510586,FMR1-AS1,100126270,,FMR1 antisense RNA 1,,10,0.839,0.231,,0.01,,1,1,0,2017,2017
+Autism Spectrum Disorders,C1510586,MIR873,100126316,,microRNA 873,,67,0.601,0.538,,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,ERVMER34-1,100288413,Q9H9K5,"endogenous retrovirus group MER34 member 1, envelope",,1,1,0.038,,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,MIR1290,100302276,,microRNA 1290,,62,0.61,0.615,,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,LINC01672,100505887,,long intergenic non-protein coding RNA 1672,,268,0.462,0.846,,0.01,,1,1,0,2017,2017
+Autism Spectrum Disorders,C1510586,DEL11P13,100528024,,"Wilms tumor, aniridia, genitourinary anomalies and mental retardation syndrome",,24,0.716,0.538,,0.01,,1,1,0,2014,2014
+Autism Spectrum Disorders,C1510586,ABCB6,10058,Q9NP58,ATP binding cassette subfamily B member 6 (Langereis blood group),Transporter,400,0.431,0.885,8.5999E-19,0.01,,1,1,0,2017,2017
+Autism Spectrum Disorders,C1510586,CDH8,1006,P55286,cadherin 8,,18,0.743,0.385,0.98806,0.01,,1,1,0,2013,2013
+Autism Spectrum Disorders,C1510586,PTCHD1-AS,100873065,,PTCHD1 antisense RNA (head to head),,13,0.839,0.308,,0.01,,1,1,0,2020,2020
+Autism Spectrum Disorders,C1510586,NLGN4Y-AS1,100874056,,NLGN4Y antisense RNA 1,,4,0.861,0.192,,0.01,,1,1,0,2015,2015
+Autism Spectrum Disorders,C1510586,IFNG-AS1,100885789,,IFNG antisense RNA 1,,33,0.659,0.654,,0.01,,1,1,0,2020,2020
+Autism Spectrum Disorders,C1510586,OPN1MW3,101060233,P04001;P0DN77;P0DN78,"opsin 1, medium wave sensitive 3",,80,0.601,0.769,,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,PANDAR,101154753,,promoter of CDKN1A antisense DNA damage activated RNA,,51,0.623,0.577,,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,DHRS9,10170,Q9BPW9,dehydrogenase/reductase 9,Enzyme,25,0.695,0.538,7.2309E-08,0.01,,1,1,0,2012,2012
+Autism Spectrum Disorders,C1510586,EMSLR,101927746,,E2F1 mRNA stabilizing lncRNA,,30,0.695,0.5,,0.01,,1,1,0,2017,2017
+Autism Spectrum Disorders,C1510586,ADAM10,102,O14672,ADAM metallopeptidase domain 10,,224,0.489,0.846,1,0.01,,1,1,0,2017,2017
+Autism Spectrum Disorders,C1510586,OLIG2,10215,Q13516,oligodendrocyte transcription factor 2,Enzyme,104,0.56,0.577,0.094592,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,MIR6126,102465134,,microRNA 6126,,10,0.839,0.231,,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,LOC102723407,102723407,,immunoglobulin heavy variable 4-38-2-like,,159,0.514,0.769,,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,LOC102724971,102724971,,putative V-set and immunoglobulin domain-containing-like protein IGHV4OR15-8,,139,0.527,0.769,,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,RTN3,10313,O95197,reticulon 3,,45,0.647,0.615,0.000066163,0.01,,1,1,0,2017,2017
+Autism Spectrum Disorders,C1510586,ABCA7,10347,Q8IZY2,ATP binding cassette subfamily A member 7,Transporter,70,0.644,0.577,2.1111E-55,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,ATP8A1,10396,Q9Y2Q0,ATPase phospholipid transporting 8A1,Transporter,9,0.821,0.308,0.1999,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,BAIAP2,10458,Q9UQB8,BAR/IMD domain containing adaptor protein 2,Receptor,25,0.769,0.192,0.46155,0.01,,1,1,0,2016,2016
+Autism Spectrum Disorders,C1510586,ZBTB18,10472,Q99592,zinc finger and BTB domain containing 18,Transcription factor,57,0.666,0.5,0.99658,0.01,,1,1,0,2016,2016
+Autism Spectrum Disorders,C1510586,ATG7,10533,O95352,autophagy related 7,Enzyme,179,0.505,0.769,7.3758E-12,0.01,,1,1,0,2017,2017
+Autism Spectrum Disorders,C1510586,PERCC1,105371045,A0A1W2PR82,proline and glutamate rich with coiled coil 1,,128,0.552,0.808,,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,CERNA3,105375847,,competing endogenous lncRNA 3 for miR-645,,140,0.531,0.808,,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,ARFGEF1,10565,Q9Y6D6,ADP ribosylation factor guanine nucleotide exchange factor 1,,34,0.674,0.423,1,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,SLU7,10569,O95391,"SLU7 homolog, splicing factor",Nucleic acid binding,26,0.729,0.346,1.6328E-09,0.01,,1,1,0,2016,2016
+Autism Spectrum Disorders,C1510586,PRPF8,10594,Q6P2Q9,pre-mRNA processing factor 8,Nucleic acid binding,70,0.631,0.615,1,0.01,,1,1,0,2020,2020
+Autism Spectrum Disorders,C1510586,AHSA1,10598,O95433,activator of HSP90 ATPase activity 1,,526,0.396,0.923,0.99896,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,RN7SL263P,106480993,,"RNA, 7SL, cytoplasmic 263, pseudogene",,189,0.496,0.808,,0.01,,1,1,0,2017,2017
+Autism Spectrum Disorders,C1510586,LBX1,10660,P52954,ladybird homeobox 1,Transcription factor,16,0.736,0.462,0.67886,0.01,,1,1,0,2011,2011
+Autism Spectrum Disorders,C1510586,CXCR6,10663,O00574,C-X-C motif chemokine receptor 6,G-protein coupled receptor,325,0.448,0.885,0.000057212,0.01,,1,1,0,2017,2017
+Autism Spectrum Disorders,C1510586,CD226,10666,Q15762,CD226 molecule,,124,0.548,0.769,0.03921,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,MTCO2P12,107075310,,MT-CO2 pseudogene 12,,703,0.368,0.962,,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,PTGES3,10728,Q15185,prostaglandin E synthase 3,Chaperone,56,0.641,0.731,0.98536,0.01,,1,1,0,2016,2016
+Autism Spectrum Disorders,C1510586,CTSC,1075,P53634,cathepsin C,Enzyme,139,0.541,0.731,1.1451E-07,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,LOC107987479,107987479,,cytochrome P450 2D6,,76,0.597,0.769,,0.01,,1,1,0,2013,2013
+Autism Spectrum Disorders,C1510586,PDE10A,10846,Q9Y233,phosphodiesterase 10A,,97,0.619,0.615,0.99986,0.01,,1,1,0,2016,2016
+Autism Spectrum Disorders,C1510586,SLC26A1,10861,Q9H2B4,solute carrier family 26 member 1,Ion channel,33,0.686,0.577,1.0564E-11,0.01,,1,1,0,2017,2017
+Autism Spectrum Disorders,C1510586,PPARGC1A,10891,Q9UBK2,PPARG coactivator 1 alpha,Transcription factor,350,0.453,0.885,0.9973,0.01,,1,1,0,2017,2017
+Autism Spectrum Disorders,C1510586,SUB1,10923,P53999,SUB1 regulator of transcription,,260,0.465,0.846,0.89245,0.01,,1,1,0,2008,2008
+Autism Spectrum Disorders,C1510586,SLC27A4,10999,Q6P1M0,solute carrier family 27 member 4,Transporter,72,0.608,0.769,0.000044885,0.01,,1,1,0,2015,2015
+Autism Spectrum Disorders,C1510586,TLK2,11011,Q86UE8,tousled like kinase 2,Kinase,71,0.631,0.538,1,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,RAPGEF4,11069,Q8WZA2,Rap guanine nucleotide exchange factor 4,Enzyme modulator,51,0.647,0.538,0.99218,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,CHD4,1108,Q14839,chromodomain helicase DNA binding protein 4,,94,0.593,0.654,1,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,PTPRT,11122,O14522,protein tyrosine phosphatase receptor type T,Enzyme,53,0.636,0.538,1,0.01,,1,1,0,2017,2017
+Autism Spectrum Disorders,C1510586,WDR45,11152,Q9Y484,WD repeat domain 45,,72,0.647,0.423,0.99145,0.01,,1,1,0,2017,2017
+Autism Spectrum Disorders,C1510586,FAM107A,11170,O95990,family with sequence similarity 107 member A,,36,0.674,0.462,8.2783E-07,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,SUPT16H,11198,Q9Y5B9,"SPT16 homolog, facilitates chromatin remodeling subunit",Transcription factor,11,0.861,0.192,1,0.01,,1,1,0,2016,2016
+Autism Spectrum Disorders,C1510586,CHM,1121,P24386,CHM Rab escort protein,Enzyme,82,0.592,0.654,0.99899,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,PRRT2,112476,Q7Z6L0,proline rich transmembrane protein 2,,353,0.448,0.808,0.57919,0.01,,1,1,0,2014,2014
+Autism Spectrum Disorders,C1510586,KLF12,11278,Q9Y4X4,Kruppel like factor 12,Nucleic acid binding,58,0.647,0.654,0.98067,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,LINC02605,112935892,,long intergenic non-protein coding RNA 2605,,203,0.49,0.769,,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,CDCA5,113130,Q96FF9,cell division cycle associated 5,,105,0.563,0.808,0.0011583,0.01,,1,1,0,2015,2015
+Autism Spectrum Disorders,C1510586,PARK7,11315,Q99497,Parkinsonism associated deglycase,Enzyme,161,0.535,0.808,0.75335,0.01,,1,1,0,2016,2016
+Autism Spectrum Disorders,C1510586,CHRNA3,1136,P32297,cholinergic receptor nicotinic alpha 3 subunit,Ion channel,110,0.588,0.692,1.4197E-07,0.01,,0,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,GPRASP2,114928,Q96D09,G protein-coupled receptor associated sorting protein 2,,13,0.839,0.154,0.98751,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,H3P40,115482723,,H3 histone pseudogene 40,,175,0.506,0.846,,0.01,,0,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,RAB39B,116442,Q96DA2,"RAB39B, member RAS oncogene family",,90,0.619,0.615,0.82529,0.01,,1,1,0,2015,2015
+Autism Spectrum Disorders,C1510586,ADCYAP1R1,117,P41586,ADCYAP receptor type I,G-protein coupled receptor,118,0.561,0.769,7.2275E-10,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,CYP2R1,120227,Q6VVX0,cytochrome P450 family 2 subfamily R member 1,,139,0.563,0.731,3.793E-10,0.01,,1,1,1,2015,2015
+Autism Spectrum Disorders,C1510586,CNTF,1270,P26441,ciliary neurotrophic factor,,114,0.561,0.615,0.000023384,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,COL4A1,1282,P02462,collagen type IV alpha 1 chain,,277,0.484,0.731,1,0.01,,1,1,0,2011,2011
+Autism Spectrum Disorders,C1510586,CNTNAP5,129684,Q8WYK1,contactin associated protein family member 5,,10,0.821,0.154,0.99167,0.01,,1,1,0,2010,2010
+Autism Spectrum Disorders,C1510586,RBM45,129831,Q8IUH3,RNA binding motif protein 45,,557,0.383,0.846,2.1132E-10,0.01,,1,1,0,2001,2001
+Autism Spectrum Disorders,C1510586,COMP,1311,P49747,cartilage oligomeric matrix protein,,230,0.503,0.808,1.3462E-09,0.01,,1,1,0,2011,2011
+Autism Spectrum Disorders,C1510586,CORD1,1319,,cone rod dystrophy 1 (autosomal dominant),,19,0.722,0.423,,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,ADORA2A,135,P29274,adenosine A2a receptor,G-protein coupled receptor,213,0.526,0.769,0.5971,0.01,,1,1,1,2010,2010
+Autism Spectrum Disorders,C1510586,COX8A,1351,P10176,cytochrome c oxidase subunit 8A,Enzyme,526,0.4,0.846,0.11606,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,CPOX,1371,P36551,coproporphyrinogen oxidase,Enzyme,246,0.488,0.846,0.17152,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,CREB1,1385,P16220,cAMP responsive element binding protein 1,,294,0.463,0.885,0.99673,0.01,,1,1,0,2017,2017
+Autism Spectrum Disorders,C1510586,CRK,1398,P46108,"CRK proto-oncogene, adaptor protein",,544,0.394,0.923,0.95936,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,SLC32A1,140679,Q9H598,solute carrier family 32 member 1,Transporter,19,0.743,0.577,0.96675,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,RPS10P2,140758,,ribosomal protein S10 pseudogene 2,,3,0.931,0.038,,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,MAPK14,1432,Q16539,mitogen-activated protein kinase 14,Kinase,626,0.379,0.923,0.37466,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,CSF2,1437,P04141,colony stimulating factor 2,Signaling,1028,0.33,0.962,0.83468,0.01,,1,1,0,2017,2017
+Autism Spectrum Disorders,C1510586,B3GLCT,145173,Q6Y288,beta 3-glucosyltransferase,Enzyme,157,0.554,0.731,7.1449E-17,0.01,,1,1,0,2011,2011
+Autism Spectrum Disorders,C1510586,LRFN5,145581,Q96NI6,leucine rich repeat and fibronectin type III domain containing 5,,7,0.839,0.077,0.55863,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,PWAR1,145624,,Prader Willi/Angelman region RNA 1,,246,0.49,0.769,,0.01,,1,1,0,2017,2017
+Autism Spectrum Disorders,C1510586,RBFOX3,146713,A6NFN3,RNA binding fox-1 homolog 3,Nucleic acid binding,30,0.751,0.192,0.99785,0.01,,1,1,0,2016,2016
+Autism Spectrum Disorders,C1510586,CBLN2,147381,Q8IUK8,cerebellin 2 precursor,,19,0.751,0.308,0.12162,0.01,,1,1,0,2012,2012
+Autism Spectrum Disorders,C1510586,ADRA1A,148,P35348,adrenoceptor alpha 1A,G-protein coupled receptor,294,0.462,0.846,3.3722E-07,0.01,,1,1,1,2017,2017
+Autism Spectrum Disorders,C1510586,NKX2-5,1482,P52952,NK2 homeobox 5,Transcription factor,165,0.533,0.692,0.94531,0.01,,1,1,0,2017,2017
+Autism Spectrum Disorders,C1510586,IL23R,149233,Q5VWK5,interleukin 23 receptor,Signaling,306,0.466,0.769,0.00055961,0.01,,1,1,0,2020,2020
+Autism Spectrum Disorders,C1510586,CTNND2,1501,Q9UQB3,catenin delta 2,Cellular structure,117,0.579,0.731,1,0.01,,1,1,0,2014,2014
+Autism Spectrum Disorders,C1510586,COMMD1,150684,Q8N668,copper metabolism domain containing 1,,55,0.633,0.692,0.2201,0.01,,1,1,0,2014,2014
+Autism Spectrum Disorders,C1510586,ADRA2B,151,P18089,adrenoceptor alpha 2B,G-protein coupled receptor,296,0.465,0.846,4.4533E-06,0.01,,1,1,1,2017,2017
+Autism Spectrum Disorders,C1510586,RMDN2,151393,Q96LZ7,regulator of microtubule dynamics 2,,137,0.531,0.769,4.4061E-24,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,GPR155,151556,Q7Z3F1,G protein-coupled receptor 155,,9,0.821,0.154,6.0431E-16,0.01,,1,1,0,2007,2007
+Autism Spectrum Disorders,C1510586,ADRA2C,152,P18825,adrenoceptor alpha 2C,G-protein coupled receptor,40,0.682,0.346,0.50159,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,CX3CR1,1524,P49238,C-X3-C motif chemokine receptor 1,G-protein coupled receptor,310,0.457,0.885,0.061371,0.01,,1,1,1,2017,2017
+Autism Spectrum Disorders,C1510586,ADRB2,154,P07550,adrenoceptor beta 2,G-protein coupled receptor,387,0.442,0.923,0.52545,0.01,,1,1,0,2017,2017
+Autism Spectrum Disorders,C1510586,CYP1A2,1544,P05177,cytochrome P450 family 1 subfamily A member 2,Enzyme,218,0.494,0.923,2.4795E-10,0.01,,1,1,0,2013,2013
+Autism Spectrum Disorders,C1510586,CYP2C19,1557,P33261,cytochrome P450 family 2 subfamily C member 19,,274,0.467,0.846,6.4882E-20,0.01,,1,1,0,2015,2015
+Autism Spectrum Disorders,C1510586,CYP11A1,1583,P05108,cytochrome P450 family 11 subfamily A member 1,,166,0.547,0.731,5.4912E-07,0.01,,1,1,1,2016,2016
+Autism Spectrum Disorders,C1510586,CYP11B1,1584,P15538,cytochrome P450 family 11 subfamily B member 1,,139,0.563,0.615,8.245E-07,0.01,,1,1,2,2016,2016
+Autism Spectrum Disorders,C1510586,CYP19A1,1588,P11511,cytochrome P450 family 19 subfamily A member 1,Enzyme,519,0.41,0.885,0.000017022,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,CYP27A1,1593,Q02318,cytochrome P450 family 27 subfamily A member 1,Enzyme,167,0.538,0.731,5.2916E-19,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,DAB1,1600,O75553,DAB adaptor protein 1,Signaling,81,0.626,0.615,0.99915,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,DAO,1610,P14920,D-amino acid oxidase,,78,0.636,0.615,6.2271E-22,0.01,,0,1,2,2007,2007
+Autism Spectrum Disorders,C1510586,DBI,1622,P07108,"diazepam binding inhibitor, acyl-CoA binding protein",Enzyme modulator,52,0.65,0.654,0.0013944,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,DDIT3,1649,P35638,DNA damage inducible transcript 3,,264,0.467,0.846,0.59066,0.01,,1,1,0,2010,2010
+Autism Spectrum Disorders,C1510586,DDT,1652,P30046,D-dopachrome tautomerase,Enzyme,86,0.575,0.731,0.32959,0.01,,1,1,0,2017,2017
+Autism Spectrum Disorders,C1510586,DECR1,1666,Q16698,"2,4-dienoyl-CoA reductase 1",Enzyme,399,0.426,0.885,4.4689E-14,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,DDX53,168400,Q86TM3,DEAD-box helicase 53,,117,0.568,0.846,0.66167,0.01,,1,1,0,2020,2020
+Autism Spectrum Disorders,C1510586,ARX,170302,Q96QS3,aristaless related homeobox,,249,0.516,0.654,0.90814,0.01,,1,1,0,2007,2007
+Autism Spectrum Disorders,C1510586,HTR3C,170572,Q8WXA8,5-hydroxytryptamine receptor 3C,Ion channel,16,0.769,0.192,2.5562E-10,0.01,,1,1,0,2009,2009
+Autism Spectrum Disorders,C1510586,DHCR7,1717,Q9UBM7,7-dehydrocholesterol reductase,Enzyme,266,0.5,0.846,3.949E-13,0.01,,1,1,0,2016,2016
+Autism Spectrum Disorders,C1510586,AFP,174,P02771,alpha fetoprotein,Transporter,392,0.429,0.885,1.1383E-11,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,DLX2,1746,Q07687,distal-less homeobox 2,Transcription factor,34,0.711,0.423,0.97847,0.01,,1,1,0,2009,2009
+Autism Spectrum Disorders,C1510586,DLX5,1749,P56178,distal-less homeobox 5,Transcription factor,69,0.604,0.692,0.21842,0.01,,1,1,0,2010,2010
+Autism Spectrum Disorders,C1510586,DLX6,1750,P56179,distal-less homeobox 6,Transcription factor,42,0.659,0.615,0.92126,0.01,,1,1,0,2010,2010
+Autism Spectrum Disorders,C1510586,DNASE1,1773,P24855,deoxyribonuclease 1,,180,0.505,0.846,6.9801E-21,0.01,,1,1,0,2016,2016
+Autism Spectrum Disorders,C1510586,ABAT,18,P80404,4-aminobutyrate aminotransferase,Enzyme,127,0.628,0.538,0.0063216,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,AGRP,181,O00253,agouti related neuropeptide,Signaling,233,0.488,0.769,0.00069912,0.01,,1,1,0,2014,2014
+Autism Spectrum Disorders,C1510586,DRD1,1812,P21728,dopamine receptor D1,G-protein coupled receptor,181,0.529,0.808,0.9555,0.01,,1,1,2,2008,2008
+Autism Spectrum Disorders,C1510586,DRD5,1816,P21918,dopamine receptor D5,G-protein coupled receptor,73,0.603,0.423,1.348E-16,0.01,,1,1,0,2011,2011
+Autism Spectrum Disorders,C1510586,DTNA,1837,Q9Y4J8,dystrobrevin alpha,,35,0.695,0.385,0.63459,0.01,,1,1,0,2013,2013
+Autism Spectrum Disorders,C1510586,EDNRA,1909,P25101,endothelin receptor type A,G-protein coupled receptor,427,0.426,0.885,0.99158,0.01,,1,1,1,2017,2017
+Autism Spectrum Disorders,C1510586,EEF1A2,1917,Q05639,eukaryotic translation elongation factor 1 alpha 2,Enzyme,166,0.554,0.808,0.99558,0.01,,1,1,0,2020,2020
+Autism Spectrum Disorders,C1510586,EGFR,1956,P00533,epidermal growth factor receptor,Kinase,1394,0.295,0.885,0.36837,0.01,,1,1,0,2016,2016
+Autism Spectrum Disorders,C1510586,AHR,196,P35869,aryl hydrocarbon receptor,Transcription factor,532,0.41,0.923,0.99999,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,ARID2,196528,Q68CP9,AT-rich interaction domain 2,,167,0.543,0.808,1,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,METTL21C,196541,Q5VZV1,methyltransferase like 21C,,5,0.89,0.154,1.0629E-06,0.01,,1,1,0,2016,2016
+Autism Spectrum Disorders,C1510586,WDR90,197335,Q96KV7,WD repeat domain 90,,3,1,0.038,1.2637E-64,0.01,,1,1,0,2015,2015
+Autism Spectrum Disorders,C1510586,AIF1,199,P55008,allograft inflammatory factor 1,Calcium-binding protein,166,0.521,0.808,1.8793E-06,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,MARK2,2011,Q7KZI7,microtubule affinity regulating kinase 2,Kinase,115,0.555,0.692,0.99999,0.01,,1,1,0,2017,2017
+Autism Spectrum Disorders,C1510586,ENO2,2026,P09104,enolase 2,Enzyme,239,0.475,0.846,0.38396,0.01,,1,1,0,2020,2020
+Autism Spectrum Disorders,C1510586,PRSS55,203074,Q6UWB4,serine protease 55,Enzyme,163,0.513,0.769,3.1731E-11,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,EPHA5,2044,P54756,EPH receptor A5,Kinase,61,0.626,0.615,0.000072877,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,EPS8,2059,Q12929,epidermal growth factor receptor pathway substrate 8,Receptor,73,0.608,0.615,0.97308,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,ERBB4,2066,Q15303,erb-b2 receptor tyrosine kinase 4,Kinase,317,0.455,0.846,0.99912,0.01,,1,1,0,2012,2012
+Autism Spectrum Disorders,C1510586,ERCC2,2068,P18074,"ERCC excision repair 2, TFIIH core complex helicase subunit",Enzyme,499,0.42,0.846,7.0654E-20,0.01,,1,1,1,2016,2016
+Autism Spectrum Disorders,C1510586,EYA1,2138,Q99502,EYA transcriptional coactivator and phosphatase 1,,168,0.531,0.731,0.94588,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,EZH2,2146,Q15910,enhancer of zeste 2 polycomb repressive complex 2 subunit,Epigenetic regulator,653,0.376,0.885,1,0.01,,1,1,0,2017,2017
+Autism Spectrum Disorders,C1510586,F2R,2149,P25116,coagulation factor II thrombin receptor,G-protein coupled receptor,347,0.444,0.846,0.0084678,0.01,,1,1,0,2017,2017
+Autism Spectrum Disorders,C1510586,ALDH1A1,216,P00352,aldehyde dehydrogenase 1 family member A1,Enzyme,270,0.46,0.846,0.95448,0.01,,1,1,0,2017,2017
+Autism Spectrum Disorders,C1510586,FAAH,2166,O00519,fatty acid amide hydrolase,,177,0.545,0.692,4.4449E-11,0.01,,1,1,0,2013,2013
+Autism Spectrum Disorders,C1510586,FABP1,2168,P07148,fatty acid binding protein 1,,85,0.588,0.692,9.8037E-07,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,FABP3,2170,P05413,fatty acid binding protein 3,,95,0.585,0.692,0.44326,0.01,,1,1,0,2014,2014
+Autism Spectrum Disorders,C1510586,FABP5,2171,Q01469,fatty acid binding protein 5,,85,0.585,0.731,0.047008,0.01,,1,1,0,2014,2014
+Autism Spectrum Disorders,C1510586,FABP7,2173,O15540,fatty acid binding protein 7,,82,0.584,0.577,0.00078595,0.01,,1,1,0,2014,2014
+Autism Spectrum Disorders,C1510586,FAP,2191,Q12884,fibroblast activation protein alpha,Enzyme,216,0.496,0.808,1.9009E-28,0.01,,1,1,0,2015,2015
+Autism Spectrum Disorders,C1510586,JMJD1C,221037,Q15652,jumonji domain containing 1C,,214,0.517,0.769,1,0.01,,1,1,0,2016,2016
+Autism Spectrum Disorders,C1510586,FGF2,2247,P09038,fibroblast growth factor 2,Signaling,635,0.383,0.923,0.0184,0.01,,1,1,0,2017,2017
+Autism Spectrum Disorders,C1510586,FGFR2,2263,P21802,fibroblast growth factor receptor 2,Kinase,731,0.38,0.808,0.99731,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,FH,2271,P07954,fumarate hydratase,Enzyme,231,0.489,0.846,0.08824,0.01,,1,1,0,2016,2016
+Autism Spectrum Disorders,C1510586,XRN2,22803,Q9H0D6,5'-3' exoribonuclease 2,,9,0.821,0.269,0.34851,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,COBLL1,22837,Q53SF7,cordon-bleu WH2 repeat protein like 1,,29,0.792,0.346,0.046671,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,FNDC3A,22862,Q9Y2H6,fibronectin type III domain containing 3A,,35,0.674,0.577,0.99998,0.01,,1,1,0,2013,2013
+Autism Spectrum Disorders,C1510586,TRAPPC8,22878,Q9Y2L5,trafficking protein particle complex 8,,3,0.89,0.231,1,0.01,,1,1,0,2013,2013
+Autism Spectrum Disorders,C1510586,FKBP5,2289,Q13451,FKBP prolyl isomerase 5,Enzyme,179,0.524,0.769,0.73393,0.01,,1,1,0,2016,2016
+Autism Spectrum Disorders,C1510586,ARHGEF15,22899,O94989,Rho guanine nucleotide exchange factor 15,,15,0.76,0.308,0.00000166,0.01,,1,1,0,2010,2010
+Autism Spectrum Disorders,C1510586,FOXG1,2290,P55316,forkhead box G1,,224,0.522,0.692,0.94355,0.01,,1,1,0,2015,2015
+Autism Spectrum Disorders,C1510586,SBNO2,22904,Q9Y2G9,strawberry notch homolog 2,Enzyme,41,0.663,0.538,0.0070655,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,FAN1,22909,Q9Y2M0,FANCD2 and FANCI associated nuclease 1,,93,0.61,0.577,1.6512E-25,0.01,,1,1,0,2014,2014
+Autism Spectrum Disorders,C1510586,FOXF1,2294,Q12946,forkhead box F1,,135,0.54,0.692,0.95792,0.01,,1,1,0,2013,2013
+Autism Spectrum Disorders,C1510586,RIMS1,22999,Q86UR5,regulating synaptic membrane exocytosis 1,Enzyme modulator,32,0.7,0.231,0.9902,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,FOXE3,2301,Q13461,forkhead box E3,Transcription factor,118,0.568,0.654,0.18135,0.01,,1,1,0,2011,2011
+Autism Spectrum Disorders,C1510586,MYO16,23026,Q9Y6X6,myosin XVI,,33,0.722,0.308,0.99851,0.01,,1,1,0,2013,2013
+Autism Spectrum Disorders,C1510586,WDTC1,23038,Q8N5D0,WD and tetratricopeptide repeats 1,Enzyme modulator,28,0.691,0.5,0.99915,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,KIF21B,23046,O75037,kinesin family member 21B,Cellular structure,10,0.805,0.192,1.7695E-06,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,NCOA6,23054,Q14686,nuclear receptor coactivator 6,Nucleic acid binding,64,0.647,0.731,0.99913,0.01,,1,1,0,2007,2007
+Autism Spectrum Disorders,C1510586,KDM4C,23081,Q9H3R0,lysine demethylase 4C,,71,0.601,0.615,6.5189E-07,0.01,,1,1,1,2010,2010
+Autism Spectrum Disorders,C1510586,ERC1,23085,Q8IUD2,ELKS/RAB6-interacting/CAST family member 1,Enzyme modulator,15,0.78,0.385,1.0574E-07,0.01,,1,1,0,2014,2014
+Autism Spectrum Disorders,C1510586,PEG10,23089,Q86TG7,paternally expressed 10,,75,0.597,0.615,0.87274,0.01,,1,1,0,2010,2010
+Autism Spectrum Disorders,C1510586,TNRC6B,23112,Q9UPQ9,trinucleotide repeat containing adaptor 6B,,25,0.751,0.462,1,0.01,,0,1,0,2014,2014
+Autism Spectrum Disorders,C1510586,TBC1D9,23158,Q6ZT07,TBC1 domain family member 9,Enzyme,491,0.399,0.846,0.000028039,0.01,,1,1,0,2010,2010
+Autism Spectrum Disorders,C1510586,KANK1,23189,Q14678,KN motif and ankyrin repeat domains 1,,56,0.641,0.538,7.9821E-18,0.01,,0,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,PLCB1,23236,Q9NQ66,phospholipase C beta 1,Enzyme,107,0.595,0.654,0.98337,0.01,,1,1,0,2015,2015
+Autism Spectrum Disorders,C1510586,ADGRL3,23284,Q9HAR2,adhesion G protein-coupled receptor L3,G-protein coupled receptor,25,0.729,0.385,1,0.01,,1,1,1,2019,2019
+Autism Spectrum Disorders,C1510586,DMXL2,23312,Q8TDJ6,Dmx like 2,,37,0.695,0.538,1,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,SATB2,23314,Q9UPW6,SATB homeobox 2,Transcription factor,233,0.503,0.769,0.99999,0.01,,1,1,0,2013,2013
+Autism Spectrum Disorders,C1510586,CUX2,23316,O14529,cut like homeobox 2,Transcription factor,87,0.644,0.5,1,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,SYNE1,23345,Q8NF91,spectrin repeat containing nuclear envelope protein 1,,237,0.511,0.846,3.1899E-52,0.01,,1,1,0,2013,2013
+Autism Spectrum Disorders,C1510586,ATP13A2,23400,Q9NQ11,ATPase cation transporting 13A2,,160,0.566,0.577,8.9582E-09,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,SIRT1,23411,Q96EB6,sirtuin 1,Epigenetic regulator,675,0.378,0.885,0.087326,0.01,,1,1,0,2017,2017
+Autism Spectrum Disorders,C1510586,SLC7A8,23428,Q9UHI5,solute carrier family 7 member 8,Transporter,18,0.743,0.423,5.1068E-08,0.01,,1,1,0,2020,2020
+Autism Spectrum Disorders,C1510586,SLC35A3,23443,Q9Y2D2,solute carrier family 35 member A3,Transporter,30,0.716,0.308,0.0026044,0.01,,1,1,0,2013,2013
+Autism Spectrum Disorders,C1510586,FOLR2,2350,P14207,folate receptor beta,,105,0.559,0.654,5.4816E-06,0.01,,1,1,1,2017,2017
+Autism Spectrum Disorders,C1510586,TNPO3,23534,Q9Y5L0,transportin 3,Transporter,66,0.663,0.577,1.7546E-06,0.01,,1,1,0,2020,2020
+Autism Spectrum Disorders,C1510586,MAPK8IP2,23542,Q13387,mitogen-activated protein kinase 8 interacting protein 2,Signaling,51,0.628,0.654,0.99997,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,SEZ6L,23544,Q9BYH1,seizure related 6 homolog like,,16,0.769,0.346,0.50741,0.01,,1,1,1,2015,2015
+Autism Spectrum Disorders,C1510586,PSD4,23550,Q8NDX1,pleckstrin and Sec7 domain containing 4,,37,0.691,0.462,0.42272,0.01,,1,1,0,2017,2017
+Autism Spectrum Disorders,C1510586,TSPAN12,23554,O95859,tetraspanin 12,,44,0.656,0.5,0.69473,0.01,,1,1,0,2011,2011
+Autism Spectrum Disorders,C1510586,BACE1,23621,P56817,beta-secretase 1,Enzyme,120,0.559,0.769,0.87888,0.01,,1,1,0,2020,2020
+Autism Spectrum Disorders,C1510586,IL17RA,23765,Q96F46,interleukin 17 receptor A,,159,0.529,0.808,0.00035636,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,FRA7A,2408,,"fragile site, folic acid type, rare, fra(7)(p11.2)",,2,1,0.038,,0.01,,1,1,0,2014,2014
+Autism Spectrum Disorders,C1510586,FRAXE,2481,,"fragile site, folic acid type, rare, fra(X)(q28) E",,50,0.636,0.462,,0.01,,1,1,0,2015,2015
+Autism Spectrum Disorders,C1510586,FYN,2534,P06241,"FYN proto-oncogene, Src family tyrosine kinase",Kinase,116,0.556,0.731,0.99406,0.01,,1,1,0,2017,2017
+Autism Spectrum Disorders,C1510586,KCTD13,253980,Q8WZ19,potassium channel tetramerization domain containing 13,,12,0.821,0.154,0.00091544,0.01,,1,1,0,2020,2020
+Autism Spectrum Disorders,C1510586,XRCC6,2547,P12956,X-ray repair cross complementing 6,Enzyme,119,0.552,0.769,0.99904,0.01,,1,1,0,2020,2020
+Autism Spectrum Disorders,C1510586,GABPA,2551,Q06546,GA binding protein transcription factor subunit alpha,Transcription factor,632,0.379,0.885,0.99812,0.01,,0,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,GABRA4,2557,P48169,gamma-aminobutyric acid type A receptor subunit alpha4,Ion channel,22,0.751,0.308,0.7786,0.01,,1,1,1,2018,2018
+Autism Spectrum Disorders,C1510586,GABRG1,2565,Q8N1C3,gamma-aminobutyric acid type A receptor subunit gamma1,Ion channel,11,0.78,0.192,0.000097634,0.01,,1,1,0,2011,2011
+Autism Spectrum Disorders,C1510586,NEGR1,257194,Q7Z3B1,neuronal growth regulator 1,,40,0.695,0.577,0.99173,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,GAD2,2572,Q05329,glutamate decarboxylase 2,Enzyme,173,0.529,0.731,0.75083,0.01,,1,1,0,2017,2017
+Autism Spectrum Disorders,C1510586,PART1,25859,,prostate androgen-regulated transcript 1,,250,0.483,0.885,,0.01,,1,1,0,2017,2017
+Autism Spectrum Disorders,C1510586,RNF19A,25897,Q9NV58,"ring finger protein 19A, RBR E3 ubiquitin protein ligase",Enzyme,523,0.397,0.923,0.025305,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,RAB11FIP5,26056,Q9BXF6,RAB11 family interacting protein 5,,11,0.805,0.231,0.0014636,0.01,,1,1,0,2008,2008
+Autism Spectrum Disorders,C1510586,POLDIP2,26073,Q9Y2S7,DNA polymerase delta interacting protein 2,,530,0.396,0.923,0.41407,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,ZBTB20,26137,Q9HC78,zinc finger and BTB domain containing 20,,139,0.566,0.731,0.97382,0.01,,1,1,0,2013,2013
+Autism Spectrum Disorders,C1510586,NOC2L,26155,Q9Y3T9,NOC2 like nucleolar associated transcriptional repressor,,80,0.593,0.731,2.8933E-29,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,GATA4,2626,P43694,GATA binding protein 4,,336,0.458,0.846,0.49308,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,IL1RAPL2,26280,Q9NP60,interleukin 1 receptor accessory protein like 2,Receptor,9,0.78,0.385,0.98424,0.01,,1,1,0,2011,2011
+Autism Spectrum Disorders,C1510586,SEZ6L2,26470,Q6UXD5,seizure related 6 homolog like 2,,20,0.769,0.231,0.11743,0.01,,0,1,0,2011,2011
+Autism Spectrum Disorders,C1510586,OPN1MW,2652,P04001;P0DN77;P0DN78,"opsin 1, medium wave sensitive",G-protein coupled receptor,107,0.572,0.769,0.037781,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,ELP4,26610,Q96EB1,elongator acetyltransferase complex subunit 4,,36,0.666,0.462,1.2277E-07,0.01,,1,1,0,2015,2015
+Autism Spectrum Disorders,C1510586,GDI1,2664,P31150,GDP dissociation inhibitor 1,Enzyme,102,0.572,0.654,0.99471,0.01,,1,1,0,2014,2014
+Autism Spectrum Disorders,C1510586,GDNF,2668,P39905,glial cell derived neurotrophic factor,Signaling,409,0.434,0.885,0.2035,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,GEM,2669,P55040,GTP binding protein overexpressed in skeletal muscle,,251,0.467,0.769,1.179E-08,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,DAOA,267012,P59103,D-amino acid oxidase activator,,39,0.678,0.346,0.00014043,0.01,,1,1,0,2007,2007
+Autism Spectrum Disorders,C1510586,LAT,27040,O43561,linker for activation of T cells,,124,0.548,0.731,0.0092377,0.01,,1,1,0,2020,2020
+Autism Spectrum Disorders,C1510586,SND1,27044,Q7KZF4,staphylococcal nuclease and tudor domain containing 1,Transcription factor,101,0.576,0.769,0.98213,0.01,,1,1,1,2010,2010
+Autism Spectrum Disorders,C1510586,INTU,27152,Q9ULD6,inturned planar cell polarity protein,,134,0.555,0.769,7.6977E-10,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,IL37,27178,Q9NZH6,interleukin 37,,280,0.459,0.846,0.00012343,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,DISC2,27184,,disrupted in schizophrenia 2,,23,0.716,0.192,,0.01,,1,1,0,2009,2009
+Autism Spectrum Disorders,C1510586,DISC1,27185,Q9NRI5,DISC1 scaffold protein,,136,0.548,0.769,1.6756E-06,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,HPGDS,27306,O60760,hematopoietic prostaglandin D synthase,,570,0.388,0.923,1.8063E-06,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,RPS6KA6,27330,Q9UK32,ribosomal protein S6 kinase A6,Kinase,37,0.686,0.385,0.9865,0.01,,1,1,0,2011,2011
+Autism Spectrum Disorders,C1510586,AMT,275,P48728,aminomethyltransferase,,60,0.674,0.692,0.0027214,0.01,,1,1,0,2013,2013
+Autism Spectrum Disorders,C1510586,GLUL,2752,P15104,glutamate-ammonia ligase,Enzyme,200,0.513,0.731,0.9957,0.01,,1,1,0,2017,2017
+Autism Spectrum Disorders,C1510586,AMY1A,276,P04745,amylase alpha 1A,,65,0.644,0.731,0.00032325,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,AMY1B,277,P04745,amylase alpha 1B,,63,0.647,0.731,0.00060271,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,AMY1C,278,P04745,amylase alpha 1C,,63,0.647,0.731,0.0033974,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,NEAT1,283131,,nuclear paraspeckle assembly transcript 1,,179,0.502,0.769,,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,ANGPT1,284,Q15389,angiopoietin 1,Signaling,340,0.446,0.808,0.95208,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,WDR62,284403,O43379,WD repeat domain 62,,83,0.597,0.615,2.3562E-23,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,MIF-AS1,284889,,MIF antisense RNA 1,,38,0.663,0.577,,0.01,,1,1,0,2008,2008
+Autism Spectrum Disorders,C1510586,GPR42,2866,O15529,G protein-coupled receptor 42 (gene/pseudogene),G-protein coupled receptor,255,0.475,0.846,0.050905,0.01,,1,1,0,2017,2017
+Autism Spectrum Disorders,C1510586,ANK2,287,Q01484,ankyrin 2,,71,0.626,0.538,1,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,GRIK4,2900,Q16099,glutamate ionotropic receptor kainate type subunit 4,Ion channel,41,0.678,0.423,0.11126,0.01,,1,1,0,2015,2015
+Autism Spectrum Disorders,C1510586,NR3C1,2908,P04150,nuclear receptor subfamily 3 group C member 1,Nuclear receptor,590,0.393,0.885,0.96958,0.01,,1,1,0,2016,2016
+Autism Spectrum Disorders,C1510586,GRM2,2912,Q14416,glutamate metabotropic receptor 2,G-protein coupled receptor,104,0.582,0.577,0.12019,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,GRM8,2918,O00222,glutamate metabotropic receptor 8,G-protein coupled receptor,56,0.636,0.577,4.5334E-07,0.01,,1,1,0,2008,2008
+Autism Spectrum Disorders,C1510586,GRPR,2925,P30550,gastrin releasing peptide receptor,G-protein coupled receptor,85,0.595,0.538,0.22444,0.01,,0,1,1,2008,2008
+Autism Spectrum Disorders,C1510586,GSK3B,2932,P49841,glycogen synthase kinase 3 beta,Kinase,393,0.43,0.846,0.95571,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,GSR,2936,P00390,glutathione-disulfide reductase,Enzyme,206,0.494,0.846,1.2922E-06,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,GSTA1,2938,P08263,glutathione S-transferase alpha 1,,108,0.561,0.731,1.7305E-06,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,GSTM1,2944,P09488,glutathione S-transferase mu 1,,627,0.38,0.923,0.0020641,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,GSTT1,2952,P30711,glutathione S-transferase theta 1,,541,0.393,0.923,0.00014834,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,DNMT3L,29947,Q9UJW3,DNA methyltransferase 3 like,,43,0.638,0.423,8.415E-13,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,NXPH1,30010,P58417,neurexophilin 1,Signaling,25,0.711,0.385,0.4837,0.01,,1,1,0,2011,2011
+Autism Spectrum Disorders,C1510586,GZMB,3002,P10144,granzyme B,Enzyme,290,0.453,0.808,3.6674E-14,0.01,,1,1,0,2009,2009
+Autism Spectrum Disorders,C1510586,H1-4,3008,P10412,"H1.4 linker histone, cluster member",Nucleic acid binding,34,0.682,0.385,0.18608,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,HAGH,3029,Q16775,hydroxyacylglutathione hydrolase,,20,0.729,0.462,0.00017657,0.01,,1,1,0,2015,2015
+Autism Spectrum Disorders,C1510586,UBE2K,3093,P61086,ubiquitin conjugating enzyme E2 K,,58,0.631,0.654,0.98621,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,ACACA,31,Q13085,acetyl-CoA carboxylase alpha,,241,0.48,0.846,1,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,HLA-A,3105,P04439,"major histocompatibility complex, class I, A",,672,0.37,0.846,0.0013299,0.01,,1,1,0,2011,2011
+Autism Spectrum Disorders,C1510586,HLA-DPA1,3113,P20036,"major histocompatibility complex, class II, DP alpha 1",Immune response,139,0.552,0.846,0.0000025,0.01,,1,1,0,2020,2020
+Autism Spectrum Disorders,C1510586,HLA-DPB1,3115,P04440,"major histocompatibility complex, class II, DP beta 1",Immune response,324,0.453,0.923,5.3254E-10,0.01,,1,1,0,2020,2020
+Autism Spectrum Disorders,C1510586,HMGN1,3150,P05114,high mobility group nucleosome binding domain 1,Nucleic acid binding,26,0.711,0.538,0.20661,0.01,,1,1,0,2011,2011
+Autism Spectrum Disorders,C1510586,NR4A1,3164,P22736,nuclear receptor subfamily 4 group A member 1,Nuclear receptor,216,0.49,0.731,0.37074,0.01,,1,1,0,2016,2016
+Autism Spectrum Disorders,C1510586,TAAR6,319100,Q96RI8,trace amine associated receptor 6,G-protein coupled receptor,12,0.78,0.231,0.016668,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,HOXB8,3218,P17481,homeobox B8,,46,0.636,0.538,0.84752,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,HOXD@,3230,,homeobox D cluster,,52,0.631,0.538,,0.01,,1,1,0,2010,2010
+Autism Spectrum Disorders,C1510586,HOXD11,3237,P31277,homeobox D11,,45,0.67,0.462,0.0011418,0.01,,1,1,0,2010,2010
+Autism Spectrum Disorders,C1510586,APC,324,P25054,APC regulator of WNT signaling pathway,,703,0.373,0.962,1,0.01,,1,1,2,2007,2007
+Autism Spectrum Disorders,C1510586,APCS,325,P02743,"amyloid P component, serum",,141,0.531,0.808,0.031714,0.01,,1,1,0,2020,2020
+Autism Spectrum Disorders,C1510586,HRAS,3265,P01112,"HRas proto-oncogene, GTPase",Enzyme modulator,698,0.378,0.885,0.079774,0.01,,1,1,0,2015,2015
+Autism Spectrum Disorders,C1510586,AGFG1,3267,P52594,ArfGAP with FG repeats 1,,100,0.569,0.769,0.99276,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,HES1,3280,Q14469,hes family bHLH transcription factor 1,Transcription factor,243,0.468,0.885,0.7072,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,HSPA1A,3303,P0DMV8;P0DMV9,heat shock protein family A (Hsp70) member 1A,,229,0.486,0.769,0.030228,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,HSPA1B,3304,P0DMV8;P0DMV9,heat shock protein family A (Hsp70) member 1B,,251,0.474,0.808,0.0053464,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,HSPA4,3308,P34932,heat shock protein family A (Hsp70) member 4,,550,0.394,0.923,0.99954,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,HTR1A,3350,P08908,5-hydroxytryptamine receptor 1A,G-protein coupled receptor,229,0.522,0.846,0.19956,0.01,,1,1,0,2016,2016
+Autism Spectrum Disorders,C1510586,HTR1B,3351,P28222,5-hydroxytryptamine receptor 1B,G-protein coupled receptor,140,0.551,0.769,0.18947,0.01,,1,1,0,2009,2009
+Autism Spectrum Disorders,C1510586,HTR2C,3358,P28335,5-hydroxytryptamine receptor 2C,G-protein coupled receptor,140,0.555,0.692,0.037023,0.01,,1,1,0,2009,2009
+Autism Spectrum Disorders,C1510586,HTR7,3363,P34969,5-hydroxytryptamine receptor 7,G-protein coupled receptor,103,0.592,0.5,0.045409,0.01,,1,1,0,2016,2016
+Autism Spectrum Disorders,C1510586,ICA1,3382,Q05084,islet cell autoantigen 1,,34,0.686,0.5,0.00099069,0.01,,1,1,0,2011,2011
+Autism Spectrum Disorders,C1510586,NANOS1,340719,Q8WY41,nanos C2HC-type zinc finger 1,,31,0.7,0.423,0.54106,0.01,,1,1,0,2009,2009
+Autism Spectrum Disorders,C1510586,APOC1,341,P02654,apolipoprotein C1,,95,0.581,0.577,0.21685,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,IDS,3423,P22304,iduronate 2-sulfatase,,136,0.559,0.769,0.94725,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,TGM6,343641,O95932,transglutaminase 6,,54,0.644,0.423,1.1154E-24,0.01,,0,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,APOD,347,P05090,apolipoprotein D,,89,0.584,0.577,0.00054449,0.01,,1,1,0,2017,2017
+Autism Spectrum Disorders,C1510586,SERINC2,347735,Q96SA4,serine incorporator 2,,15,0.792,0.192,3.9153E-13,0.01,,1,1,0,2017,2017
+Autism Spectrum Disorders,C1510586,IGFBP5,3488,P24593,insulin like growth factor binding protein 5,Enzyme modulator,126,0.544,0.692,0.96283,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,ZNF713,349075,Q8N859,zinc finger protein 713,,7,0.931,0.038,4.3462E-06,0.01,,1,1,0,2014,2014
+Autism Spectrum Disorders,C1510586,APP,351,P05067,amyloid beta precursor protein,Enzyme modulator,485,0.422,0.846,0.046544,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,IL1RAP,3556,Q9NPH3,interleukin 1 receptor accessory protein,Receptor,49,0.647,0.654,0.25846,0.01,,1,1,0,2017,2017
+Autism Spectrum Disorders,C1510586,IL1RN,3557,P18510,interleukin 1 receptor antagonist,,701,0.373,0.923,0.030914,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,IL7,3574,P13232,interleukin 7,,275,0.464,0.808,0.92574,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,IL15,3600,P40933,interleukin 15,,426,0.422,0.846,0.70859,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,IL16,3603,Q14005,interleukin 16,Signaling,193,0.501,0.846,1.2449E-10,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,INS,3630,P01308,insulin,,405,0.445,0.923,0.30091,0.01,,1,1,0,2011,2011
+Autism Spectrum Disorders,C1510586,INSR,3643,P06213,insulin receptor,Kinase,452,0.432,0.846,0.000036145,0.01,,1,1,0,2016,2016
+Autism Spectrum Disorders,C1510586,IRF1,3659,P10914,interferon regulatory factor 1,Transcription factor,257,0.468,0.769,0.9909,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,IRS1,3667,P35568,insulin receptor substrate 1,,233,0.488,0.769,0.023645,0.01,,1,1,1,2016,2016
+Autism Spectrum Disorders,C1510586,ITPR1,3708,Q14643,"inositol 1,4,5-trisphosphate receptor type 1",Ion channel,185,0.534,0.846,1,0.01,,1,1,0,2015,2015
+Autism Spectrum Disorders,C1510586,JAK2,3717,O60674,Janus kinase 2,Kinase,644,0.385,0.885,0.65372,0.01,,1,1,0,2020,2020
+Autism Spectrum Disorders,C1510586,PTCHD3,374308,Q3KNS1,patched domain containing 3,,10,0.839,0.269,3.3312E-10,0.01,,1,1,0,2011,2011
+Autism Spectrum Disorders,C1510586,EFCAB5,374786,A4FU69,EF-hand calcium binding domain 5,,3,0.931,0.077,4.1975E-23,0.01,,1,1,0,2015,2015
+Autism Spectrum Disorders,C1510586,KCNJ2,3759,P63252,potassium inwardly rectifying channel subfamily J member 2,Ion channel,117,0.572,0.731,0.30653,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,KCNMA1,3778,Q12791,potassium calcium-activated channel subfamily M alpha 1,Ion channel,205,0.518,0.846,0.99731,0.01,,1,1,0,2020,2020
+Autism Spectrum Disorders,C1510586,KCNQ2,3785,O43526,potassium voltage-gated channel subfamily Q member 2,Ion channel,175,0.537,0.654,0.99998,0.01,,1,1,0,2013,2013
+Autism Spectrum Disorders,C1510586,LINC-PINT,378805,,"long intergenic non-protein coding RNA, p53 induced transcript",,46,0.663,0.577,,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,KIR2DS1,3806,Q14954,"killer cell immunoglobulin like receptor, two Ig domains and short cytoplasmic tail 1",Receptor,123,0.537,0.769,,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,KIR3DL1,3811,P43629,"killer cell immunoglobulin like receptor, three Ig domains and long cytoplasmic tail 1",Receptor,231,0.475,0.769,8.3578E-14,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,KLRC2,3822,P26717,killer cell lectin like receptor C2,,50,0.636,0.731,4.8735E-10,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,KNG1,3827,P01042,kininogen 1,Enzyme modulator,279,0.481,0.885,3.2071E-10,0.01,,1,1,0,2016,2016
+Autism Spectrum Disorders,C1510586,KRT7,3855,P08729,keratin 7,,287,0.463,0.808,3.0861E-12,0.01,,0,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,L1CAM,3897,P32004,L1 cell adhesion molecule,,289,0.475,0.769,1,0.01,,1,1,0,2014,2014
+Autism Spectrum Disorders,C1510586,LAMB1,3912,P07942,laminin subunit beta 1,Enzyme modulator,75,0.615,0.654,5.0687E-22,0.01,,1,1,3,2015,2015
+Autism Spectrum Disorders,C1510586,LDHB,3945,P07195,lactate dehydrogenase B,Enzyme,74,0.604,0.615,4.9734E-06,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,LGALS7,3963,P47929,galectin 7,Signaling,73,0.599,0.769,0.14567,0.01,,1,1,0,2006,2006
+Autism Spectrum Disorders,C1510586,LIG4,3981,P49917,DNA ligase 4,,293,0.478,0.846,4.1635E-06,0.01,,1,1,0,2014,2014
+Autism Spectrum Disorders,C1510586,FADS1,3992,O60427,fatty acid desaturase 1,,125,0.582,0.769,0.37384,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,LMNA,4000,P02545,lamin A/C,,824,0.384,0.885,0.9994,0.01,,1,1,0,2017,2017
+Autism Spectrum Disorders,C1510586,C4orf3,401152,Q8WVX3,chromosome 4 open reading frame 3,,33,0.674,0.577,0.30797,0.01,,1,1,0,2009,2009
+Autism Spectrum Disorders,C1510586,LNPEP,4012,Q9UIQ6,leucyl and cystinyl aminopeptidase,Enzyme,174,0.514,0.731,0.99957,0.01,,1,1,0,2017,2017
+Autism Spectrum Disorders,C1510586,LRP2,4036,P98164,LDL receptor related protein 2,,254,0.491,0.846,0.99999,0.01,,1,1,0,2012,2012
+Autism Spectrum Disorders,C1510586,LTA,4049,P01374,lymphotoxin alpha,Signaling,353,0.434,0.885,0.19685,0.01,,1,1,0,2013,2013
+Autism Spectrum Disorders,C1510586,ARNTL,406,O00327,aryl hydrocarbon receptor nuclear translocator like,Transcription factor,200,0.51,0.885,0.99444,0.01,,1,1,0,2017,2017
+Autism Spectrum Disorders,C1510586,SH2D1A,4068,O60880,SH2 domain containing 1A,,160,0.525,0.731,0.38935,0.01,,1,1,0,2020,2020
+Autism Spectrum Disorders,C1510586,LYZ,4069,P61626,lysozyme,,178,0.526,0.846,3.4114E-06,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,MIR124-1,406907,,microRNA 124-1,,38,0.663,0.5,,0.01,,1,1,0,2017,2017
+Autism Spectrum Disorders,C1510586,MIR140,406932,,microRNA 140,,144,0.522,0.769,,0.01,,1,1,0,2017,2017
+Autism Spectrum Disorders,C1510586,MIR21,406991,,microRNA 21,,726,0.363,0.846,,0.01,,1,1,0,2016,2016
+Autism Spectrum Disorders,C1510586,MIR34B,407041,,microRNA 34b,,165,0.509,0.808,,0.01,,1,1,0,2015,2015
+Autism Spectrum Disorders,C1510586,ARSA,410,P15289,arylsulfatase A,Enzyme,376,0.448,0.923,1.0893E-11,0.01,,1,1,0,2017,2017
+Autism Spectrum Disorders,C1510586,STS,412,P08842,steroid sulfatase,Enzyme,382,0.431,0.846,0.80886,0.01,,1,1,0,2017,2017
+Autism Spectrum Disorders,C1510586,MAPT,4137,P10636,microtubule associated protein tau,,469,0.446,0.923,0.0060258,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,MARK1,4139,Q9P0L2,microtubule affinity regulating kinase 1,Kinase,40,0.663,0.577,0.60045,0.01,,1,1,0,2008,2008
+Autism Spectrum Disorders,C1510586,MDK,4192,P21741,midkine,Signaling,209,0.494,0.808,0.23005,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,MEFV,4210,O15553,"MEFV innate immuity regulator, pyrin",,410,0.44,0.885,1.0177E-14,0.01,,1,1,0,2013,2013
+Autism Spectrum Disorders,C1510586,MIP,4284,P30301,major intrinsic protein of lens fiber,Ion channel,181,0.507,0.846,0.030956,0.01,,1,1,0,2017,2017
+Autism Spectrum Disorders,C1510586,MLF1,4291,P58340,myeloid leukemia factor 1,Signaling,37,0.666,0.385,4.3955E-09,0.01,,1,1,0,2017,2017
+Autism Spectrum Disorders,C1510586,NR3C2,4306,P08235,nuclear receptor subfamily 3 group C member 2,Nuclear receptor,287,0.469,0.846,0.83739,0.01,,1,1,1,2016,2016
+Autism Spectrum Disorders,C1510586,MME,4311,P08473,membrane metalloendopeptidase,Enzyme,470,0.407,0.808,1.465E-18,0.01,,1,1,0,2016,2016
+Autism Spectrum Disorders,C1510586,MMP3,4314,P08254,matrix metallopeptidase 3,Enzyme,473,0.408,0.885,5.7362E-15,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,MDD1,431708,,Major depressive disorder,,37,0.682,0.308,,0.01,,1,1,0,2020,2020
+Autism Spectrum Disorders,C1510586,MNT,4335,Q99583,MAX network transcriptional repressor,Transcription factor,39,0.663,0.615,0.99739,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,MOG,4340,Q16653,myelin oligodendrocyte glycoprotein,Enzyme modulator,136,0.546,0.731,0.13748,0.01,,1,1,1,2015,2015
+Autism Spectrum Disorders,C1510586,MRC1,4360,P22897,mannose receptor C-type 1,,431,0.413,0.846,0.94335,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,MSNP1,4479,,moesin pseudogene 1,,2,0.931,0.038,,0.01,,1,1,0,2016,2016
+Autism Spectrum Disorders,C1510586,MSX1,4487,P28360,msh homeobox 1,Transcription factor,180,0.525,0.731,0.16517,0.01,,1,1,0,2013,2013
+Autism Spectrum Disorders,C1510586,MSX2,4488,P35548,msh homeobox 2,Transcription factor,135,0.539,0.769,0.26173,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,COX2,4513,P00403,cytochrome c oxidase subunit II,Enzyme,875,0.352,0.962,,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,MTRR,4552,Q9UBK8,5-methyltetrahydrofolate-homocysteine methyltransferase reductase,,207,0.502,0.808,2.1794E-14,0.01,,1,1,1,2018,2018
+Autism Spectrum Disorders,C1510586,MUSK,4593,O15146,muscle associated receptor tyrosine kinase,Kinase,146,0.57,0.769,4.2474E-08,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,MYH6,4624,P13533,myosin heavy chain 6,,104,0.581,0.615,1.5952E-32,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,MYH10,4628,P35580,myosin heavy chain 10,,31,0.705,0.423,1,0.01,,1,1,0,2016,2016
+Autism Spectrum Disorders,C1510586,NCAM2,4685,O15394,neural cell adhesion molecule 2,,21,0.736,0.5,0.2306,0.01,,1,1,0,2016,2016
+Autism Spectrum Disorders,C1510586,NDUFS1,4719,P28331,NADH:ubiquinone oxidoreductase core subunit S1,Enzyme,112,0.595,0.692,6.626E-11,0.01,,1,1,0,2010,2010
+Autism Spectrum Disorders,C1510586,NDUFV1,4723,P49821,NADH:ubiquinone oxidoreductase core subunit V1,,94,0.617,0.538,6.3562E-11,0.01,,1,1,0,2015,2015
+Autism Spectrum Disorders,C1510586,RERE,473,Q9P2R6,arginine-glutamic acid dipeptide repeats,,215,0.526,0.846,1,0.01,,1,1,0,2016,2016
+Autism Spectrum Disorders,C1510586,NEO1,4756,Q92859,neogenin 1,,60,0.623,0.692,0.24398,0.01,,1,1,0,2016,2016
+Autism Spectrum Disorders,C1510586,NFE2L2,4780,Q16236,"nuclear factor, erythroid 2 like 2",Enzyme,823,0.357,0.885,0.0035719,0.01,,0,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,NFIB,4781,O00712,nuclear factor I B,Nucleic acid binding,102,0.573,0.654,0.99861,0.01,,1,1,0,2012,2012
+Autism Spectrum Disorders,C1510586,NFKB1,4790,P19838,nuclear factor kappa B subunit 1,Transcription factor,551,0.396,0.923,1,0.01,,0,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,NGFR,4804,P08138,nerve growth factor receptor,Receptor,256,0.477,0.846,0.097889,0.01,,1,1,0,2014,2014
+Autism Spectrum Disorders,C1510586,NOS1,4842,P29475,nitric oxide synthase 1,,521,0.408,0.885,1,0.01,,1,1,0,2009,2009
+Autism Spectrum Disorders,C1510586,NOS2,4843,P35228,nitric oxide synthase 2,,783,0.364,0.923,4.0277E-15,0.01,,1,1,2,2015,2015
+Autism Spectrum Disorders,C1510586,NOTCH1,4851,P46531,notch receptor 1,,693,0.369,0.885,1,0.01,,1,1,0,2016,2016
+Autism Spectrum Disorders,C1510586,NPY,4852,P01303,neuropeptide Y,Signaling,381,0.447,0.846,0.14294,0.01,,1,1,0,2017,2017
+Autism Spectrum Disorders,C1510586,NPPA,4878,P01160,natriuretic peptide A,,217,0.505,0.769,0.00054522,0.01,,1,1,0,2017,2017
+Autism Spectrum Disorders,C1510586,ATP2B2,491,Q01814,ATPase plasma membrane Ca2+ transporting 2,Transporter,51,0.659,0.731,1,0.01,,1,1,4,2011,2011
+Autism Spectrum Disorders,C1510586,NTRK1,4914,P04629,neurotrophic receptor tyrosine kinase 1,Kinase,443,0.422,0.808,1.9568E-06,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,NTS,4922,P30990,neurotensin,,184,0.517,0.769,0.000038527,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,OGG1,4968,O15527,8-oxoguanine DNA glycosylase,,313,0.453,0.808,3.9314E-12,0.01,,1,1,0,2016,2016
+Autism Spectrum Disorders,C1510586,BDNF-AS,497258,,BDNF antisense RNA,,77,0.638,0.538,,0.01,,1,1,3,2015,2015
+Autism Spectrum Disorders,C1510586,OPRK1,4986,P41145,opioid receptor kappa 1,G-protein coupled receptor,156,0.555,0.615,0.000040625,0.01,,1,1,0,2016,2016
+Autism Spectrum Disorders,C1510586,OTX1,5013,P32242,orthodenticle homeobox 1,Transcription factor,35,0.686,0.385,0.85508,0.01,,1,1,0,2011,2011
+Autism Spectrum Disorders,C1510586,P2RX7,5027,Q99572,purinergic receptor P2X 7,Ion channel,337,0.45,0.808,3.3344E-11,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,ARHGEF3,50650,Q9NR81,Rho guanine nucleotide exchange factor 3,,21,0.751,0.346,0.0040454,0.01,,1,1,0,2017,2017
+Autism Spectrum Disorders,C1510586,PAM,5066,P19021,peptidylglycine alpha-amidating monooxygenase,Enzyme,155,0.542,0.692,0.000006934,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,PAX3,5077,P23760,paired box 3,,257,0.481,0.769,0.24063,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,NTM,50863,Q9P121,neurotrimin,,58,0.644,0.577,0.057798,0.01,,1,1,0,2015,2015
+Autism Spectrum Disorders,C1510586,ASCC1,51008,Q8N9N2,activating signal cointegrator 1 complex subunit 1,,209,0.495,0.846,2.6051E-14,0.01,,0,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,SERPINA5,5104,P05154,serpin family A member 5,Enzyme modulator,185,0.507,0.808,6.2368E-09,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,KMT5B,51111,Q4FZB7,lysine methyltransferase 5B,Epigenetic regulator,27,0.736,0.423,1,0.01,,1,1,0,2015,2015
+Autism Spectrum Disorders,C1510586,RMDN1,51115,Q96DB5,regulator of microtubule dynamics 1,,123,0.546,0.769,5.8995E-10,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,AADAT,51166,Q8N5Z0,aminoadipate aminotransferase,Enzyme,19,0.76,0.269,0.14641,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,PCYT1A,5130,P49585,"phosphate cytidylyltransferase 1, choline, alpha",,256,0.485,0.885,0.00002024,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,PLAC8,51316,Q9NZF1,placenta associated 8,,48,0.641,0.654,0.11953,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,PLA1A,51365,Q53H76,phospholipase A1 member A,Enzyme,35,0.678,0.5,4.3709E-11,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,PRKAG2,51422,Q9UGJ0,protein kinase AMP-activated non-catalytic subunit gamma 2,Enzyme modulator,122,0.582,0.654,0.99692,0.01,,1,1,0,2020,2020
+Autism Spectrum Disorders,C1510586,PRRX2,51450,Q99811,paired related homeobox 2,,46,0.638,0.577,0.13959,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,SCLY,51540,Q96I15,selenocysteine lyase,Enzyme,161,0.53,0.731,2.3341E-09,0.01,,0,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,IL23A,51561,Q9NPF7,interleukin 23 subunit alpha,Signaling,427,0.415,0.846,0.35806,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,PDZK1,5174,Q5T2W1,PDZ domain containing 1,,47,0.65,0.654,1.1586E-09,0.01,,1,1,0,2014,2014
+Autism Spectrum Disorders,C1510586,ARID4B,51742,Q4LE39,AT-rich interaction domain 4B,Transcription factor,62,0.631,0.615,1,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,PER1,5187,O15534,period circadian regulator 1,Transcription factor,111,0.556,0.731,0.00029308,0.01,,1,1,0,2016,2016
+Autism Spectrum Disorders,C1510586,PF4,5196,P02776,platelet factor 4,Signaling,158,0.522,0.846,0.043062,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,CFP,5199,P27918,complement factor properdin,,108,0.573,0.692,0.68778,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,ABCB1,5243,P08183,ATP binding cassette subfamily B member 1,Transporter,933,0.344,0.885,0.000012564,0.01,,1,1,0,2010,2010
+Autism Spectrum Disorders,C1510586,PITX3,5309,O75364,paired like homeodomain 3,,93,0.585,0.692,0.81276,0.01,,1,1,0,2014,2014
+Autism Spectrum Disorders,C1510586,PKD2,5311,Q13563,"polycystin 2, transient receptor potential cation channel",Ion channel,122,0.552,0.731,0.00017271,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,PLAUR,5329,Q03405,"plasminogen activator, urokinase receptor",,147,0.536,0.731,0.0053378,0.01,,1,1,1,2008,2008
+Autism Spectrum Disorders,C1510586,PLG,5340,P00747,plasminogen,Enzyme,586,0.389,0.923,0.010345,0.01,,1,1,0,2011,2011
+Autism Spectrum Disorders,C1510586,STX18,53407,Q9P2W9,syntaxin 18,Transporter,12,0.78,0.269,2.4881E-07,0.01,,1,1,0,2013,2013
+Autism Spectrum Disorders,C1510586,SEPTIN5,5413,Q99719,septin 5,Enzyme modulator,29,0.691,0.462,0.92671,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,POR,5447,P16435,cytochrome p450 oxidoreductase,,218,0.502,0.769,3.4212E-10,0.01,,1,1,0,2017,2017
+Autism Spectrum Disorders,C1510586,POU3F2,5454,P20265,POU class 3 homeobox 2,,40,0.7,0.423,0.92007,0.01,,1,1,0,2011,2011
+Autism Spectrum Disorders,C1510586,GNB1L,54584,Q9BYB4,G protein subunit beta 1 like,,18,0.743,0.346,0.000047419,0.01,,1,1,0,2012,2012
+Autism Spectrum Disorders,C1510586,UGT1A1,54658,P22309,UDP glucuronosyltransferase family 1 member A1,,302,0.464,0.769,3.2577E-06,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,FBLIM1,54751,Q8WUP2,filamin binding LIM protein 1,Enzyme modulator,93,0.572,0.654,0.000053941,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,AHI1,54806,Q8N157,Abelson helper integration site 1,,221,0.513,0.846,1.0773E-25,0.01,,1,1,0,2008,2008
+Autism Spectrum Disorders,C1510586,ELOVL2,54898,Q9NXB9,ELOVL fatty acid elongase 2,Enzyme,26,0.722,0.423,8.3719E-10,0.01,,1,1,4,2018,2018
+Autism Spectrum Disorders,C1510586,RPP25,54913,Q9BUL9,ribonuclease P and MRP subunit p25,Enzyme,8,0.861,0.231,0.20939,0.01,,1,1,0,2010,2010
+Autism Spectrum Disorders,C1510586,PPL,5493,O60437,periplakin,Cellular structure,50,0.666,0.538,1.5145E-42,0.01,,1,1,0,2011,2011
+Autism Spectrum Disorders,C1510586,FAM120C,54954,Q9NX05,family with sequence similarity 120C,,5,0.861,0.192,0.99998,0.01,,1,1,0,2014,2014
+Autism Spectrum Disorders,C1510586,TESC,54997,Q96BS2,tescalcin,,97,0.57,0.692,0.10778,0.01,,1,1,0,2012,2012
+Autism Spectrum Disorders,C1510586,TUG1,55000,,taurine up-regulated 1,,134,0.522,0.769,,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,MOCOS,55034,Q96EN8,molybdenum cofactor sulfurase,,81,0.617,0.654,1.6193E-19,0.01,,1,1,0,2016,2016
+Autism Spectrum Disorders,C1510586,FEZF2,55079,Q8TBJ5,FEZ family zinc finger 2,,21,0.722,0.577,0.9886,0.01,,1,1,0,2013,2013
+Autism Spectrum Disorders,C1510586,RMDN3,55177,Q96TC7,regulator of microtubule dynamics 3,,134,0.534,0.769,0.000051687,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,SBNO1,55206,A3KN83,strawberry notch homolog 1,Enzyme,39,0.686,0.5,1,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,TMLHE,55217,Q9NVH6,"trimethyllysine hydroxylase, epsilon",,11,0.821,0.231,0.000079575,0.01,,1,1,0,2012,2012
+Autism Spectrum Disorders,C1510586,UBA6,55236,A0AVT1,ubiquitin like modifier activating enzyme 6,Enzyme,11,0.821,0.154,3.7296E-09,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,ELMOD1,55531,Q8N336,ELMO domain containing 1,Signaling,4,0.931,0.192,0.79258,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,POMGNT1,55624,Q8WZA1,"protein O-linked mannose N-acetylglucosaminyltransferase 1 (beta 1,2-)",,188,0.537,0.538,1.9454E-20,0.01,,1,1,0,2013,2013
+Autism Spectrum Disorders,C1510586,ZNF407,55628,Q9C0G0,zinc finger protein 407,Transcription factor,16,0.792,0.269,1,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,SYBU,55638,Q9NX95,syntabulin,Transporter,120,0.546,0.769,0.000097732,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,SLF2,55719,Q8IX21,SMC5-SMC6 complex localization factor 2,,3,0.931,0.115,2.8868E-06,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,PRKCB,5579,P05771,protein kinase C beta,Kinase,317,0.453,0.885,1,0.01,,1,1,1,2014,2014
+Autism Spectrum Disorders,C1510586,LRP2BP,55805,Q9P2M1,LRP2 binding protein,,10,0.821,0.269,2.3523E-06,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,TRERF1,55809,Q96PN7,transcriptional regulating factor 1,,22,0.729,0.346,1,0.01,,1,1,0,2017,2017
+Autism Spectrum Disorders,C1510586,PAG1,55824,Q9NWQ8,phosphoprotein membrane anchor with glycosphingolipid microdomains 1,,174,0.505,0.808,0.017764,0.01,,1,1,0,2016,2016
+Autism Spectrum Disorders,C1510586,ASH1L,55870,Q9NR48,ASH1 like histone lysine methyltransferase,,63,0.623,0.577,1,0.01,,1,1,0,2017,2017
+Autism Spectrum Disorders,C1510586,MAPK3,5595,P27361,mitogen-activated protein kinase 3,Kinase,647,0.379,0.885,0.036884,0.01,,1,1,0,2017,2017
+Autism Spectrum Disorders,C1510586,MAPK7,5598,Q13164,mitogen-activated protein kinase 7,Kinase,127,0.553,0.654,0.0031023,0.01,,1,1,0,2020,2020
+Autism Spectrum Disorders,C1510586,PRLR,5618,P16471,prolactin receptor,Signaling,110,0.572,0.692,0.98732,0.01,,1,1,0,2008,2008
+Autism Spectrum Disorders,C1510586,PRODH,5625,O43272,proline dehydrogenase 1,Enzyme,85,0.612,0.692,5.3577E-12,0.01,,1,1,0,2014,2014
+Autism Spectrum Disorders,C1510586,DIABLO,56616,Q9NR28,diablo IAP-binding mitochondrial protein,,108,0.555,0.692,2.5722E-06,0.01,,1,1,0,2017,2017
+Autism Spectrum Disorders,C1510586,PSEN2,5664,P49810,presenilin 2,Enzyme,146,0.55,0.654,0.00053736,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,RETN,56729,Q9HD89,resistin,,302,0.454,0.808,0.036545,0.01,,0,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,CELF4,56853,Q9BZC1,CUGBP Elav-like family member 4,,25,0.743,0.385,0.99817,0.01,,1,1,0,2017,2017
+Autism Spectrum Disorders,C1510586,ARNTL2,56938,Q8WYA1,aryl hydrocarbon receptor nuclear translocator like 2,Transcription factor,41,0.644,0.654,6.0435E-10,0.01,,1,1,0,2016,2016
+Autism Spectrum Disorders,C1510586,ACKR3,57007,P25106,atypical chemokine receptor 3,G-protein coupled receptor,400,0.428,0.885,0.39134,0.01,,1,1,0,2017,2017
+Autism Spectrum Disorders,C1510586,PCBP4,57060,P57723,poly(rC) binding protein 4,Enzyme,147,0.523,0.808,0.0023713,0.01,,1,1,0,2016,2016
+Autism Spectrum Disorders,C1510586,PSMD12,5718,O00232,"proteasome 26S subunit, non-ATPase 12",Enzyme modulator,105,0.578,0.808,0.99984,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,ATP10A,57194,O60312,ATPase phospholipid transporting 10A (putative),Transporter,10,0.792,0.346,0.0018269,0.01,,1,1,0,2008,2008
+Autism Spectrum Disorders,C1510586,SENP7,57337,Q9BQF6,SUMO specific peptidase 7,Enzyme,17,0.821,0.192,0.073339,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,PTGS1,5742,P23219,prostaglandin-endoperoxide synthase 1,Enzyme,318,0.46,0.885,6.2425E-07,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,MIR451A,574411,,microRNA 451a,,177,0.505,0.769,,0.01,,1,1,0,2017,2017
+Autism Spectrum Disorders,C1510586,ERMN,57471,Q8TAM6,ermin,,4,0.861,0.115,0.000011805,0.01,,1,1,0,2016,2016
+Autism Spectrum Disorders,C1510586,TAOK1,57551,Q7L7X3,TAO kinase 1,Kinase,19,0.792,0.269,0.99787,0.01,,1,1,0,2017,2017
+Autism Spectrum Disorders,C1510586,SEMA6A,57556,Q9H2E6,semaphorin 6A,Signaling,211,0.486,0.808,0.99976,0.01,,1,1,0,2017,2017
+Autism Spectrum Disorders,C1510586,VPS18,57617,Q9P253,VPS18 core subunit of CORVET and HOPS complexes,Transporter,5,0.861,0.115,0.4761,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,PTPN4,5775,P29074,protein tyrosine phosphatase non-receptor type 4,,54,0.633,0.538,0.99663,0.01,,1,1,0,2012,2012
+Autism Spectrum Disorders,C1510586,PTPRA,5786,P18433,protein tyrosine phosphatase receptor type A,Enzyme,91,0.573,0.654,0.99998,0.01,,1,1,0,2014,2014
+Autism Spectrum Disorders,C1510586,PTPRG,5793,P23470,protein tyrosine phosphatase receptor type G,Enzyme,70,0.619,0.731,5.0736E-06,0.01,,1,1,0,2017,2017
+Autism Spectrum Disorders,C1510586,ZNF462,58499,Q96JM2,zinc finger protein 462,Transcription factor,34,0.711,0.462,1,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,RAB2A,5862,P61019,"RAB2A, member RAS oncogene family",,23,0.722,0.385,0.98913,0.01,,1,1,0,2016,2016
+Autism Spectrum Disorders,C1510586,RANBP1,5902,P43487,RAN binding protein 1,Enzyme modulator,18,0.736,0.615,0.82235,0.01,,1,1,0,2016,2016
+Autism Spectrum Disorders,C1510586,RANGAP1,5905,P46060,Ran GTPase activating protein 1,Enzyme modulator,49,0.617,0.538,0.025531,0.01,,1,1,0,2017,2017
+Autism Spectrum Disorders,C1510586,KDM5A,5927,P29375,lysine demethylase 5A,,69,0.597,0.731,1,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,HRH4,59340,Q9H3N8,histamine receptor H4,G-protein coupled receptor,48,0.659,0.462,5.2213E-08,0.01,,1,1,0,2017,2017
+Autism Spectrum Disorders,C1510586,OPN1LW,5956,P04000,"opsin 1, long wave sensitive",G-protein coupled receptor,197,0.497,0.808,0.97535,0.01,,1,1,0,2016,2016
+Autism Spectrum Disorders,C1510586,REST,5978,Q13127,RE1 silencing transcription factor,Transcription factor,178,0.535,0.808,0.99186,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,RFC1,5981,P35251,replication factor C subunit 1,,144,0.541,0.808,0.97305,0.01,,1,1,0,2016,2016
+Autism Spectrum Disorders,C1510586,RHCE,6006,P18577,Rh blood group CcEe antigens,,44,0.666,0.5,0.0011629,0.01,,1,1,0,2006,2006
+Autism Spectrum Disorders,C1510586,RHD,6007,Q02161,Rh blood group D antigen,,67,0.612,0.654,0.000028534,0.01,,1,1,0,2006,2006
+Autism Spectrum Disorders,C1510586,RIT2,6014,Q99578,Ras like without CAAX 2,Enzyme modulator,46,0.647,0.538,0.00063244,0.01,,1,1,1,2017,2017
+Autism Spectrum Disorders,C1510586,RPS6,6194,P62753,ribosomal protein S6,Nucleic acid binding,117,0.547,0.692,0.9759,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,MIR484,619553,,microRNA 484,,48,0.638,0.577,,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,CLIP1,6249,P30622,CAP-Gly domain containing linker protein 1,Cellular structure,79,0.617,0.654,0.68088,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,S100A1,6271,P23297,S100 calcium binding protein A1,Calcium-binding protein,396,0.421,0.846,0.0060044,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,SORT1,6272,Q99523,sortilin 1,Transporter,111,0.573,0.615,0.99987,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,SAA1,6288,P0DJI8,serum amyloid A1,Transporter,188,0.513,0.808,0.01493,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,SAA2,6289,P0DJI9,serum amyloid A2,Transporter,103,0.568,0.731,2.7019E-06,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,SAFB,6294,Q15424,scaffold attachment factor B,,76,0.592,0.654,1,0.01,,1,1,0,2017,2017
+Autism Spectrum Disorders,C1510586,ACSM3,6296,Q53FZ2,acyl-CoA synthetase medium chain family member 3,Enzyme,69,0.623,0.615,1.441E-14,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,SAT1,6303,P21673,spermidine/spermine N1-acetyltransferase 1,,135,0.539,0.808,0.8706,0.01,,1,1,0,2017,2017
+Autism Spectrum Disorders,C1510586,SCN8A,6334,Q9UQD0,sodium voltage-gated channel alpha subunit 8,Ion channel,302,0.51,0.731,1,0.01,,1,1,0,2017,2017
+Autism Spectrum Disorders,C1510586,SCT,6343,P09683,secretin,,230,0.484,0.846,1.4425E-07,0.01,,1,1,0,2005,2005
+Autism Spectrum Disorders,C1510586,CCL7,6354,P80098,C-C motif chemokine ligand 7,Signaling,124,0.548,0.846,0.00089294,0.01,,1,1,0,2011,2011
+Autism Spectrum Disorders,C1510586,CCL11,6356,P51671,C-C motif chemokine ligand 11,Signaling,250,0.473,0.885,0.010211,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,CCL17,6361,Q92583,C-C motif chemokine ligand 17,Signaling,162,0.518,0.808,0.00013932,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,SDC4,6385,P31431,syndecan 4,Extracellular structure,71,0.603,0.615,0.0041475,0.01,,1,1,0,2020,2020
+Autism Spectrum Disorders,C1510586,CXCL12,6387,P48061,C-X-C motif chemokine ligand 12,,626,0.379,0.846,0.11851,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,ZNF335,63925,Q9H4Z2,zinc finger protein 335,Transcription factor,45,0.711,0.462,6.8885E-07,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,LIN7B,64130,Q9HAP6,"lin-7 homolog B, crumbs cell polarity complex component",Cell-cell junction,4,0.89,0.115,0.85352,0.01,,1,1,0,2015,2015
+Autism Spectrum Disorders,C1510586,SET,6418,Q01105,SET nuclear proto-oncogene,Enzyme modulator,183,0.507,0.808,0.99597,0.01,,1,1,0,2010,2010
+Autism Spectrum Disorders,C1510586,TFB2M,64216,Q9H5Q4,"transcription factor B2, mitochondrial",,7,0.861,0.231,8.7667E-06,0.01,,1,1,1,2018,2018
+Autism Spectrum Disorders,C1510586,TOR3A,64222,Q9H497,torsin family 3 member A,Chaperone,5,0.861,0.231,2.3045E-12,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,NSD1,64324,Q96L73,nuclear receptor binding SET domain protein 1,Epigenetic regulator,247,0.505,0.769,1,0.01,,1,1,0,2007,2007
+Autism Spectrum Disorders,C1510586,GALNT17,64409,Q6IS24,polypeptide N-acetylgalactosaminyltransferase 17,Enzyme,3,0.931,0.115,0.11671,0.01,,1,1,0,2017,2017
+Autism Spectrum Disorders,C1510586,SHBG,6462,P04278,sex hormone binding globulin,,368,0.438,0.808,1.2538E-06,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,P2RY12,64805,Q9H244,purinergic receptor P2Y12,G-protein coupled receptor,153,0.533,0.731,0.0016859,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,BMP1,649,P13497,bone morphogenetic protein 1,,121,0.554,0.769,0.00088564,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,SKIL,6498,P12757,SKI like proto-oncogene,,58,0.621,0.538,0.98512,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,SLC1A2,6506,P43004,solute carrier family 1 member 2,Transporter,208,0.511,0.731,0.71036,0.01,,1,1,0,2010,2010
+Autism Spectrum Disorders,C1510586,RTN4R,65078,Q9BZR6,reticulon 4 receptor,,75,0.595,0.692,0.95882,0.01,,1,1,0,2017,2017
+Autism Spectrum Disorders,C1510586,UPF3B,65109,Q9BZI7,UPF3B regulator of nonsense mediated mRNA decay,,99,0.619,0.615,0.98497,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,SLC2A3,6515,P11169,solute carrier family 2 member 3,Transporter,144,0.534,0.769,0.010333,0.01,,1,1,0,2010,2010
+Autism Spectrum Disorders,C1510586,SLC3A2,6520,P08195,solute carrier family 3 member 2,Transporter,108,0.565,0.731,4.2163E-08,0.01,,1,1,0,2020,2020
+Autism Spectrum Disorders,C1510586,PCDH15,65217,Q96QU1,protocadherin related 15,,94,0.601,0.577,8.0283E-25,0.01,,0,1,0,2016,2016
+Autism Spectrum Disorders,C1510586,SLC6A1,6529,P30531,solute carrier family 6 member 1,Transporter,106,0.592,0.538,0.99993,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,SLC6A2,6530,P23975,solute carrier family 6 member 2,Transporter,238,0.49,0.846,0.081524,0.01,,0,1,0,2014,2014
+Autism Spectrum Disorders,C1510586,LGALS7B,653499,P47929,galectin 7B,,61,0.61,0.731,0.21829,0.01,,1,1,0,2006,2006
+Autism Spectrum Disorders,C1510586,SLC6A8,6535,P48029,solute carrier family 6 member 8,Transporter,274,0.476,0.846,0.99778,0.01,,1,1,0,2007,2007
+Autism Spectrum Disorders,C1510586,SLC12A3,6559,P55017,solute carrier family 12 member 3,Transporter,252,0.493,0.808,3.0324E-32,0.01,,1,1,0,2012,2012
+Autism Spectrum Disorders,C1510586,SLC18A1,6570,P54219,solute carrier family 18 member A1,Transporter,45,0.647,0.462,2.8012E-21,0.01,,1,1,4,2017,2017
+Autism Spectrum Disorders,C1510586,SMARCB1,6598,Q12824,"SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily b, member 1",Nucleic acid binding,448,0.434,0.846,0.9971,0.01,,1,1,0,2014,2014
+Autism Spectrum Disorders,C1510586,SNCB,6620,Q16143,synuclein beta,Transporter,60,0.619,0.577,0.068062,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,SNCG,6623,O76070,synuclein gamma,Transporter,122,0.55,0.615,0.0008475,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,SNRNP70,6625,P08621,small nuclear ribonucleoprotein U1 subunit 70,Nucleic acid binding,67,0.595,0.692,0.99926,0.01,,1,1,0,2008,2008
+Autism Spectrum Disorders,C1510586,SNRPN,6638,P63162;Q9Y675,small nuclear ribonucleoprotein polypeptide N,Nucleic acid binding,183,0.538,0.731,0.043181,0.01,,1,1,0,2016,2016
+Autism Spectrum Disorders,C1510586,SOAT1,6646,P35610,sterol O-acyltransferase 1,Enzyme,389,0.424,0.846,7.3621E-10,0.01,,1,1,0,2017,2017
+Autism Spectrum Disorders,C1510586,SOD3,6649,P08294,superoxide dismutase 3,Enzyme,138,0.531,0.808,0.00072272,0.01,,1,1,0,2014,2014
+Autism Spectrum Disorders,C1510586,SOX3,6658,P41225,SRY-box transcription factor 3,Transcription factor,151,0.535,0.731,0.44948,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,DST,667,Q03001,dystonin,Cellular structure,147,0.552,0.846,1,0.01,,1,1,0,2017,2017
+Autism Spectrum Disorders,C1510586,SPAST,6683,Q9UBP0,spastin,Cellular structure,138,0.579,0.577,0.99939,0.01,,1,1,0,2017,2017
+Autism Spectrum Disorders,C1510586,SPINT1,6692,O43278,"serine peptidase inhibitor, Kunitz type 1",,96,0.57,0.577,0.000010175,0.01,,1,1,0,2017,2017
+Autism Spectrum Disorders,C1510586,SPN,6693,P16150,sialophorin,,101,0.563,0.692,0.014408,0.01,,1,1,0,2017,2017
+Autism Spectrum Disorders,C1510586,BRCA1,672,P38398,BRCA1 DNA repair associated,Enzyme,747,0.367,0.923,9.2157E-29,0.01,,1,1,0,2016,2016
+Autism Spectrum Disorders,C1510586,SRF,6722,P11831,serum response factor,Transcription factor,147,0.534,0.808,0.97545,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,SRY,6736,Q05066,sex determining region Y,Transcription factor,315,0.456,0.808,,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,SSTR4,6754,P31391,somatostatin receptor 4,G-protein coupled receptor,273,0.469,0.846,3.6978E-13,0.01,,1,1,1,2017,2017
+Autism Spectrum Disorders,C1510586,ST14,6768,Q9Y5Y6,suppression of tumorigenicity 14,Enzyme,170,0.514,0.769,0.56042,0.01,,1,1,0,2017,2017
+Autism Spectrum Disorders,C1510586,STAT5A,6776,P42229,signal transducer and activator of transcription 5A,Nucleic acid binding,318,0.445,0.808,0.99994,0.01,,1,1,0,2017,2017
+Autism Spectrum Disorders,C1510586,STAT5B,6777,P51692,signal transducer and activator of transcription 5B,Nucleic acid binding,357,0.442,0.808,0.99988,0.01,,1,1,0,2017,2017
+Autism Spectrum Disorders,C1510586,BRS3,680,P32247,bombesin receptor subtype 3,G-protein coupled receptor,261,0.474,0.846,0.94849,0.01,,1,1,0,2017,2017
+Autism Spectrum Disorders,C1510586,TAL1,6886,P17542,"TAL bHLH transcription factor 1, erythroid differentiation factor",Transcription factor,202,0.505,0.731,0.5659,0.01,,0,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,CNTN2,6900,Q02246,contactin 2,Receptor,99,0.581,0.692,0.0021095,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,TAZ,6901,Q16635,tafazzin,Enzyme,252,0.477,0.808,0.72591,0.01,,1,1,0,2016,2016
+Autism Spectrum Disorders,C1510586,HNF1B,6928,P35680,HNF1 homeobox B,Nucleic acid binding,279,0.473,0.808,0.99976,0.01,,1,1,0,2010,2010
+Autism Spectrum Disorders,C1510586,TCN2,6948,P20062,transcobalamin 2,,104,0.578,0.615,1.0478E-06,0.01,,1,1,1,2018,2018
+Autism Spectrum Disorders,C1510586,BUB1,699,O43683,BUB1 mitotic checkpoint serine/threonine kinase,Kinase,162,0.528,0.731,4.8813E-09,0.01,,1,1,0,2017,2017
+Autism Spectrum Disorders,C1510586,ACTC1,70,P68032,actin alpha cardiac muscle 1,Cellular structure,69,0.61,0.538,0.73668,0.01,,1,1,0,2014,2014
+Autism Spectrum Disorders,C1510586,PRDX2,7001,P32119,peroxiredoxin 2,Enzyme,243,0.474,0.885,0.086513,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,TERF1,7013,P54274,telomeric repeat binding factor 1,,102,0.563,0.692,0.90655,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,TGFB2,7042,P61812,transforming growth factor beta 2,Signaling,389,0.433,0.885,0.99905,0.01,,0,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,TGM2,7052,P21980,transglutaminase 2,Enzyme,315,0.445,0.808,6.8118E-18,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,THAS,7055,,thoracoabdominal syndrome,,120,0.56,0.808,,0.01,,1,1,0,2008,2008
+Autism Spectrum Disorders,C1510586,THBS1,7057,P07996,thrombospondin 1,,480,0.407,0.885,0.99985,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,TSPO,706,P30536,translocator protein,,341,0.444,0.885,0.00027398,0.01,,1,1,0,2017,2017
+Autism Spectrum Disorders,C1510586,THRB,7068,P10828,thyroid hormone receptor beta,Nuclear receptor,142,0.554,0.769,0.99676,0.01,,1,1,0,2017,2017
+Autism Spectrum Disorders,C1510586,TIMP4,7079,Q99727,TIMP metallopeptidase inhibitor 4,Enzyme modulator,108,0.559,0.769,0.00038342,0.01,,0,1,0,2013,2013
+Autism Spectrum Disorders,C1510586,TLR4,7099,O00206,toll like receptor 4,,1174,0.321,0.962,4.6131E-09,0.01,,0,1,0,2017,2017
+Autism Spectrum Disorders,C1510586,TM7SF2,7108,O76062,transmembrane 7 superfamily member 2,Enzyme,217,0.486,0.808,1.366E-07,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,CLDN5,7122,O00501,claudin 5,Cell-cell junction,104,0.559,0.769,0.89512,0.01,,1,1,0,2016,2016
+Autism Spectrum Disorders,C1510586,TNFRSF1A,7132,P19438,TNF receptor superfamily member 1A,,487,0.409,0.923,0.9949,0.01,,1,1,1,2013,2013
+Autism Spectrum Disorders,C1510586,TOP1,7150,P11387,DNA topoisomerase I,Enzyme,143,0.542,0.692,1,0.01,,1,1,0,2013,2013
+Autism Spectrum Disorders,C1510586,TPH1,7166,P17752,tryptophan hydroxylase 1,,127,0.553,0.731,3.1872E-07,0.01,,1,1,0,2011,2011
+Autism Spectrum Disorders,C1510586,CRISP2,7180,P16562,cysteine rich secretory protein 2,Immune response,168,0.512,0.769,1.4437E-12,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,TRH,7200,P20396,thyrotropin releasing hormone,,230,0.519,0.846,0.00089084,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,TRHR,7201,P34981,thyrotropin releasing hormone receptor,G-protein coupled receptor,35,0.695,0.308,0.2711,0.01,,1,1,0,2017,2017
+Autism Spectrum Disorders,C1510586,TRIO,7204,O75962,trio Rho guanine nucleotide exchange factor,Kinase,143,0.556,0.731,1,0.01,,1,1,0,2015,2015
+Autism Spectrum Disorders,C1510586,TRPC5,7224,Q9UL62,transient receptor potential cation channel subfamily C member 5,Ion channel,58,0.653,0.615,0.99973,0.01,,1,1,0,2014,2014
+Autism Spectrum Disorders,C1510586,TRPC6,7225,Q9Y210,transient receptor potential cation channel subfamily C member 6,Ion channel,166,0.514,0.692,3.0274E-07,0.01,,1,1,0,2015,2015
+Autism Spectrum Disorders,C1510586,TRPM2,7226,O94759,transient receptor potential cation channel subfamily M member 2,Ion channel,133,0.546,0.731,8.9633E-44,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,MIR656,724026,,microRNA 656,,15,0.743,0.154,,0.01,,1,1,0,2016,2016
+Autism Spectrum Disorders,C1510586,TSNAX,7257,Q99598,translin associated factor X,,19,0.76,0.192,0.48922,0.01,,1,1,0,2009,2009
+Autism Spectrum Disorders,C1510586,OPN1MW2,728458,P04001;P0DN77;P0DN78,"opsin 1, medium wave sensitive 2",,80,0.601,0.769,0.24464,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,TWIST1,7291,Q15672,twist family bHLH transcription factor 1,Transcription factor,559,0.397,0.846,0.34491,0.01,,1,1,0,2008,2008
+Autism Spectrum Disorders,C1510586,UCP3,7352,P55916,uncoupling protein 3,Transporter,66,0.619,0.577,9.5517E-10,0.01,,1,1,0,2017,2017
+Autism Spectrum Disorders,C1510586,UROD,7389,P06132,uroporphyrinogen decarboxylase,,166,0.521,0.769,1.2563E-08,0.01,,1,1,0,2008,2008
+Autism Spectrum Disorders,C1510586,VCP,7415,P55072,valosin containing protein,,376,0.469,0.923,0.99999,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,VEGFA,7422,P15692,vascular endothelial growth factor A,Signaling,1899,0.266,0.923,0.000024085,0.01,,1,1,0,2017,2017
+Autism Spectrum Disorders,C1510586,VIP,7432,P01282,vasoactive intestinal peptide,Signaling,376,0.437,0.846,0.00041995,0.01,,1,1,0,2013,2013
+Autism Spectrum Disorders,C1510586,WT1,7490,P19544,WT1 transcription factor,Nucleic acid binding,446,0.422,0.808,0.99648,0.01,,1,1,0,2014,2014
+Autism Spectrum Disorders,C1510586,XPO1,7514,O14980,exportin 1,Receptor,178,0.504,0.692,1,0.01,,0,1,1,2011,2011
+Autism Spectrum Disorders,C1510586,XRCC4,7518,Q13426,X-ray repair cross complementing 4,,192,0.528,0.769,8.2774E-07,0.01,,1,1,0,2016,2016
+Autism Spectrum Disorders,C1510586,YWHAE,7531,P62258,tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein epsilon,Chaperone,176,0.53,0.692,0.98479,0.01,,1,1,0,2012,2012
+Autism Spectrum Disorders,C1510586,ZIC2,7546,O95409,Zic family member 2,Transcription factor,125,0.556,0.769,0.97362,0.01,,1,1,0,2017,2017
+Autism Spectrum Disorders,C1510586,CACNA1A,773,O00555,calcium voltage-gated channel subunit alpha1 A,Ion channel,320,0.489,0.769,1,0.01,,1,1,0,2015,2015
+Autism Spectrum Disorders,C1510586,CACNA1B,774,Q00975,calcium voltage-gated channel subunit alpha1 B,Ion channel,79,0.65,0.577,0.99998,0.01,,1,1,0,2010,2010
+Autism Spectrum Disorders,C1510586,CACNB2,783,Q08289,calcium voltage-gated channel auxiliary subunit beta 2,Ion channel,56,0.659,0.538,2.6719E-06,0.01,,1,1,0,2014,2014
+Autism Spectrum Disorders,C1510586,SEMA3B,7869,Q13214,semaphorin 3B,Signaling,57,0.633,0.615,,0.01,,1,1,0,2017,2017
+Autism Spectrum Disorders,C1510586,CAD,790,P27708,"carbamoyl-phosphate synthetase 2, aspartate transcarbamylase, and dihydroorotase",Enzyme,249,0.482,0.846,0.99993,0.01,,1,1,0,2017,2017
+Autism Spectrum Disorders,C1510586,GGCT,79017,O75223,gamma-glutamylcyclotransferase,,108,0.552,0.808,0.000143,0.01,,1,1,0,2014,2014
+Autism Spectrum Disorders,C1510586,MBOAT7,79143,Q96N66,membrane bound O-acyltransferase domain containing 7,Enzyme,83,0.612,0.5,0.113,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,FA2H,79152,Q7L5A8,fatty acid 2-hydroxylase,Enzyme,131,0.573,0.654,0.14678,0.01,,0,1,0,2013,2013
+Autism Spectrum Disorders,C1510586,CALB2,794,P22676,calbindin 2,Calcium-binding protein,124,0.545,0.692,4.5423E-07,0.01,,1,1,0,2017,2017
+Autism Spectrum Disorders,C1510586,SLC52A2,79581,Q9HAB3,solute carrier family 52 member 2,Transporter,261,0.483,0.808,0.0024777,0.01,,1,1,0,2017,2017
+Autism Spectrum Disorders,C1510586,CARS2,79587,Q9HA77,"cysteinyl-tRNA synthetase 2, mitochondrial",Enzyme,49,0.7,0.423,9.5929E-08,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,AIMP2,7965,Q13155,aminoacyl tRNA synthetase complex interacting multifunctional protein 2,,555,0.393,0.923,0.008024,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,MSANTD2,79684,Q6P1R3,Myb/SANT DNA binding domain containing 2,,2,1,0.038,0.90277,0.01,,1,1,0,2017,2017
+Autism Spectrum Disorders,C1510586,FBXO31,79791,Q5XUX0,F-box protein 31,,66,0.653,0.423,0.44439,0.01,,1,1,0,2013,2013
+Autism Spectrum Disorders,C1510586,RBFA,79863,Q8N0V3,ribosome binding factor A,,1,1,0.038,0.000095095,0.01,,1,1,0,2014,2014
+Autism Spectrum Disorders,C1510586,RABEP2,79874,Q9H5N1,"rabaptin, RAB GTPase binding effector protein 2",,36,0.682,0.654,0.0011388,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,CNTNAP3,79937,Q9BZ76,contactin associated protein family member 3,,5,0.861,0.192,1.7092E-11,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,NAA15,80155,Q9BXJ9,"N-alpha-acetyltransferase 15, NatA auxiliary subunit",Enzyme,43,0.7,0.423,0.99578,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,FUZ,80199,Q9BT04,fuzzy planar cell polarity protein,,75,0.597,0.731,0.000012613,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,STAM,8027,Q92783,signal transducing adaptor molecule,,20,0.736,0.269,0.85048,0.01,,1,1,0,2017,2017
+Autism Spectrum Disorders,C1510586,CPEB4,80315,Q17RY0,cytoplasmic polyadenylation element binding protein 4,Nucleic acid binding,70,0.621,0.462,0.98555,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,PPP1R2C,80316,O14990,PPP1R2C family member C,Enzyme modulator,231,0.478,0.846,,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,FOSL1,8061,P15407,"FOS like 1, AP-1 transcription factor subunit",Transcription factor,150,0.519,0.846,0.15849,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,ASXL3,80816,Q9C0F0,ASXL transcriptional regulator 3,,149,0.59,0.577,1,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,ACTN4,81,O43707,actinin alpha 4,,166,0.508,0.808,1,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,GAN,8139,Q9H2C0,gigaxonin,,71,0.674,0.5,0.024842,0.01,,1,1,0,2012,2012
+Autism Spectrum Disorders,C1510586,SLC38A1,81539,Q9H2H9,solute carrier family 38 member 1,Transporter,64,0.615,0.769,0.93067,0.01,,1,1,0,2017,2017
+Autism Spectrum Disorders,C1510586,PLA2G12A,81579,Q9BZM1,phospholipase A2 group XIIA,,9,0.805,0.192,0.00037886,0.01,,1,1,0,2016,2016
+Autism Spectrum Disorders,C1510586,MAP1LC3B,81631,Q9GZQ8,microtubule associated protein 1 light chain 3 beta,Cellular structure,167,0.506,0.846,0.0019065,0.01,,1,1,0,2013,2013
+Autism Spectrum Disorders,C1510586,MIA,8190,Q16674,MIA SH3 domain containing,,130,0.537,0.769,0.000017345,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,NRIP1,8204,P48552,nuclear receptor interacting protein 1,,88,0.592,0.654,0.99394,0.01,,1,1,0,2017,2017
+Autism Spectrum Disorders,C1510586,DGCR6,8214,Q14129,DiGeorge syndrome critical region gene 6,,38,0.695,0.5,9.8176E-12,0.01,,1,1,0,2016,2016
+Autism Spectrum Disorders,C1510586,CAPG,822,P40121,"capping actin protein, gelsolin like",Cellular structure,111,0.548,0.731,9.357E-14,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,TMEM187,8269,Q14656,transmembrane protein 187,,8,0.839,0.231,0.015717,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,CASP1,834,P29466,caspase 1,Enzyme,444,0.413,0.885,0.000035183,0.01,,1,1,0,2012,2012
+Autism Spectrum Disorders,C1510586,KATNAL2,83473,Q8IYT4,katanin catalytic subunit A1 like 2,Cellular structure,7,0.89,0.038,1.1784E-06,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,ARHGAP24,83478,Q8N264,Rho GTPase activating protein 24,,273,0.456,0.808,3.9495E-10,0.01,,1,1,0,2013,2013
+Autism Spectrum Disorders,C1510586,TTC25,83538,Q96NG3,tetratricopeptide repeat domain 25,,44,0.674,0.538,,0.01,,1,1,0,2017,2017
+Autism Spectrum Disorders,C1510586,KLF16,83855,Q9BXK1,Kruppel like factor 16,Nucleic acid binding,18,0.792,0.154,0.19517,0.01,,1,1,0,2017,2017
+Autism Spectrum Disorders,C1510586,CASP7,840,P55210,caspase 7,Enzyme,83,0.581,0.654,0.000053589,0.01,,1,1,0,2017,2017
+Autism Spectrum Disorders,C1510586,PPP1R1B,84152,Q9UD71,protein phosphatase 1 regulatory inhibitor subunit 1B,Enzyme modulator,82,0.617,0.5,0.24098,0.01,,1,1,0,2012,2012
+Autism Spectrum Disorders,C1510586,SLF1,84250,Q9BQI6,SMC5-SMC6 complex localization factor 1,,2,1,0.038,5.8495E-10,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,SYVN1,84447,Q86TM6,synoviolin 1,,79,0.599,0.731,0.9997,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,CUL3,8452,Q13618,cullin 3,,83,0.592,0.654,0.9996,0.01,,1,1,0,2020,2020
+Autism Spectrum Disorders,C1510586,SRRM4,84530,A7MD48,serine/arginine repetitive matrix 4,,23,0.736,0.231,0.46456,0.01,,1,1,0,2014,2014
+Autism Spectrum Disorders,C1510586,TMEM185A,84548,Q8NFB2,transmembrane protein 185A,,7,0.839,0.192,0.016569,0.01,,1,1,0,1996,1996
+Autism Spectrum Disorders,C1510586,FOXN1,8456,O15353,forkhead box N1,,60,0.615,0.654,0.94214,0.01,,1,1,0,2015,2015
+Autism Spectrum Disorders,C1510586,SPZ1,84654,Q9BXG8,spermatogenic leucine zipper 1,,173,0.507,0.769,,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,HAVCR2,84868,Q8TDQ0,hepatitis A virus cellular receptor 2,,299,0.45,0.808,0.03866,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,SLC7A3,84889,Q8WY07,solute carrier family 7 member 3,Transporter,9,0.821,0.154,0.99614,0.01,,1,1,0,2015,2015
+Autism Spectrum Disorders,C1510586,CNTNAP4,85445,Q9C0A0,contactin associated protein family member 4,,11,0.839,0.192,7.7552E-07,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,MKNK1,8569,Q9BUB5,MAPK interacting serine/threonine kinase 1,Kinase,73,0.606,0.808,8.0483E-10,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,PLA2G4C,8605,Q9UP65,phospholipase A2 group IVC,Enzyme,24,0.705,0.385,1.6781E-13,0.01,,1,1,1,2016,2016
+Autism Spectrum Disorders,C1510586,STX16,8675,O14662,syntaxin 16,Transporter,58,0.656,0.538,0.48261,0.01,,1,1,0,2016,2016
+Autism Spectrum Disorders,C1510586,MPDZ,8777,O75970,multiple PDZ domain crumbs cell polarity complex component,,71,0.638,0.5,5.8009E-38,0.01,,1,1,0,2015,2015
+Autism Spectrum Disorders,C1510586,NR1I2,8856,O75469,nuclear receptor subfamily 1 group I member 2,Nuclear receptor,462,0.418,0.846,7.2668E-09,0.01,,1,1,0,2017,2017
+Autism Spectrum Disorders,C1510586,ARHGEF7,8874,Q14155,Rho guanine nucleotide exchange factor 7,,215,0.486,0.846,0.99995,0.01,,0,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,CACNA1G,8913,O43497,calcium voltage-gated channel subunit alpha1 G,Ion channel,111,0.59,0.577,1,0.01,,1,1,0,2010,2010
+Autism Spectrum Disorders,C1510586,HERC2,8924,O95714,HECT and RLD domain containing E3 ubiquitin protein ligase 2,,143,0.568,0.692,1,0.01,,1,1,0,2012,2012
+Autism Spectrum Disorders,C1510586,HERC1,8925,Q15751,HECT and RLD domain containing E3 ubiquitin protein ligase family member 1,Enzyme modulator,57,0.674,0.5,1,0.01,,1,1,0,2016,2016
+Autism Spectrum Disorders,C1510586,WASF1,8936,Q92558,WASP family member 1,Cellular structure,132,0.547,0.808,0.99757,0.01,,1,1,0,2017,2017
+Autism Spectrum Disorders,C1510586,ARTN,9048,Q5T4W7,artemin,Signaling,248,0.48,0.846,0.35793,0.01,,1,1,0,2014,2014
+Autism Spectrum Disorders,C1510586,CLDN12,9069,P56749,claudin 12,,19,0.736,0.308,0.048525,0.01,,1,1,0,2016,2016
+Autism Spectrum Disorders,C1510586,AIFM1,9131,O95831,apoptosis inducing factor mitochondria associated 1,Enzyme,205,0.527,0.769,0.99795,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,UBXN11,91544,Q5T124,UBX domain protein 11,,41,0.659,0.538,1.3973E-13,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,LPAR2,9170,Q9HBW0,lysophosphatidic acid receptor 2,G-protein coupled receptor,285,0.463,0.846,0.036658,0.01,,1,1,0,2017,2017
+Autism Spectrum Disorders,C1510586,SLC16A7,9194,O60669,solute carrier family 16 member 7,Transporter,39,0.682,0.538,0.0058162,0.01,,1,1,0,2013,2013
+Autism Spectrum Disorders,C1510586,SLC33A1,9197,O00400,solute carrier family 33 member 1,Transporter,170,0.529,0.769,0.000098902,0.01,,1,1,0,2016,2016
+Autism Spectrum Disorders,C1510586,MSC,9242,O60682,musculin,,241,0.475,0.846,0.024651,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,CER1,9350,O95813,"cerberus 1, DAN family BMP antagonist",,11,0.792,0.269,0.000016674,0.01,,1,1,0,2017,2017
+Autism Spectrum Disorders,C1510586,COX5A,9377,P20674,cytochrome c oxidase subunit 5A,Enzyme,171,0.515,0.846,0.49407,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,GRAP2,9402,O75791,GRB2 related adaptor protein 2,,538,0.394,0.923,0.00015256,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,SYTL4,94121,Q96C24,synaptotagmin like 4,,6,0.861,0.115,0.014122,0.01,,1,1,1,2019,2019
+Autism Spectrum Disorders,C1510586,FADS2,9415,O95864,fatty acid desaturase 2,,140,0.575,0.692,0.99815,0.01,,1,1,1,2018,2018
+Autism Spectrum Disorders,C1510586,AIM2,9447,O14862,absent in melanoma 2,,167,0.521,0.769,2.1942E-09,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,PTGES,9536,O14684,prostaglandin E synthase,,150,0.54,0.769,0.71317,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,CD40,958,P25942,CD40 molecule,,528,0.396,0.846,0.84603,0.01,,0,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,NCOR1,9611,O75376,nuclear receptor corepressor 1,Transcription factor,94,0.597,0.731,1,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,IQCB1,9657,Q15051,IQ motif containing B1,,69,0.641,0.654,1.3581E-12,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,DEPDC5,9681,O75140,"DEP domain containing 5, GATOR1 subcomplex subunit",Nucleic acid binding,59,0.631,0.538,0.1165,0.01,,1,1,0,2017,2017
+Autism Spectrum Disorders,C1510586,NOS1AP,9722,O75052,nitric oxide synthase 1 adaptor protein,Signaling,85,0.608,0.423,0.61424,0.01,,1,1,2,2010,2010
+Autism Spectrum Disorders,C1510586,CD79A,973,P11912,CD79a molecule,Receptor,134,0.536,0.731,0.69226,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,DOCK4,9732,Q8N1I0,dedicator of cytokinesis 4,,39,0.666,0.423,0.82562,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,HDAC4,9759,P56524,histone deacetylase 4,Epigenetic regulator,256,0.484,0.885,1,0.01,,0,1,0,2016,2016
+Autism Spectrum Disorders,C1510586,BMS1,9790,Q14692,BMS1 ribosome biogenesis factor,,192,0.499,0.846,0.0001753,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,KIAA0319,9856,Q5VV43,KIAA0319,,24,0.729,0.385,3.3234E-20,0.01,,1,1,0,2016,2016
+Autism Spectrum Disorders,C1510586,SETDB1,9869,Q15047,SET domain bifurcated histone lysine methyltransferase 1,,56,0.631,0.654,1,0.01,,1,1,0,2016,2016
+Autism Spectrum Disorders,C1510586,TLK1,9874,Q9UKI8,tousled like kinase 1,Kinase,53,0.641,0.577,0.99999,0.01,,1,1,0,2019,2019
+Autism Spectrum Disorders,C1510586,NUAK1,9891,O60285,NUAK family kinase 1,Kinase,61,0.621,0.577,0.098693,0.01,,1,1,0,2018,2018
+Autism Spectrum Disorders,C1510586,ARNT2,9915,Q9HBZ2,aryl hydrocarbon receptor nuclear translocator 2,Transcription factor,89,0.599,0.731,0.99142,0.01,,1,1,0,2014,2014
