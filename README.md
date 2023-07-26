@@ -47,6 +47,8 @@ We used the PyTorch package to train AE models: https://pytorch.org/. The seven-
 GTEx whole genome sequencing data: https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs000424.v9.p2  
 BSLMM model used to train the genotype-expression model: https://github.com/genetics-statistics/GEMMA
 
+`python ./code/Generate_BSLMM_fam.py` `python ./code/Bslmm_Sbatch.py`
+
 **3-2:** Associates the predicted gene expressions to the traits in the target GWAS dataset  
 Three GWAS dataset used:  
 WTCCC dataset: https://www.wtccc.org.uk/  
@@ -54,6 +56,8 @@ MSSNG database: https://research.mss.ng/
 Schizophrenia dataset: https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs000473.v2.p2
 
 Elastic net model used to perform gene-trait association: https://github.com/hakyimlab/MetaXcan
+
+`python ./code/Bslmm_2_predixcan_pheno.py` `python ./code/Predixcan_Asso.py`
 
 ## Post analysis
 ### Calculation of expression heritability
