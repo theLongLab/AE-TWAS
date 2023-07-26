@@ -17,8 +17,8 @@ We used the PyTorch package to train AE models: https://pytorch.org/. The seven-
 
 **Step3:** Use the transformed transcriptome $Z'$ to carry out TWAS. It employs the BSLMM to train the genotype-expression model in the reference dataset and then associates the predicted gene expressions to the traits in the target GWAS dataset. 
 
-**3-1:** Use BSLMM to train the genotype-expression model in the reference dataset: 
-GTEx whole genome sequencing data: https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs000424.v9.p2 
+**3-1:** Use BSLMM to train the genotype-expression model in the reference dataset:  
+GTEx whole genome sequencing data: https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs000424.v9.p2  
 BSLMM model used to train the genotype-expression model: https://github.com/genetics-statistics/GEMMA
 
 **3-2:** Associates the predicted gene expressions to the traits in the target GWAS dataset  
@@ -30,9 +30,26 @@ Schizophrenia dataset: https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.c
 Elastic net model used to perform gene-trait association: https://github.com/hakyimlab/MetaXcan
 
 ## Post analysis
+### Calculation of expression heritability
+GCTA is used to calculate gene expression heritability: https://yanglab.westlake.edu.cn/software/gcta/#Overview  
+`Rscript ./code/post1.R`
+
+### Calculation of gene pairs’ correlation and gene’s connectivity 
+`Rscript ./code/post2.R`
+
+### Functional verification of discovered genes
+DisGeNET repository used to perform functional gene-disease analysis: https://www.disgenet.org/
+`Rscript ./code/post3.R`
+
+### Figures
+`Rscript ./code/figures.R`
 
 ## Contacts
+Jiayi Bian: jiayi.bian@ucalgary.ca  
+Qing Li: qing.li2@ucalgary.ca  
+Quan Long: quan.long@ucalgary.ca
 
 ## Copyright License (MIT Open Source)
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
-
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
