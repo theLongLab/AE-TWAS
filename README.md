@@ -11,6 +11,24 @@ We chose whole-blood gene expression data with 670 subjects as transcriptome and
 
 WGCNA is an R package consisting of a comprehensive collection of R functions for performing various aspects of weighted correlation network analysis. Users need to first install R and R studio, and then install the WGCNA package (https://cran.r-project.org/web/packages/WGCNA/WGCNA.pdf). We followed a step-by-step protocol for network construction and module detection. The power $\beta$ in adjacency matrix was set as 16, which was the lowest at which the scale-free topology fit index reached 0.8.
 
+**Step2:** Apply a seven-layer conventional AE to the genes within each module clustered by WGCNA. 
+
+We used the PyTorch package to train AE models: https://pytorch.org/. The seven-layer conventional AE consists of one input layer, one output layer, and five hidden layers. Within each module, let $Z$ represents the original input and $Z'$  is the reconstructed output. We refer $Z'$ as the AE-transformed transcriptome. Let $q$ be the number of nodes in the input and output layers, then the number of nodes in each of the five hidden layers are $q/2$, $q/4$, $q/8$, $q/4$, and $q/2$ respectively. 
+
+**Step3:** Use the transformed transcriptome $Z'$ to carry out TWAS. It employs the BSLMM to train the genotype-expression model in the reference dataset and then associates the predicted gene expressions to the traits in the target GWAS dataset. 
+
+**3-1:** Use BSLMM to train the genotype-expression model in the reference dataset: 
+GTEx whole genome sequencing data: https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs000424.v9.p2 
+BSLMM model used to train the genotype-expression model: https://github.com/genetics-statistics/GEMMA
+
+**3-2:** Associates the predicted gene expressions to the traits in the target GWAS dataset  
+Three GWAS dataset used:  
+WTCCC dataset: https://www.wtccc.org.uk/  
+MSSNG database: https://research.mss.ng/  
+Schizophrenia dataset: https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs000473.v2.p2
+
+Elastic net model used to perform gene-trait association: https://github.com/hakyimlab/MetaXcan
+
 ## Post analysis
 
 ## Contacts
