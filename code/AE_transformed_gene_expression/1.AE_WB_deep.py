@@ -22,7 +22,7 @@ date = datetime.now().date().strftime("%Y-%m-%d")
 
 ##Step 2: load data
 M = sys.argv[1]
-wk = "PathToDict/"
+wk = "/work/long_lab/qli/WGCNA/GTEX/12K_TPM1_1-22/Trial3a_20201220/"
 pheno_df = pd.read_csv(wk+"module_train_genes"+M+".csv",sep=",") ##wgcta split 
 pheno_df2 = pd.read_csv(wk+"module_test_genes"+M+".csv",sep=",")
 pheno_train = pheno_df.iloc[:,1:].to_numpy()
@@ -55,9 +55,10 @@ pheno_test_set_loader = DataLoader(pheno_test_set,batch_size=test_batch_size,shu
 ##Step 4: define model
 input_features=pheno_train_norm.shape[1]
 output_features=input_features
-h1 = int(input_features/2)
-h2 = int(input_features/4)
-h3 = int(input_features/8)
+h1 = int(1000)
+h2 = int(500)
+h3 = int(250)
+h4 = int(100)
 class Auto_Pheno_shallow(nn.Module):
     def __init__(self):
         super(Auto_Pheno_shallow,self).__init__() 
@@ -68,10 +69,14 @@ class Auto_Pheno_shallow(nn.Module):
             nn.Linear(h1, h2),
             nn.Sigmoid(),
             nn.Linear(h2, h3),
+            nn.Sigmoid(),
+            nn.Linear(h3, h4),
             nn.Sigmoid()
         )
         #def the decoder function
         self.decoder = nn.Sequential(
+            nn.Linear(h4, h3),
+            nn.Sigmoid(),
             nn.Linear(h3, h2),
             nn.Sigmoid(),
             nn.Linear(h2,h1),
@@ -107,7 +112,7 @@ for epoch in range(num_epochs):
         model.train()
         output_pheno_train = np.zeros_like(pheno_train_norm)
         input_pheno_train = np.zeros_like(pheno_train_norm)
-        coder2 = np.zeros([pheno_train.shape[0],h3])
+        coder2 = np.zeros([pheno_train.shape[0],h4])
         for batch_count, pheno_data in enumerate(pheno_train_set_loader):
             train_pheno = Variable(pheno_data).float().cuda() # put train_pheno into GPU
             #=================forward==============
@@ -141,7 +146,7 @@ for epoch in range(num_epochs):
         model.eval()
         output_pheno_test = np.zeros_like(pheno_test_norm)
         input_pheno_test = pheno_test_norm
-        coder2 = np.zeros([pheno_test.shape[0],h3])
+        coder2 = np.zeros([pheno_test.shape[0],h4])
         for batch_count, pheno_data in enumerate(pheno_test_set_loader):
             test_pheno = Variable(pheno_data).float().cuda() # put test_pheno into GPU
             #=================forward==============
@@ -168,4 +173,4 @@ for epoch in range(num_epochs):
 train_test_log.close()
 
 ##Step 6: save model
-torch.save(model.state_dict(), wk+M)
+torch.save(model.state_dict(), wk+M+".L7.pth")
